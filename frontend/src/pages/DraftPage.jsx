@@ -48,7 +48,7 @@ const DraftPage = () => {
     .filter(p => !!p).length;
 
   return (
-    <div style={{ ...styles.draftWorkspace, gridTemplateColumns: '1.3fr 1.1fr' }} className="animate-fade-in">
+    <div style={{ ...styles.draftWorkspace, gridTemplateColumns: '1.3fr 1.1fr' }} className="draft-workspace animate-fade-in">
       {/* Left Panel: Player Selector */}
       <div style={styles.selectorSection}>
         <PlayerSelector
@@ -88,7 +88,7 @@ const DraftPage = () => {
         {isStartingXIComplete() ? (
           <div style={localStyles.benchSection} className="glass-panel animate-fade-in">
             <h4 style={localStyles.benchTitle}>Substitutes Bench ({subsCount}/7 drafted)</h4>
-            <div style={localStyles.benchSlotsRow}>
+            <div style={localStyles.benchSlotsRow} className="bench-slots-row">
               {['sub1', 'sub2', 'sub3', 'sub4', 'sub5', 'sub6', 'sub7'].map((subId, idx) => {
                 const player = draftedSquad[subId];
                 const isActive = activeSlotId === subId;

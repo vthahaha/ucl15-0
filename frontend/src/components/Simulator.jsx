@@ -1,73 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Play, Trophy, Medal, ArrowRight, Table, Users, Clock, Activity, BarChart2, Calendar, Star, Info } from 'lucide-react';
 
-const STANDARD_PLACEHOLDERS = [
-  { id: 9901, name: 'Arsenal', logo_url: 'https://media.api-sports.io/football/teams/42.png', rating: 85 },
-  { id: 9902, name: 'Paris Saint Germain', logo_url: 'https://media.api-sports.io/football/teams/85.png', rating: 86 },
-  { id: 9903, name: 'Inter Milan', logo_url: 'https://media.api-sports.io/football/teams/505.png', rating: 85 },
-  { id: 9904, name: 'Atletico Madrid', logo_url: 'https://media.api-sports.io/football/teams/530.png', rating: 84 },
-  { id: 9905, name: 'Barcelona', logo_url: 'https://media.api-sports.io/football/teams/529.png', rating: 86 },
-  { id: 9906, name: 'Real Madrid', logo_url: 'https://media.api-sports.io/football/teams/541.png', rating: 88 },
-  { id: 9907, name: 'Manchester City', logo_url: 'https://media.api-sports.io/football/teams/50.png', rating: 89 },
-  { id: 9908, name: 'Bayern Munich', logo_url: 'https://media.api-sports.io/football/teams/157.png', rating: 87 },
-  { id: 9909, name: 'Borussia Dortmund', logo_url: 'https://media.api-sports.io/football/teams/165.png', rating: 83 },
-  { id: 9910, name: 'Bayer Leverkusen', logo_url: 'https://media.api-sports.io/football/teams/168.png', rating: 84 },
-  { id: 9911, name: 'Juventus', logo_url: 'https://media.api-sports.io/football/teams/496.png', rating: 84 },
-  { id: 9912, name: 'AC Milan', logo_url: 'https://media.api-sports.io/football/teams/489.png', rating: 83 },
-  { id: 9913, name: 'Aston Villa', logo_url: 'https://media.api-sports.io/football/teams/66.png', rating: 81 },
-  { id: 9914, name: 'Liverpool', logo_url: 'https://media.api-sports.io/football/teams/40.png', rating: 87 },
-  { id: 9915, name: 'Sporting CP', logo_url: 'https://media.api-sports.io/football/teams/228.png', rating: 82 },
-  { id: 9916, name: 'Benfica', logo_url: 'https://media.api-sports.io/football/teams/211.png', rating: 81 },
-  { id: 9917, name: 'Feyenoord', logo_url: 'https://media.api-sports.io/football/teams/209.png', rating: 80 },
-  { id: 9918, name: 'PSV Eindhoven', logo_url: 'https://media.api-sports.io/football/teams/197.png', rating: 80 },
-  { id: 9919, name: 'Atalanta', logo_url: 'https://media.api-sports.io/football/teams/499.png', rating: 82 },
-  { id: 9920, name: 'Lille', logo_url: 'https://media.api-sports.io/football/teams/79.png', rating: 79 },
-  { id: 9921, name: 'Monaco', logo_url: 'https://media.api-sports.io/football/teams/91.png', rating: 80 },
-  { id: 9922, name: 'Sturm Graz', logo_url: 'https://media.api-sports.io/football/teams/637.png', rating: 76 },
-  { id: 9923, name: 'Brest', logo_url: 'https://media.api-sports.io/football/teams/106.png', rating: 77 },
-  { id: 9924, name: 'Celtic', logo_url: 'https://media.api-sports.io/football/teams/247.png', rating: 78 },
-  { id: 9925, name: 'Club Brugge', logo_url: 'https://media.api-sports.io/football/teams/569.png', rating: 78 },
-  { id: 9926, name: 'Girona', logo_url: 'https://media.api-sports.io/football/teams/547.png', rating: 79 },
-  { id: 9927, name: 'Bologna', logo_url: 'https://media.api-sports.io/football/teams/500.png', rating: 78 },
-  { id: 9928, name: 'RB Leipzig', logo_url: 'https://media.api-sports.io/football/teams/173.png', rating: 82 },
-  { id: 9929, name: 'Shakhtar Donetsk', logo_url: 'https://media.api-sports.io/football/teams/550.png', rating: 77 },
-  { id: 9930, name: 'Dinamo Zagreb', logo_url: 'https://media.api-sports.io/football/teams/620.png', rating: 76 },
-  { id: 9931, name: 'Young Boys', logo_url: 'https://media.api-sports.io/football/teams/565.png', rating: 76 },
-  { id: 9932, name: 'Slovan Bratislava', logo_url: 'https://media.api-sports.io/football/teams/656.png', rating: 74 },
-  { id: 9933, name: 'Sparta Praha', logo_url: 'https://media.api-sports.io/football/teams/628.png', rating: 75 },
-  { id: 9934, name: 'Red Bull Salzburg', logo_url: 'https://media.api-sports.io/football/teams/571.png', rating: 77 },
-  { id: 9935, name: 'Crvena Zvezda', logo_url: 'https://media.api-sports.io/football/teams/598.png', rating: 75 },
-];
-
-const FAMOUS_PLAYERS_BY_CLUB = {
-  'Real Madrid': ['Raúl', 'Zinedine Zidane', 'Ronaldo Nazário', 'Luís Figo', 'Roberto Carlos', 'Iker Casillas', 'David Beckham', 'Guti', 'Fernando Morientes', 'Ivan Helguera', 'Claude Makélélé'],
-  'Barcelona': ['Ronaldinho', 'Lionel Messi', 'Samuel Eto\'o', 'Deco', 'Xavi', 'Andrés Iniesta', 'Carles Puyol', 'Víctor Valdés', 'Ludovic Giuly', 'Rafael Márquez', 'Giovanni van Bronckhorst'],
-  'Manchester United': ['Ruud van Nistelrooy', 'Cristiano Ronaldo', 'Wayne Rooney', 'Ryan Giggs', 'Paul Scholes', 'Roy Keane', 'Rio Ferdinand', 'Gary Neville', 'Edwin van der Sar', 'John O\'Shea', 'Wes Brown'],
-  'AC Milan': ['Kaká', 'Andriy Shevchenko', 'Hernán Crespo', 'Clarence Seedorf', 'Andrea Pirlo', 'Gennaro Gattuso', 'Paolo Maldini', 'Alessandro Nesta', 'Cafu', 'Dida', 'Filippo Inzaghi'],
-  'Arsenal': ['Thierry Henry', 'Dennis Bergkamp', 'Robert Pires', 'Patrick Vieira', 'Gilberto Silva', 'Fredrik Ljungberg', 'Sol Campbell', 'Kolo Touré', 'Ashley Cole', 'Jens Lehmann', 'Lauren'],
-  'Chelsea': ['Didier Drogba', 'Frank Lampard', 'Arjen Robben', 'Damien Duff', 'Claude Makélélé', 'Tiago', 'John Terry', 'Ricardo Carvalho', 'William Gallas', 'Petr Cech', 'Paulo Ferreira'],
-  'Bayern Munich': ['Roy Makaay', 'Michael Ballack', 'Zé Roberto', 'Sebastian Deisler', 'Owen Hargreaves', 'Torsten Frings', 'Lúcio', 'Willy Sagnol', 'Bixente Lizarazu', 'Oliver Kahn', 'Claudio Pizarro'],
-  'Liverpool': ['Steven Gerrard', 'Xabi Alonso', 'Luis García', 'Milan Baroš', 'Harry Kewell', 'John Arne Riise', 'Jamie Carragher', 'Sami Hyypiä', 'Steve Finnan', 'Jerzy Dudek', 'Dietmar Hamann'],
-  'Inter Milan': ['Adriano', 'Christian Vieri', 'Juan Sebastián Verón', 'Esteban Cambiasso', 'Dejan Stanković', 'Javier Zanetti', 'Iván Córdoba', 'Marco Materazzi', 'Giuseppe Favalli', 'Francesco Toldo'],
-  'Juventus': ['Alessandro Del Piero', 'Zlatan Ibrahimović', 'Pavel Nedvěd', 'Mauro Camoranesi', 'Emerson', 'Gianluca Zambrotta', 'Lilian Thuram', 'Fabio Cannavaro', 'Jonathan Zebina', 'Gianluigi Buffon'],
-  'Paris Saint Germain': ['Pauleta', 'Ronaldinho', 'Jay-Jay Okocha', 'Nicolas Anelka', 'Mikel Arteta', 'Mauricio Pochettino', 'Gabriel Heinze', 'Bernard Mendy', 'Lionel Letizi', 'Jérôme Rothen'],
-  'Borussia Dortmund': ['Jan Koller', 'Tomáš Rosický', 'Ewerthon', 'Dedê', 'Sebastian Kehl', 'Christian Wörns', 'Jens Lehmann', 'Lars Ricken', 'Stefan Reuter', 'Roman Weidenfeller'],
-  'FC Porto': ['Derlei', 'Maniche', 'Deco', 'Costinha', 'Benni McCarthy', 'Nuno Valente', 'Ricardo Carvalho', 'Paulo Ferreira', 'Vítor Baía', 'José Bosingwa'],
-  'Atletico Madrid': ['Fernando Torres', 'Leo Franco', 'Maxi Rodríguez', 'Mateja Kežman', 'Ariel Ibagaza', 'Luis Perea', 'Pablo Ibáñez', 'Antonio López', 'Martin Petrov'],
-  'Aston Villa': ['Emiliano Martínez', 'Ollie Watkins', 'Leon Bailey', 'John McGinn', 'Ezri Konsa', 'Youri Tielemans', 'Lucas Digne', 'Amadou Onana', 'Pau Torres', 'Matty Cash'],
-  'Bayer Leverkusen': ['Dimitar Berbatov', 'Andriy Voronin', 'Jens Nowotny', 'Carsten Ramelow', 'Bernd Schneider', 'Jacek Krzynówek', 'Paul Freier', 'Hans-Jörg Butt'],
-};
-
 const generateFallbackSquad = (teamName) => {
-  const key = Object.keys(FAMOUS_PLAYERS_BY_CLUB).find(k => teamName.toLowerCase().includes(k.toLowerCase()));
-  if (key) {
-    return FAMOUS_PLAYERS_BY_CLUB[key].map(name => ({
-      name,
-      rating: 82,
-      generic_position: Math.random() > 0.4 ? 'MID' : (Math.random() > 0.5 ? 'FWD' : 'DEF')
-    }));
-  }
-  
   // Return a fallback squad composed of real historical UEFA Champions League players
   const fallbackLegends = [
     { name: 'Jerzy Dudek', rating: 80, generic_position: 'GK' },
@@ -178,6 +112,22 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   const [swissRoundSimulated, setSwissRoundSimulated] = useState(false);
   const [knockoutSimulated, setKnockoutSimulated] = useState(false);
   const [knockoutBracket, setKnockoutBracket] = useState(null);
+  const [knockoutStages, setKnockoutStages] = useState(null);
+
+  // Sync knockoutBracket updates into the full knockoutStages history tree
+  useEffect(() => {
+    if (knockoutBracket) {
+      setKnockoutStages(prev => {
+        if (!prev) return null;
+        return {
+          ...prev,
+          [knockoutBracket.stage]: knockoutBracket.pairs,
+          qualifiedTop8: knockoutBracket.qualifiedTop8,
+          champion: knockoutBracket.champion || prev.champion
+        };
+      });
+    }
+  }, [knockoutBracket]);
 
   // Live Simulation States
   const [isSimulating, setIsSimulating] = useState(false);
@@ -299,13 +249,13 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     if (match) {
       const [, name, year] = match;
       return (
-        <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
-          <span style={{ fontWeight: isUser ? '700' : '500' }}>{name}</span>
-          <span style={{ fontSize: '0.72rem', color: 'var(--text-muted)', fontWeight: '400' }}>({year})</span>
+        <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px', overflow: 'hidden', minWidth: 0, flexShrink: 1 }}>
+          <span style={{ fontWeight: isUser ? '700' : '500', textOverflow: 'ellipsis', overflow: 'hidden', whiteSpace: 'nowrap' }}>{name}</span>
+          <span style={{ fontSize: '0.72rem', color: 'var(--text-muted)', fontWeight: '400', flexShrink: 0 }}>({year})</span>
         </span>
       );
     }
-    return <span style={{ fontWeight: isUser ? '700' : '500' }}>{fullName}</span>;
+    return <span style={{ fontWeight: isUser ? '700' : '500', textOverflow: 'ellipsis', overflow: 'hidden', whiteSpace: 'nowrap' }}>{fullName}</span>;
   };
 
   const getCleanGenericPos = (pos) => {
@@ -692,21 +642,6 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
         if (selectedTeams.length >= 35) break;
       }
 
-      if (selectedTeams.length < 35) {
-        const shuffledPlaceholders = [...STANDARD_PLACEHOLDERS].sort(() => 0.5 - Math.random());
-        for (const placeholder of shuffledPlaceholders) {
-          const placeholderBase = placeholder.name.trim().toLowerCase();
-          if (!selectedClubNames.has(placeholderBase)) {
-            selectedClubNames.add(placeholderBase);
-            selectedTeams.push({
-              ...placeholder,
-              isPlaceholder: true
-            });
-          }
-          if (selectedTeams.length >= 35) break;
-        }
-      }
-
       const userTeam = {
         id: 7777,
         name: userTeamName || 'My Draft XI',
@@ -740,6 +675,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
 
       setSwissRoundSimulated(false);
       setKnockoutSimulated(false);
+      setKnockoutStages(null);
       setRecentFixtures([]);
       setTournamentState('SWISS');
       setTournamentGoals({});
@@ -759,7 +695,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
       setLiveMatches([]);
 
       // Batch-fetch squad player rosters for database teams
-      const dbTeamsToFetch = selectedTeams.filter(t => !t.isPlaceholder);
+      const dbTeamsToFetch = selectedTeams;
       if (dbTeamsToFetch.length > 0) {
         const teamSeasonsParam = dbTeamsToFetch.map(t => `${t.id}:${t.season}`).join(',');
         const apiBase = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000';
@@ -1017,6 +953,32 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
       ...prev,
       highestStage: stage
     }));
+
+    const initialStages = {
+      'Play-offs': playoffPairs,
+      'Round of 16': Array.from({ length: 8 }).map((_, i) => ({
+        teamA: top8[i],
+        teamB: { name: `Play-off Winner ${8 - i}`, logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        score1A: null, score1B: null, score2A: null, score2B: null, aggregateA: null, aggregateB: null, winner: null
+      })),
+      'Quarter-finals': Array.from({ length: 4 }).map((_, i) => ({
+        teamA: { name: 'RO16 Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        teamB: { name: 'RO16 Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        score1A: null, score1B: null, score2A: null, score2B: null, aggregateA: null, aggregateB: null, winner: null
+      })),
+      'Semi-finals': Array.from({ length: 2 }).map((_, i) => ({
+        teamA: { name: 'QF Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        teamB: { name: 'QF Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        score1A: null, score1B: null, score2A: null, score2B: null, aggregateA: null, aggregateB: null, winner: null
+      })),
+      'Final': Array.from({ length: 1 }).map((_, i) => ({
+        teamA: { name: 'SF Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        teamB: { name: 'SF Winner', logo_url: 'https://media.api-sports.io/football/leagues/2.png', rating: '?', isPlaceholder: true },
+        score1A: null, score1B: null, aggregateA: null, aggregateB: null, winner: null
+      })),
+      champion: null
+    };
+    setKnockoutStages(initialStages);
 
     setKnockoutBracket({
       stage: 'Play-offs',
@@ -1555,6 +1517,110 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     );
   };
 
+  const BracketCard = ({ pair, stage, index, isCurrentStage }) => {
+    const isUserPair = pair.teamA?.isUser || pair.teamB?.isUser;
+    const isFeatured = isCurrentStage && featuredMatchIndex === index;
+
+    let score1A = pair.score1A;
+    let score1B = pair.score1B;
+    let score2A = pair.score2A;
+    let score2B = pair.score2B;
+    let aggA = pair.aggregateA;
+    let aggB = pair.aggregateB;
+    let winner = pair.winner;
+    let penalties = pair.penalties;
+
+    if (isSimulating && isCurrentStage) {
+      const lm = liveMatches.find(m => m.pairId === `${pair.teamA.id}-${pair.teamB.id}`);
+      if (lm) {
+        if (lm.isFinal) {
+          score1A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute <= simMinute).length;
+          score1B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute <= simMinute).length;
+          score2A = null;
+          score2B = null;
+          aggA = score1A;
+          aggB = score1B;
+          winner = null;
+          penalties = null;
+        } else {
+          if (simMinute <= 90) {
+            score1A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute <= simMinute).length;
+            score1B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute <= simMinute).length;
+            score2A = null;
+            score2B = null;
+            aggA = score1A;
+            aggB = score1B;
+            winner = null;
+            penalties = null;
+          } else {
+            score1A = lm.finalScore1A;
+            score1B = lm.finalScore1B;
+            score2A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute > 90 && e.minute <= simMinute).length;
+            score2B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute > 90 && e.minute <= simMinute).length;
+            aggA = score1A + score2A;
+            aggB = score1B + score2B;
+            winner = null;
+            penalties = null;
+          }
+        }
+      }
+    }
+
+    const handleCardClick = () => {
+      if (isCurrentStage) {
+        setFeaturedMatchIndex(index);
+      }
+    };
+
+    return (
+      <div
+        onClick={handleCardClick}
+        style={{
+          ...styles.bracketCard,
+          ...(isUserPair ? styles.userFixtureRow : {}),
+          border: isFeatured ? '1px solid var(--cyan-glow)' : '1px solid var(--panel-border)',
+          borderLeft: winner 
+            ? '3px solid var(--success)' 
+            : (isFeatured ? '3px solid var(--cyan-glow)' : '1px solid var(--panel-border)'),
+          boxShadow: isFeatured ? '0 0 10px rgba(0, 240, 255, 0.3)' : 'none',
+          cursor: isCurrentStage ? 'pointer' : 'default',
+          opacity: pair.isPlaceholder ? 0.5 : 1,
+        }}
+      >
+        <div style={styles.bracketTeamLine}>
+          <span style={{ display: 'flex', alignItems: 'center', gap: '4px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+            <img src={pair.teamA.logo_url} style={styles.bracketTeamLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
+            <span style={{ fontSize: '0.72rem', fontWeight: pair.winner && pair.winner.id === pair.teamA.id ? '700' : '400' }}>
+              {pair.isPlaceholder ? pair.teamA.name : renderTeamNameWithYear(pair.teamA.name, pair.teamA.isUser)}
+            </span>
+          </span>
+          <span style={{ fontSize: '0.72rem', fontWeight: '700' }}>
+            {score1A !== null ? score1A : '-'}
+            {score2A !== null ? ` (${score2A})` : ''}
+          </span>
+        </div>
+        <div style={styles.bracketTeamLine}>
+          <span style={{ display: 'flex', alignItems: 'center', gap: '4px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+            <img src={pair.teamB.logo_url} style={styles.bracketTeamLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
+            <span style={{ fontSize: '0.72rem', fontWeight: pair.winner && pair.winner.id === pair.teamB.id ? '700' : '400' }}>
+              {pair.isPlaceholder ? pair.teamB.name : renderTeamNameWithYear(pair.teamB.name, pair.teamB.isUser)}
+            </span>
+          </span>
+          <span style={{ fontSize: '0.72rem', fontWeight: '700' }}>
+            {score1B !== null ? score1B : '-'}
+            {score2B !== null ? ` (${score2B})` : ''}
+          </span>
+        </div>
+        {(aggA !== null || penalties) && (
+          <div style={styles.bracketCardSummary}>
+            <span>Agg: {aggA} - {aggB}</span>
+            {penalties && <span style={{ color: 'var(--gold)', fontSize: '0.6rem' }}> (pens {penalties})</span>}
+          </div>
+        )}
+      </div>
+    );
+  };
+
   return (
     <div style={styles.simWrapper} className="animate-fade-in">
       <style>{`
@@ -1870,7 +1936,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
       )}
 
       {tournamentState !== 'CHAMPION' && (
-        <div style={styles.layout}>
+        <div style={styles.layout} className="sim-layout">
           {/* Left Column: Live Matches dashboard and controls */}
           <div style={styles.leftCol}>
             {/* Dashboard HUD scoreboard */}
@@ -2265,7 +2331,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
           <div style={styles.rightCol}>
             <div className="glass-panel" style={styles.standingsPanel}>
               {/* Tab Switcher */}
-              <div style={styles.tabHeader}>
+              <div style={{ ...styles.tabHeader, flexWrap: 'wrap', gap: '8px' }}>
                 <button
                   style={{
                     ...styles.tabButton,
@@ -2275,7 +2341,18 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                   onClick={() => setActiveTab('STANDINGS')}
                 >
                   <Table size={14} style={{ marginRight: '6px' }} />
-                  {['PLAYOFFS', 'RO16', 'QF', 'SF', 'FINAL'].includes(tournamentState) ? 'Knockouts' : 'Standings'}
+                  Standings
+                </button>
+                <button
+                  style={{
+                    ...styles.tabButton,
+                    borderBottom: activeTab === 'BRACKET' ? '2.5px solid var(--cyan-glow)' : '2.5px solid transparent',
+                    color: activeTab === 'BRACKET' ? 'var(--cyan-glow)' : 'var(--text-muted)'
+                  }}
+                  onClick={() => setActiveTab('BRACKET')}
+                >
+                  <Trophy size={14} style={{ marginRight: '6px' }} />
+                  Bracket
                 </button>
                 <button
                   style={{
@@ -2303,178 +2380,187 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
 
               <div style={styles.tabScroll} className="timeline-scroll">
                 {activeTab === 'STANDINGS' ? (
-                  /* Swiss standings or brackets view */
-                  tournamentState === 'SWISS' || tournamentState === 'POST_SWISS' ? (
-                    <table style={styles.table}>
-                      <thead>
-                        <tr>
-                          <th style={styles.th}>Pos</th>
-                          <th style={styles.th}>Club</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>P</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>W</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>D</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>L</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>GD</th>
-                          <th style={{ ...styles.th, textAlign: 'center' }}>Pts</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        {displayStandings.map((team, idx) => {
-                          const isUser = team.isUser;
-                          const rank = idx + 1;
+                  <table style={styles.table}>
+                    <thead>
+                      <tr>
+                        <th style={styles.th}>Pos</th>
+                        <th style={styles.th}>Club</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>P</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>W</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>D</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>L</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>GD</th>
+                        <th style={{ ...styles.th, textAlign: 'center' }}>Pts</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {displayStandings.map((team, idx) => {
+                        const isUser = team.isUser;
+                        const rank = idx + 1;
 
-                          let highlightStyle = {};
-                          if (rank <= 8) {
-                            highlightStyle = { borderLeft: '3px solid var(--success)' };
-                          } else if (rank <= 24) {
-                            highlightStyle = { borderLeft: '3px solid var(--cyan-glow)' };
-                          } else {
-                            highlightStyle = { borderLeft: '3px solid var(--danger)' };
-                          }
+                        let highlightStyle = {};
+                        if (rank <= 8) {
+                          highlightStyle = { borderLeft: '3px solid var(--success)' };
+                        } else if (rank <= 24) {
+                          highlightStyle = { borderLeft: '3px solid var(--cyan-glow)' };
+                        } else {
+                          highlightStyle = { borderLeft: '3px solid var(--danger)' };
+                        }
 
-                          return (
-                            <tr
-                              key={team.id}
-                              style={{
-                                ...styles.tr,
-                                ...(isUser ? styles.userRow : {}),
-                                ...highlightStyle,
-                              }}
-                            >
-                              <td style={styles.td}>{rank}</td>
-                              <td style={{ ...styles.td, ...styles.teamNameCell }}>
-                                <img
-                                  src={team.logo_url}
-                                  alt=""
-                                  style={styles.teamLogo}
-                                  onError={(e) => {
-                                    e.target.onerror = null;
-                                    e.target.src = 'https://media.api-sports.io/football/leagues/2.png';
-                                  }}
-                                />
-                                <span style={styles.teamNameText}>{renderTeamNameWithYear(team.name, isUser)}</span>
-                              </td>
-                              <td style={{ ...styles.td, textAlign: 'center' }}>{team.played}</td>
-                              <td style={{ ...styles.td, textAlign: 'center' }}>{team.won}</td>
-                              <td style={{ ...styles.td, textAlign: 'center' }}>{team.drawn}</td>
-                              <td style={{ ...styles.td, textAlign: 'center' }}>{team.lost}</td>
-                              <td style={{ ...styles.td, textAlign: 'center' }}>{team.gd > 0 ? `+${team.gd}` : team.gd}</td>
-                              <td style={{ ...styles.td, fontWeight: '700', textAlign: 'center' }}>{team.points}</td>
-                            </tr>
-                          );
-                        })}
-                      </tbody>
-                    </table>
-                  ) : (
-                    /* Knockout brackets view */
-                    knockoutBracket && (
-                      <div style={styles.koContainer}>
-                        <h4 style={styles.koStageHeader}>{knockoutBracket.stage} Stage Bracket</h4>
-                        <div style={styles.koPairsList}>
-                          {knockoutBracket.pairs.map((pair, i) => {
-                            const isUserPair = pair.teamA.isUser || pair.teamB.isUser;
-                            
-                            let score1A = pair.score1A;
-                            let score1B = pair.score1B;
-                            let score2A = pair.score2A;
-                            let score2B = pair.score2B;
-                            let aggA = pair.aggregateA;
-                            let aggB = pair.aggregateB;
-                            let winner = pair.winner;
-                            let penalties = pair.penalties;
-
-                            if (isSimulating && (simType === 'KNOCKOUT_2LEGS' || simType === 'FINAL')) {
-                              const lm = liveMatches.find(m => m.pairId === `${pair.teamA.id}-${pair.teamB.id}`);
-                              if (lm) {
-                                if (lm.isFinal) {
-                                  score1A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute <= simMinute).length;
-                                  score1B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute <= simMinute).length;
-                                  score2A = null;
-                                  score2B = null;
-                                  aggA = score1A;
-                                  aggB = score1B;
-                                  winner = null;
-                                  penalties = null;
-                                } else {
-                                  if (simMinute <= 90) {
-                                    score1A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute <= simMinute).length;
-                                    score1B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute <= simMinute).length;
-                                    score2A = null;
-                                    score2B = null;
-                                    aggA = score1A;
-                                    aggB = score1B;
-                                    winner = null;
-                                    penalties = null;
-                                  } else {
-                                    score1A = lm.finalScore1A;
-                                    score1B = lm.finalScore1B;
-                                    score2A = lm.events.filter(e => e.type === 'GOAL' && e.team === 'A' && e.minute > 90 && e.minute <= simMinute).length;
-                                    score2B = lm.events.filter(e => e.type === 'GOAL' && e.team === 'B' && e.minute > 90 && e.minute <= simMinute).length;
-                                    aggA = score1A + score2A;
-                                    aggB = score1B + score2B;
-                                    winner = null;
-                                    penalties = null;
-                                  }
-                                }
-                              }
-                            }
-
-                            const isFeatured = featuredMatchIndex === i;
-
-                            return (
-                              <div
-                                key={i}
-                                onClick={() => setFeaturedMatchIndex(i)}
-                                style={{
-                                  ...styles.koFixtureBox,
-                                  ...(isUserPair ? styles.userFixtureRow : {}),
-                                  border: isFeatured ? '1px solid var(--cyan-glow)' : '1px solid var(--panel-border)',
-                                  borderLeft: winner 
-                                    ? '3px solid var(--success)' 
-                                    : (isFeatured ? '3px solid var(--cyan-glow)' : '1px solid var(--panel-border)'),
-                                  boxShadow: isFeatured ? '0 0 10px rgba(0, 240, 255, 0.3)' : 'none',
-                                  cursor: 'pointer',
+                        return (
+                          <tr
+                            key={team.id}
+                            style={{
+                              ...styles.tr,
+                              ...(isUser ? styles.userRow : {}),
+                              ...highlightStyle,
+                            }}
+                          >
+                            <td style={styles.td}>{rank}</td>
+                            <td style={{ ...styles.td, ...styles.teamNameCell }}>
+                              <img
+                                src={team.logo_url}
+                                alt=""
+                                style={styles.teamLogo}
+                                onError={(e) => {
+                                  e.target.onerror = null;
+                                  e.target.src = 'https://media.api-sports.io/football/leagues/2.png';
                                 }}
-                              >
-                                <div style={styles.koTeamLine}>
-                                  <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                                    <img src={pair.teamA.logo_url} style={styles.scorerLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-                                    {renderTeamNameWithYear(pair.teamA.name, pair.teamA.isUser)}
-                                    {pair.teamA.isUser && <span className="user-tag">(YOU)</span>}
-                                  </span>
-                                  <span style={{ fontWeight: isUserPair ? '700' : '400' }}>
-                                    {score1A !== null ? score1A : '-'}
-                                    {score2A !== null ? ` (${score2A})` : ''}
-                                  </span>
-                                </div>
-                                <div style={styles.koTeamLine}>
-                                  <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-                                    <img src={pair.teamB.logo_url} style={styles.scorerLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-                                    {renderTeamNameWithYear(pair.teamB.name, pair.teamB.isUser)}
-                                    {pair.teamB.isUser && <span className="user-tag">(YOU)</span>}
-                                  </span>
-                                  <span style={{ fontWeight: isUserPair ? '700' : '400' }}>
-                                    {score1B !== null ? score1B : '-'}
-                                    {score2B !== null ? ` (${score2B})` : ''}
-                                  </span>
-                                </div>
-                                {(winner || (isSimulating && aggA !== null)) && (
-                                  <div style={styles.koSummaryLine}>
-                                    <span>Agg: {aggA} - {aggB}</span>
-                                    {penalties && <span style={{ color: 'var(--gold)' }}> (pens {penalties})</span>}
-                                    {winner && (
-                                      <span style={styles.koWinnerLabel}>
-                                        Winner: <strong>{renderTeamNameWithYear(winner.name, winner.isUser)}</strong>
-                                      </span>
-                                    )}
-                                  </div>
-                                )}
+                              />
+                              <span style={styles.teamNameText}>{renderTeamNameWithYear(team.name, isUser)}</span>
+                            </td>
+                            <td style={{ ...styles.td, textAlign: 'center' }}>{team.played}</td>
+                            <td style={{ ...styles.td, textAlign: 'center' }}>{team.won}</td>
+                            <td style={{ ...styles.td, textAlign: 'center' }}>{team.drawn}</td>
+                            <td style={{ ...styles.td, textAlign: 'center' }}>{team.lost}</td>
+                            <td style={{ ...styles.td, textAlign: 'center' }}>{team.gd > 0 ? `+${team.gd}` : team.gd}</td>
+                            <td style={{ ...styles.td, fontWeight: '700', textAlign: 'center' }}>{team.points}</td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                  </table>
+                ) : activeTab === 'BRACKET' ? (
+                  /* Visual tournament bracket tree view */
+                  !knockoutStages ? (
+                    <div style={{ padding: '30px 20px', textAlign: 'center', color: 'var(--text-muted)' }}>
+                      <Trophy size={48} color="rgba(255,255,255,0.06)" style={{ margin: '0 auto 15px auto', display: 'block' }} />
+                      <h4 style={{ fontFamily: 'var(--font-title)', color: '#ffffff', fontSize: '1rem', marginBottom: '8px' }}>Knockout Bracket Coming Soon</h4>
+                      <p style={{ fontSize: '0.75rem', lineHeight: '1.5', maxWidth: '350px', margin: '0 auto' }}>
+                        Finish the Swiss stage to seed the tournament bracket. The top 8 teams will qualify directly to the Round of 16, while teams ranked 9th to 24th will compete in the Play-offs!
+                      </p>
+                    </div>
+                  ) : (
+                    <div style={styles.koContainer}>
+                      <h4 style={styles.koStageHeader}>Visual Tournament Tree</h4>
+                      <div style={styles.bracketScrollContainer} className="timeline-scroll">
+                        {/* 1. Play-offs Column */}
+                        <div style={styles.bracketColumn}>
+                          <h5 style={styles.bracketColumnHeader}>Play-offs</h5>
+                          <div style={styles.bracketColumnList}>
+                            {knockoutStages['Play-offs'].map((pair, idx) => {
+                              const isCurrentStage = knockoutBracket && knockoutBracket.stage === 'Play-offs';
+                              return (
+                                <BracketCard
+                                  key={idx}
+                                  pair={pair}
+                                  stage="Play-offs"
+                                  index={idx}
+                                  isCurrentStage={isCurrentStage}
+                                />
+                              );
+                            })}
+                          </div>
+                        </div>
+
+                        {/* 2. Round of 16 Column */}
+                        <div style={styles.bracketColumn}>
+                          <h5 style={styles.bracketColumnHeader}>Round of 16</h5>
+                          <div style={styles.bracketColumnList}>
+                            {knockoutStages['Round of 16'].map((pair, idx) => {
+                              const isCurrentStage = knockoutBracket && knockoutBracket.stage === 'Round of 16';
+                              return (
+                                <BracketCard
+                                  key={idx}
+                                  pair={pair}
+                                  stage="Round of 16"
+                                  index={idx}
+                                  isCurrentStage={isCurrentStage}
+                                />
+                              );
+                            })}
+                          </div>
+                        </div>
+
+                        {/* 3. Quarter-finals Column */}
+                        <div style={styles.bracketColumn}>
+                          <h5 style={styles.bracketColumnHeader}>Quarter-finals</h5>
+                          <div style={styles.bracketColumnList}>
+                            {knockoutStages['Quarter-finals'].map((pair, idx) => {
+                              const isCurrentStage = knockoutBracket && knockoutBracket.stage === 'Quarter-finals';
+                              return (
+                                <BracketCard
+                                  key={idx}
+                                  pair={pair}
+                                  stage="Quarter-finals"
+                                  index={idx}
+                                  isCurrentStage={isCurrentStage}
+                                />
+                              );
+                            })}
+                          </div>
+                        </div>
+
+                        {/* 4. Semi-finals Column */}
+                        <div style={styles.bracketColumn}>
+                          <h5 style={styles.bracketColumnHeader}>Semi-finals</h5>
+                          <div style={styles.bracketColumnList}>
+                            {knockoutStages['Semi-finals'].map((pair, idx) => {
+                              const isCurrentStage = knockoutBracket && knockoutBracket.stage === 'Semi-finals';
+                              return (
+                                <BracketCard
+                                  key={idx}
+                                  pair={pair}
+                                  stage="Semi-finals"
+                                  index={idx}
+                                  isCurrentStage={isCurrentStage}
+                                />
+                              );
+                            })}
+                          </div>
+                        </div>
+
+                        {/* 5. Final Column */}
+                        <div style={styles.bracketColumn}>
+                          <h5 style={styles.bracketColumnHeader}>Final</h5>
+                          <div style={styles.bracketColumnList}>
+                            {knockoutStages['Final'].map((pair, idx) => {
+                              const isCurrentStage = knockoutBracket && knockoutBracket.stage === 'Final';
+                              return (
+                                <BracketCard
+                                  key={idx}
+                                  pair={pair}
+                                  stage="Final"
+                                  index={idx}
+                                  isCurrentStage={isCurrentStage}
+                                />
+                              );
+                            })}
+                            {/* Visual Champion Showcase */}
+                            {knockoutStages.champion && (
+                              <div style={styles.bracketChampionBox}>
+                                <Trophy size={20} color="var(--gold)" style={{ filter: 'drop-shadow(0 0 5px var(--gold))' }} />
+                                <span style={{ fontSize: '0.62rem', fontWeight: '800', color: 'var(--gold)', letterSpacing: '0.5px' }}>CHAMPION</span>
+                                <img src={knockoutStages.champion.logo_url} style={styles.scorerLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
+                                <span style={{ fontSize: '0.78rem', fontWeight: '700', textAlign: 'center' }}>
+                                  {renderTeamNameWithYear(knockoutStages.champion.name, knockoutStages.champion.isUser)}
+                                </span>
                               </div>
-                            );
-                          })}
+                            )}
+                          </div>
                         </div>
                       </div>
-                    )
+                    </div>
                   )
                 ) : activeTab === 'SCORERS' ? (
                   /* Top scorers view */
@@ -2674,10 +2760,11 @@ const styles = {
     fontSize: '0.9rem',
     fontWeight: '700',
     color: '#ffffff',
-    whiteSpace: 'nowrap',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
     overflow: 'hidden',
-    textOverflow: 'ellipsis',
-    maxWidth: '100%',
+    width: '100%',
   },
   hudTeamRating: {
     fontSize: '0.7rem',
@@ -2939,10 +3026,10 @@ const styles = {
   },
   fixtureTeamA: {
     flex: 1,
-    textAlign: 'right',
-    whiteSpace: 'nowrap',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'flex-end',
     overflow: 'hidden',
-    textOverflow: 'ellipsis',
   },
   fixtureScore: {
     fontWeight: '700',
@@ -2950,13 +3037,94 @@ const styles = {
     width: '60px',
     textAlign: 'center',
     fontSize: '0.85rem',
+    flexShrink: 0,
   },
   fixtureTeamB: {
     flex: 1,
-    textAlign: 'left',
-    whiteSpace: 'nowrap',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'flex-start',
     overflow: 'hidden',
-    textOverflow: 'ellipsis',
+  },
+  bracketScrollContainer: {
+    display: 'flex',
+    gap: '20px',
+    overflowX: 'auto',
+    padding: '15px 5px',
+    width: '100%',
+    minHeight: '400px',
+  },
+  bracketColumn: {
+    display: 'flex',
+    flexDirection: 'column',
+    minWidth: '220px',
+    flex: '1 0 220px',
+    gap: '12px',
+  },
+  bracketColumnHeader: {
+    fontSize: '0.8rem',
+    fontWeight: '700',
+    color: 'var(--cyan-glow)',
+    textAlign: 'center',
+    textTransform: 'uppercase',
+    letterSpacing: '0.5px',
+    marginBottom: '8px',
+    borderBottom: '1px solid rgba(0, 240, 255, 0.1)',
+    paddingBottom: '4px',
+  },
+  bracketColumnList: {
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-around',
+    flexGrow: 1,
+    gap: '15px',
+  },
+  bracketCard: {
+    background: 'rgba(255,255,255,0.01)',
+    border: '1px solid var(--panel-border)',
+    borderRadius: '8px',
+    padding: '10px 12px',
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '6px',
+    transition: 'all 0.2s ease',
+  },
+  bracketTeamLine: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    fontSize: '0.75rem',
+  },
+  bracketTeamLogo: {
+    width: '14px',
+    height: '14px',
+    objectFit: 'contain',
+    flexShrink: 0,
+  },
+  bracketCardSummary: {
+    fontSize: '0.65rem',
+    color: 'var(--text-muted)',
+    borderTop: '1px solid rgba(255,255,255,0.05)',
+    paddingTop: '4px',
+    marginTop: '2px',
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  bracketChampionBox: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: '8px',
+    background: 'radial-gradient(circle, rgba(242,204,96,0.1) 0%, rgba(2,5,20,0.4) 100%)',
+    border: '1px solid var(--gold)',
+    boxShadow: '0 0 15px rgba(242,204,96,0.2)',
+    borderRadius: '8px',
+    padding: '12px',
+    marginTop: '15px',
+    alignSelf: 'center',
+    width: '180px',
   },
   koContainer: {
     display: 'flex',
@@ -3067,10 +3235,11 @@ const styles = {
     objectFit: 'contain',
   },
   teamNameText: {
-    whiteSpace: 'nowrap',
+    display: 'flex',
+    alignItems: 'center',
     overflow: 'hidden',
-    textOverflow: 'ellipsis',
-    maxWidth: '90px',
+    maxWidth: '180px',
+    width: '100%',
   },
   legend: {
     display: 'flex',

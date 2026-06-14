@@ -51,7 +51,7 @@ const SetupPage = () => {
   } = useDraft();
 
   return (
-    <div style={styles.setupWorkspace} className="animate-fade-in">
+    <div style={styles.setupWorkspace} className="setup-workspace animate-fade-in">
       {/* Left Column: Hero Showcase */}
       <div style={styles.setupHeroPanel} className="glass-panel">
         <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
@@ -67,7 +67,7 @@ const SetupPage = () => {
             Draft legendary players across historical football eras, select matching tactical shapes, and test your team in a realistic simulation league.
           </p>
 
-          <div style={styles.featuresGrid}>
+          <div style={styles.featuresGrid} className="features-grid">
             <div style={styles.featureItem}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                 <Users size={16} color="var(--cyan-glow)" />

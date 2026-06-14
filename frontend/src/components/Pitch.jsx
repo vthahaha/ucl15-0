@@ -400,8 +400,22 @@ export const FORMATIONS = {
 const Pitch = ({ formation, draftedSquad, activeSlotId, onSlotSelect, selectedPlayer }) => {
   const slots = FORMATIONS[formation] || FORMATIONS['4-3-3'];
 
+  const [windowWidth, setWindowWidth] = React.useState(window.innerWidth);
+
+  React.useEffect(() => {
+    const handleResize = () => {
+      setWindowWidth(window.innerWidth);
+    };
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  const isMobile = windowWidth < 768;
+  const isXS = windowWidth < 480;
+  const slotSize = isXS ? 36 : (isMobile ? 46 : 64);
+
   return (
-    <div style={styles.pitchContainer}>
+    <div style={styles.pitchContainer} className="pitch-container">
       <div style={styles.pitchField}>
         {/* Grass Alternating Stripes & Spotlight Glow */}
         <div style={styles.pitchGrassOverlay}></div>
@@ -457,6 +471,8 @@ const Pitch = ({ formation, draftedSquad, activeSlotId, onSlotSelect, selectedPl
                 <div
                   style={{
                     ...styles.emptySlot,
+                    width: `${slotSize}px`,
+                    height: `${slotSize}px`,
                     ...(isActive ? styles.emptySlotActive : {}),
                     ...(isEligible ? styles.emptySlotEligible : {}),
                   }}
@@ -467,9 +483,10 @@ const Pitch = ({ formation, draftedSquad, activeSlotId, onSlotSelect, selectedPl
                     ...(isActive ? styles.emptySlotPulseRingActive : {}),
                     ...(isEligible ? styles.emptySlotPulseRingEligible : {}),
                   }}></div>
-                  <UserPlus size={18} color={isEligible ? '#f2cc60' : isActive ? '#00f0ff' : '#8e9bb8'} style={{ zIndex: 2 }} />
+                  <UserPlus size={isXS ? 12 : (isMobile ? 14 : 18)} color={isEligible ? '#f2cc60' : isActive ? '#00f0ff' : '#8e9bb8'} style={{ zIndex: 2 }} />
                   <span style={{
                     ...styles.roleLabel,
+                    fontSize: isXS ? '0.45rem' : (isMobile ? '0.55rem' : '0.65rem'),
                     ...(isEligible ? { color: '#f2cc60' } : {}),
                     ...(isActive ? { color: '#00f0ff' } : {})
                   }}>{slot.label}</span>
