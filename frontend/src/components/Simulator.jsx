@@ -1673,7 +1673,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
             <div style={styles.coronationLogoContainer}>
               <img src={knockoutBracket.champion.logo_url} alt="" style={styles.coronationLogo} onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
             </div>
-            <h2 style={styles.coronationTeamName}>{knockoutBracket.champion.name}</h2>
+            <h2 style={styles.coronationTeamName}>{renderTeamNameWithYear(knockoutBracket.champion.name, knockoutBracket.champion.isUser)}</h2>
             <p style={styles.coronationSub}>UEFA Champions League {era} Winner</p>
             
             <div style={{ ...styles.coronationAwards, gridTemplateColumns: '1fr 1fr' }}>
@@ -1943,7 +1943,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                   <div style={styles.hudTeamCol}>
                     <img src={featuredMatch.teamA.logo_url} alt="" style={styles.hudLogo} onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
                     <span style={styles.hudTeamName}>
-                      {featuredMatch.teamA.name}
+                      {renderTeamNameWithYear(featuredMatch.teamA.name, featuredMatch.teamA.isUser)}
                       {featuredMatch.teamA.isUser && <span className="user-tag" style={{ marginLeft: '4px' }}>(YOU)</span>}
                     </span>
                     <span style={styles.hudTeamRating}>OVR {featuredMatch.teamA.rating}</span>
@@ -1992,7 +1992,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                   <div style={styles.hudTeamCol}>
                     <img src={featuredMatch.teamB.logo_url} alt="" style={styles.hudLogo} onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
                     <span style={styles.hudTeamName}>
-                      {featuredMatch.teamB.name}
+                      {renderTeamNameWithYear(featuredMatch.teamB.name, featuredMatch.teamB.isUser)}
                       {featuredMatch.teamB.isUser && <span className="user-tag" style={{ marginLeft: '4px' }}>(YOU)</span>}
                     </span>
                     <span style={styles.hudTeamRating}>OVR {featuredMatch.teamB.rating}</span>
@@ -2049,11 +2049,11 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       </div>
                       <div style={styles.analysisKeyPlayers}>
                         <div style={styles.keyPlayerRow}>
-                          <span style={styles.keyPlayerTeam}>{featuredMatch.teamA.name}:</span>
+                          <span style={styles.keyPlayerTeam}>{renderTeamNameWithYear(featuredMatch.teamA.name, featuredMatch.teamA.isUser)}:</span>
                           <span style={styles.keyPlayerName}>{getTopPlayer(featuredMatch.teamA)}</span>
                         </div>
                         <div style={styles.keyPlayerRow}>
-                          <span style={styles.keyPlayerTeam}>{featuredMatch.teamB.name}:</span>
+                          <span style={styles.keyPlayerTeam}>{renderTeamNameWithYear(featuredMatch.teamB.name, featuredMatch.teamB.isUser)}:</span>
                           <span style={styles.keyPlayerName}>{getTopPlayer(featuredMatch.teamB)}</span>
                         </div>
                       </div>
