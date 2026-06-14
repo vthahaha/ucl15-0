@@ -252,10 +252,20 @@ const PlayerSelector = ({ era, targetRole, onSelectPlayer, draftedPlayerIds, ran
               const isSelected = selectedPlayer && selectedPlayer.id === player.id;
               
               // Check if there are empty eligible slots for this player
-              const slots = FORMATIONS[formation] || [];
-              const hasEligibleEmptySlot = slots.some(
-                (slot) => !draftedSquad[slot.id] && checkPositionEligibility(player.position, slot.role)
-              );
+              const startingSlots = FORMATIONS[formation] || [];
+              const isStartersComplete = startingSlots.every(slot => !!draftedSquad[slot.id]);
+              
+              let hasEligibleEmptySlot = false;
+              if (!isStartersComplete) {
+                // Check starting slots
+                hasEligibleEmptySlot = startingSlots.some(
+                  (slot) => !draftedSquad[slot.id] && checkPositionEligibility(player.position, slot.role)
+                );
+              } else {
+                // Check substitute slots (ANY position is allowed)
+                const subKeys = ['sub1', 'sub2', 'sub3', 'sub4', 'sub5', 'sub6', 'sub7'];
+                hasEligibleEmptySlot = subKeys.some((subId) => !draftedSquad[subId]);
+              }
               const isPlaceable = isDrafted || hasEligibleEmptySlot;
               const recommendedCategories = mapRoleToGeneric(targetRole);
               const isRecommended = recommendedCategories.includes(player.generic_position);
