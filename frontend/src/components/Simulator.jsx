@@ -1590,11 +1590,11 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
         <div style={styles.bracketTeamLine}>
           <span style={{ display: 'flex', alignItems: 'center', gap: '4px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
             <img src={pair.teamA.logo_url} style={styles.bracketTeamLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-            <span style={{ fontSize: '0.68rem', fontWeight: pair.winner && pair.winner.id === pair.teamA.id ? '700' : '400' }}>
+            <span style={{ fontSize: '0.62rem', fontWeight: pair.winner && pair.winner.id === pair.teamA.id ? '700' : '400' }}>
               {pair.isPlaceholder ? pair.teamA.name : renderTeamNameWithYear(pair.teamA.name, pair.teamA.isUser)}
             </span>
           </span>
-          <span style={{ fontSize: '0.68rem', fontWeight: '700' }}>
+          <span style={{ fontSize: '0.62rem', fontWeight: '700' }}>
             {score1A !== null ? score1A : '-'}
             {score2A !== null ? ` (${score2A})` : ''}
           </span>
@@ -1602,11 +1602,11 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
         <div style={styles.bracketTeamLine}>
           <span style={{ display: 'flex', alignItems: 'center', gap: '4px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
             <img src={pair.teamB.logo_url} style={styles.bracketTeamLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-            <span style={{ fontSize: '0.68rem', fontWeight: pair.winner && pair.winner.id === pair.teamB.id ? '700' : '400' }}>
+            <span style={{ fontSize: '0.62rem', fontWeight: pair.winner && pair.winner.id === pair.teamB.id ? '700' : '400' }}>
               {pair.isPlaceholder ? pair.teamB.name : renderTeamNameWithYear(pair.teamB.name, pair.teamB.isUser)}
             </span>
           </span>
-          <span style={{ fontSize: '0.68rem', fontWeight: '700' }}>
+          <span style={{ fontSize: '0.62rem', fontWeight: '700' }}>
             {score1B !== null ? score1B : '-'}
             {score2B !== null ? ` (${score2B})` : ''}
           </span>
@@ -1614,7 +1614,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
         {(aggA !== null || penalties) && (
           <div style={styles.bracketCardSummary}>
             <span>Agg: {aggA} - {aggB}</span>
-            {penalties && <span style={{ color: 'var(--gold)', fontSize: '0.55rem' }}> (pens {penalties})</span>}
+            {penalties && <span style={{ color: 'var(--gold)', fontSize: '0.5rem' }}> (pens {penalties})</span>}
           </div>
         )}
       </div>
@@ -2549,10 +2549,10 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                             {/* Visual Champion Showcase */}
                             {knockoutStages.champion && (
                               <div style={styles.bracketChampionBox}>
-                                <Trophy size={16} color="var(--gold)" style={{ filter: 'drop-shadow(0 0 5px var(--gold))' }} />
-                                <span style={{ fontSize: '0.55rem', fontWeight: '800', color: 'var(--gold)', letterSpacing: '0.5px' }}>CHAMPION</span>
+                                <Trophy size={14} color="var(--gold)" style={{ filter: 'drop-shadow(0 0 5px var(--gold))' }} />
+                                <span style={{ fontSize: '0.5rem', fontWeight: '800', color: 'var(--gold)', letterSpacing: '0.5px' }}>CHAMPION</span>
                                 <img src={knockoutStages.champion.logo_url} style={styles.bracketTeamLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-                                <span style={{ fontSize: '0.7rem', fontWeight: '700', textAlign: 'center' }}>
+                                <span style={{ fontSize: '0.65rem', fontWeight: '700', textAlign: 'center' }}>
                                   {renderTeamNameWithYear(knockoutStages.champion.name, knockoutStages.champion.isUser)}
                                 </span>
                               </div>
@@ -3048,21 +3048,21 @@ const styles = {
   },
   bracketScrollContainer: {
     display: 'flex',
-    gap: '12px',
+    gap: '8px',
     overflowX: 'auto',
-    padding: '10px 5px',
+    padding: '5px 5px',
     width: '100%',
-    minHeight: '350px',
+    minHeight: '300px',
   },
   bracketColumn: {
     display: 'flex',
     flexDirection: 'column',
-    minWidth: '170px',
-    flex: '1 0 170px',
-    gap: '8px',
+    minWidth: '140px',
+    flex: '1 0 140px',
+    gap: '6px',
   },
   bracketColumnHeader: {
-    fontSize: '0.72rem',
+    fontSize: '0.65rem',
     fontWeight: '700',
     color: 'var(--cyan-glow)',
     textAlign: 'center',
@@ -3077,32 +3077,32 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'space-around',
     flexGrow: 1,
-    gap: '10px',
+    gap: '6px',
   },
   bracketCard: {
     background: 'rgba(255,255,255,0.01)',
     border: '1px solid var(--panel-border)',
-    borderRadius: '6px',
-    padding: '6px 8px',
+    borderRadius: '4px',
+    padding: '4px 6px',
     display: 'flex',
     flexDirection: 'column',
-    gap: '4px',
+    gap: '2px',
     transition: 'all 0.2s ease',
   },
   bracketTeamLine: {
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    fontSize: '0.68rem',
+    fontSize: '0.62rem',
   },
   bracketTeamLogo: {
-    width: '12px',
-    height: '12px',
+    width: '10px',
+    height: '10px',
     objectFit: 'contain',
     flexShrink: 0,
   },
   bracketCardSummary: {
-    fontSize: '0.58rem',
+    fontSize: '0.52rem',
     color: 'var(--text-muted)',
     borderTop: '1px solid rgba(255,255,255,0.05)',
     paddingTop: '2px',
@@ -3116,15 +3116,15 @@ const styles = {
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
-    gap: '4px',
+    gap: '3px',
     background: 'radial-gradient(circle, rgba(242,204,96,0.1) 0%, rgba(2,5,20,0.4) 100%)',
     border: '1px solid var(--gold)',
     boxShadow: '0 0 15px rgba(242,204,96,0.2)',
     borderRadius: '8px',
-    padding: '8px',
-    marginTop: '10px',
+    padding: '6px',
+    marginTop: '6px',
     alignSelf: 'center',
-    width: '150px',
+    width: '120px',
   },
   koContainer: {
     display: 'flex',
