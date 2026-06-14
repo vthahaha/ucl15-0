@@ -17,12 +17,13 @@ const PORT = process.env.PORT || 5000;
 // Enable CORS and JSON parsing
 const allowedOrigins = [
   'http://localhost:5173',
-  process.env.FRONTEND_URL
+  process.env.FRONTEND_URL ? process.env.FRONTEND_URL.replace(/\/$/, '') : null
 ].filter(Boolean);
 
 app.use(cors({
   origin: (origin, callback) => {
-    if (!origin || allowedOrigins.includes(origin)) {
+    // If FRONTEND_URL is not specified, allow all origins
+    if (!process.env.FRONTEND_URL || !origin || allowedOrigins.includes(origin.replace(/\/$/, ''))) {
       callback(null, true);
     } else {
       callback(new Error('Not allowed by CORS'));
