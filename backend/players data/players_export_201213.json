@@ -1,0 +1,8383 @@
+{
+  "total_players": 882,
+  "players": [
+    {
+      "name": "A. Nocerino",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Petagna",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Adrià Carmona Pérez",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Alexandre Pato",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Cristante",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Bakaye Traoré",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Bojan Krkić",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Zapata",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Christian Abbiati",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Bonera",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Mesbah",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Acerbi",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gabriel Vasconcelos",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Giampaolo Pazzini",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Abate",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Boateng",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Kevin Constant",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Luca Antonini",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Niang",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Yepes",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marco Amelia",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Massimo Ambrosini",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mathieu Flamini",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Nigel de Jong",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Philippe Mexès",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Riccardo Montolivo",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Robinho",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. El Shaarawy",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Muntari",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Urby Vitorrio Diego Emanuelson",
+      "team": "AC Milan",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Christian  Bjørnshøj Poulsen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Hoesen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Klaassen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Koppers",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Derk Boerrigter",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Eyong Tarkang Enoh",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Sporkslede",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Lukoki",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Veltman",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Vermeer",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kolbeinn Sigþórsson",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Ebecilio",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Schöne",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Dijks",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Sulejmani",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. van der Hart",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Boilesen",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Moisander",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Babel",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Ligeon",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ricardo van Rhijn",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. de Jong",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Denswil",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Sana",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Serero",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Fischer",
+      "team": "Ajax",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Nuytinck",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Safari",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Bryan Verboom",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Kouyaté",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Odoi",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Praet",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Roef",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Dieumerci Mbokani",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fernando Canesin",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Molins",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Guillaume Olivier Gillet",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "H. Bedi",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Lukaku",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Biglia",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Mareček",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Bruno",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Jovanović",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Tarfi",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcin Wasilewski",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "O. Deschacht",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Iakovenko",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Osama Hawsawi",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Reynaldo dos Santos Silva",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Roland Juhász",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ronald Alejandro Vargas Aranguren",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rubenilson dos Santos da Rocha",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Klještan",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Proto",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. De Sutter",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Kaminski",
+      "team": "Anderlecht",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "André Clarindo dos Santos",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Andrey Arshavin",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "B. Sagna",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Akpom",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Jenkinson",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Frimpong",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Elton Monteiro",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Coquelin",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Meade",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Shea",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jack Wilshere",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Johan Danon Djourou-Gbadjere",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Gibbs",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ł. Fabiański",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ł. Podolski",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "LM",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Laurent Koscielny",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Angha",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Marouane Chamakh",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Mikel Arteta Amatriain",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Mertesacker",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Gnabry",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Hajrović",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Santi Cazorla",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Sébastien Squillaci",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Rosický",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Walcott",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Mannone",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Vassiriki Abou Diaby",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Gervinho",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Z. Ansah",
+      "team": "Arsenal",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Alexandre Dimitri Song-Billong",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "92",
+      "position": [
+        "CM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Andreu Fontàs",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carles Planas Antolínez",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Carles Puyol i Saforcada",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Cesc Fàbregas",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Cristian Tello",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "David Villa",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Deulofeu",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Abidal",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Isaac Cuenca",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. dos Santos",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "José Manuel Pinto Colorado",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "96",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Martín Montoya",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Oier",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergi Gómez",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "MID"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "89",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Víctor Valdés Arribas",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Xavier Hernández Creus",
+      "team": "Barcelona",
+      "ucl_season": 2012,
+      "rating": "90",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Gutor",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Shcherbakov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Soroko",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleksandr Hleb",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Aleksandr Pavlov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandr Volodko",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandr Yurevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Andrey Gorbunov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Artem Kontsevoy",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Baga",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Polyakov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Dmitri Likhtarovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Dmitri Mozolevski",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Filipenko",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Kuntsevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Olekhnovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Rudik",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Aleksiyan",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Bordachev",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Simić",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Sivakov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Bressan",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Roman Vasilyuk",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Kurlovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vitali Rodionov",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Z. Badoyan",
+      "team": "Bate Borisov",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "93",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Anatoliy Tymoshchuk",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Schweinsteiger",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "91",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Pizarro",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Contento",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Van Buyten",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dante",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "92",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Badstuber",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Raeder",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Luiz Gustavo",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Gómez",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Mandžukić",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "88",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "93",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Riedmüller",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Weiser",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Lahm",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "92",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Weihrauch",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "90",
+      "position": [
+        "CAM",
+        "RM",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Starke",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "X. Shaqiri",
+      "team": "Bayern München",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "RW",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Artur Moraes",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bruno César",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Carlos Martins",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Garay",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Pérez",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Salvio",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Melgarejo",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Luis Carlos Correia Pinto",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Vítor",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nolito",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Ó. Cardozo",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. John",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "P. Aimar",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Paulo Jorge Pedro Lopes",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rodrigo José Lima Dos Santos",
+      "team": "Benfica",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Löwe",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Felipe Santana",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Perišić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Błaszczykowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "Julian Schieber",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Großkreutz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "LM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Günter",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Bittencourt",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Amini",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Halstenberg",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Langerak",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "88",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Moritz Leitner",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Şahin",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Subotić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Kirch",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Owomoyela",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Weidenfeller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Bender",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sebastian Kehl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Matthews",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Stokes",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Kayal",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Mulgrew",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. McGeouch",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Daryl Michael Murphy",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Ambrose",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Emilio Arturo Izaguirre Girón",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Forster",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Twardzik",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gary Hooper",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Georgios Samaras",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Chalmers",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Forrest",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Ledley",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "John Herron",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Wilson",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kris Commons",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Lassad Hassen Nouioui",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Łukasz Załuska",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Fraser",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Lustig",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Fedor",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. McCourt",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Slane",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Scott Brown",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Rogne",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Watt",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Wanyama",
+      "team": "Celtic",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Á. Vass",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Bakary Bouba Saré",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Deac",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "C. Panin",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Cadú",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Diogo Valente",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Stăncioiu",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Edimar",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Piccolo",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Mureşan",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Rada",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ivo Pinto",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Sepsi",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Luis Alberto",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Aguirregaray",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Camora",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Sougou",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Mário Jorge Quintas  Felgueiras",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mihai Adrian Mincă",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Godemèche",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nuno Diogo",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pantelis Kapetanos",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafael Bastos",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Ronny Carlos da Silva",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rui Pedro",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": ""
+    },
+    {
+      "name": "Rui Pedro",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Sasa Bjelanovic",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Maftei",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Viorel Nicoară",
+      "team": "CFR 1907 Cluj",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Cole",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Ivanović",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Daniel Andre Sturridge",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "David Luiz",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Lampard",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Gary Cahill",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Terry",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marko Marin",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mikel John Obi",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Oriol Romeu",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Oscar",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Paulo Renato Rebocho Ferreira",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Petr Čech",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Bertrand",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ramires",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Ross Turnbull",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Moses",
+      "team": "Chelsea",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Ademi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Calello",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Halilović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Puljić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ante Rukavina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Carrasco",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Čop",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Vida",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "F. Bećiraj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Kelava",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Krstanović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Tomečak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ivan Peko",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Pivarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jerko Leko",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jorge Sammir Cruz Campos",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Josip Simunic",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Ibáñez",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Badelj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Brozović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mehmed Alispahić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Pokrivač",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Romeo Mitrovic",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Tonel",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Bogdanov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Mehmedi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Yarmolenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Artem Milevskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ayila Atanda Yussuf",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Ideye",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Betão",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Boyko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Garmash",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Danilo Silva",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dudu",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "G. Popov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "H. Bushchan",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Leandro Almeida",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Lukman Haruna Abdulkarim",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Koval",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Ninković",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Ruben",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Miguel Veloso",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Niko Kranjčar",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Vukojević",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Oleh Husyev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RM",
+        "LM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Oleksandr Shovkovsky",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raffael Caetano de Araújo",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Rybalka",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Mykhalyk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Taïwo",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Kalitvintsev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Yevhen Khacheridi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Christiansen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Maxsø",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Andreas Laudrup",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Jensen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Kofi Adu",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Marcondes",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Kildentoft",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Ivan Runje",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hansen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. John",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Okore",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Sise",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Storch",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Lorentzen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Kamal Issah Sissoko",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Kristian Ladewig Lindberg",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lasse Petry Andersen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Beckmann",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Gundelach",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Nordstrand",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Parkhurst",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Tičinović",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Nikolai Stokholm",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Aynaoğlu",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "P. Mtiliga",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Rawez Lawan",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Seejou King",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Søren Ejlersgård Christensen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Søren Henriksen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Thomas Skamby Villadsen",
+      "team": "FC Nordsjaelland",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ba",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Atsu",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Castro",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fabiano",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Helton da Silva Arruda",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Iturbe",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Martínez",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "João Moutinho",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Kadú",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kelvin",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Kléber",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. González",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Liédson",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Maicon",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marat Izmailov",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Miguel Lopes",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rolando",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Defour",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Sebá",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "team": "FC Porto",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Atsuto Uchida",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Fuchs",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Metzelder",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Obasi",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RM",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Christoph Moritz",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ciprian Andrei Marica",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Afellay",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Jones",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jefferson Agustín Farfán Guadalupe",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Jermaine Jones",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Huntelaar",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Papadopoulos",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Holtby",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Unnerstall",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Höger",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RB",
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Meyer",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Michel Bastos",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Fährmann",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Neustädter",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kolašinac",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergio Escudero",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Barnetta",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Pukki",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Timo Hildebrand",
+      "team": "FC Schalke 04",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Albert Riera Ortega",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Aydın Yılmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Yılmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Gülselam",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Çağlar Birinci",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Cris",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dany Achille Nounkeu Tchounkeu",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Didier Yves Drogba Tébily",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Çolak",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Emmanuel Eboué",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Engin Baytar",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Eray İşcan",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Muslera",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Felipe Melo",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gökhan Zan",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hakan Kadir Balta",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Hamit Altıntop",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Elmander",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Baroš",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Amrabat",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. İnan",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Kaya",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Yıldırım",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Sabri Sarıoğlu",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "U. Bulut",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "U. Ceylan",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Wesley Sneijder",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Kurtuluş",
+      "team": "Galatasaray",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Matri",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Andrea Barzagli",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Andrea Pirlo",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "89",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Marchisio",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Emanuele Giaccherini",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Quagliarella",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Federico Peluso",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LWB",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Marrone",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Lúcio",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Cáceres",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Isla",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Marco Storari",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mirko Vucinic",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Bendtner",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nicolas Anelka",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. De Ceglie",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Rubinho",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Giovinco",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Lichtsteiner",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Padoin",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Simone Pepe",
+      "team": "Juventus",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Soumaoro",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aurélien Bayard Chedjou Fongang",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Barel Morial Mouko",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Benoît Pedretti",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Payet",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Rozehnal",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sidibé",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Balmont",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Béria",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Bruno",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Gueye",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Vandam",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Bonnart",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Debuchy",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Martin",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mickaël Landreau",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Roux",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Rodelin",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "Rio Mavuba",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ryan Mendes",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Salomon Armand Magloire Kalou",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Steeve Elana",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Túlio Vinícius Froes de Melo",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Klonaridis",
+      "team": "Lille",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "LM",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Antunes",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Kameni",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Buonanotte",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Diego Alfredo Lugano Morena",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Eliseu Pereira dos Santos",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Enzo Maresca",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Olinga",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ignacio Camacho",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Saviola",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Jérémy Toulalan",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jesús Gámez Duarte",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Joaquín",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "RM",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Juanmi",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Júlio César Clement Baptista",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Lucas Piazón",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Demichelis",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Iturra",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nacho Monreal",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Oguchi Chijioke Onyewu",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pol Freixanet",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Portillo",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Santa Cruz",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Recio",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Fernández",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Sérgio Paulo Barbosa Valente",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Weligton",
+      "team": "Malaga",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Alex Tchuimeni-Nimely",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Meppen-Walters",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Pantilimon",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Tevez",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Holmen Johansen",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Francisco Javier  García Fernández",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Barry",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Clichy",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Evans",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodwell",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Joleon Lescott",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Balotelli",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Nastasić",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Maicon Douglas Sisenando",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Micah Richards",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Zabaleta",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Sinclair",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Büttner",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Lindegaard",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Valencia",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Anderson",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Welbeck",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "ST",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Darren  Fletcher",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Macheda",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Evans",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hernández",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. King",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Larnell James Cole",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Carrick",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Keane",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Vermijl",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Powell",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nani",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Nemanja Vidic",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB",
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Patrice Evra",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Paul Scholes",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Ferdinand",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Robin van Persie",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ryan  Giggs",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Johnstone",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Kagawa",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Wootton",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Cleverley",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Rooney",
+      "team": "Manchester United",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. El Kaoutari",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Mounier",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Sylla",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Dabo",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Stambouli",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Valette",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Jeunechamp",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Congré",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Herrera",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Bocaly",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Charbonnier",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Geoffrey Jourdren",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Henri Bedimo",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Hilton",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Martin",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Tinhan",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Utaka",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Jamel Saihi",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jonathan Ligali",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Joris Marveaux",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Karim Aït-Fana",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Laurent Pionnier",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Estrada",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Yanga-Mbiwa",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mathieu Deplagne",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Cabella",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Pitau",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Camara",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Mézague",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Belhanda",
+      "team": "Montpellier",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Papazoglou",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ariel Miguel Santiago Ibagaza",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Megyeri",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Lykogiannis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Abdoun",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Diakité",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Siovas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "David Fuster Torrijos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Diogo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Modesto",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Giannis Maniatis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Fetfatzidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "José Holebas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Manolas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Konstantinos Mitroglou",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Leandro Greco",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Pantelić",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Contreras",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Paulo Ricardo Ribeiro de Jesus Machado",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Carroll",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Djebbour",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Torosidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Areola",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Alex",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Chantôme",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Christophe Jallet",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Beckham",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Lavezzi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "LW",
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Hoarau",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. van der Wiel",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Ménez",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CF",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Pastore",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Gameiro",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Bodmer",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Sakho",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Mohamed Sissoko",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Douchez",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nenê",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Armand",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Sirigu",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2012,
+      "rating": "90",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Adán",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro Arbeloa Coca",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "97",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Cheryshev",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Diego López",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fábio Coentrão",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Fernando Pacheco",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Jesús",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "José Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Juanfran",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Kaká",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Özil",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "88",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Michael Essien",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "RB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Raúl Albiol",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ricardo Carvalho",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "MID"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Xabier Alonso Olano",
+      "team": "Real Madrid",
+      "ucl_season": 2012,
+      "rating": "87",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Alan Osório da Costa Silva",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Aníbal Araújo Capela",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "António Alberto Bastos Pimparel",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Carlos Alexandre de Souza Silva",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Cristiano",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Custodio",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Djamal Abdoulaye Mahamat Bindi",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Douglas Ferreira",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Éderzito António Macedo Lopes",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Elderson Echiejile",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Hélder Barbosa",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Hugo Miguel Ferreira Gomes Viana",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Joaquim Manuel Sampaio Silva",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Leandro Salino do Carmo",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Márcio Mossoró",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Michel Souza da Silva",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nuno Andre  da Silva Coelho",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Paulo César",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Paulo Vinícius de Souza Nascimento",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ruben Amorim",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Rúben Micael",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Wanderson  Souza Carneiro",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LB"
+      ]
+    },
+    {
+      "name": "Zé Luís",
+      "team": "SC Braga",
+      "ucl_season": 2012,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alan Patrick",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Alex Teixeira",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Anton Kanibolotskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Chyhrynskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Darijo Srna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Eduardo da Silva",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Mkhitaryan",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ilsinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Luiz Adriano",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Shevchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marko Dević",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Mykola Ishchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexandr Kucher",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexiy Gai",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Răzvan Dincă Raț",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Stanislav Mykytsey",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Hübschman",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Shevchuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Vasyl Kobin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Dzyuba",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. McGeady",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Putsko",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Rebrov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleksandr Kozlov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Andriy Dikan",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ari",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. de Zeeuw",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Kombarov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Diniyar Bilyaletdinov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Mahmudov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Makeev",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "72",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Emmanuel Emenike",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Kutepov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Insaurralde",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jano Ananidze",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "José Jurado",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Källström",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Kombarov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Suchý",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pavel Yakovlev",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rafael Carioca",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Rômulo",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Bryzgalov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Chernyshuk",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Parshivlyuk",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Pesjakov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Obukhov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Welliton Soares de Morais",
+      "team": "Spartak Moscow",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Cissokho",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Costa",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Guardado",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Rami",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Barragán",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Carlos Delgado",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dani Parejo",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "David Albelda Aliques",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Diego Alves",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "É. Banega",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Gago",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Felipe Ramos",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Guaita",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Mathieu",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "João Pereira",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Jonas Gonçalves Oliveira",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CF",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Jonathan Viera",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "José Gayà",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Piatti",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Portu",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ricardo Costa",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Feghouli",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sergio Canales",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Soldado",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Víctor Ruiz",
+      "team": "Valencia",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Anyukov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Evseev",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Aleksandar Luković",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Aleksandr Bukharov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alexander Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruno Eduardo Regufe Alves",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Criscito",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Yashchuk",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Danny",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Baburin",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Hulk",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "83",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Cheminava",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Denisov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Zuev",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Zyryanov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Đorđević",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Kanunnikov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Lumb",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Lombaerts",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Roman Shirokov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Hubočan",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Viktor Faizulin",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Vyacheslav Malafeev",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Yuri Zhevnov",
+      "team": "Zenit",
+      "ucl_season": 2012,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    }
+  ]
+}

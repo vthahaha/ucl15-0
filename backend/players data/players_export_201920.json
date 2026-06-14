@@ -1,0 +1,8458 @@
+{
+  "total_players": 891,
+  "players": [
+    {
+      "name": "A. Onana",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bruno Varela",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Eiting",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. de Wit",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Tadić",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CF",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. van de Beek",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "David Neres",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Álvarez",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Ziyech",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Ekkelenkamp",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Timber",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Veltman",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Dolberg",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Huntelaar",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Pierie",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Magallán",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Traoré",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lisandro Martínez",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Lang",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Mazraoui",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Tagliafico",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Schuurs",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Q. Promes",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Marin",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. de Jong",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Dest",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Z. Labyad",
+      "team": "Ajax",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Masiello",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Tamèze",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Djimsiti",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Šutalo",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Zapata",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Colley",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Rossi",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Guilherme Arana",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "H. Hateboer",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ibañez",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Da Riva",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Iličić",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CF",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Palomino",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Czyborra",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "L. Gelmi",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Muriel",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Barrow",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Caldara",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. de Roon",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Pašalić",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Sportiello",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Gollini",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Gómez",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Bellanova",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "R. Freuler",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Gosens",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Malinovskyi",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Piccoli",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Tolói",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kjær",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Castagne",
+      "team": "Atalanta",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RWB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Adán",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álex dos Santos",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Diego Costa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Felipe",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Filipe Luís",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Germán Valera",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Hermoso",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Šaponjić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "João Félix",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Trippier",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Manu Sánchez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CM",
+        "RM",
+        "CF"
+      ]
+    },
+    {
+      "name": "N. Kalinić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Óscar Clemente",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Renan Lodi",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Rodrigo Riquelme",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Arias",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Sergio Camello",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Lemar",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Partey",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Toni Moya",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vitolo",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CF",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ansu Fati",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Arthur",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Lenglet",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carles Aleñá",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Carles Pérez",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Dani Morer",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "F. de Jong",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Iñaki Peña",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Todibo",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jandro Orellana",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Junior Firpo",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. de La Fuente",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "94",
+      "position": [
+        "RW",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Reis",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Wagué",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Malcom",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Monchu",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Nélson Semedo",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Neto",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Dembélé",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Óscar Mingueza",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Araújo",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Riqui Puig",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Akieme",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Dragović",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Stanilewicz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Aránguiz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Sinkgraven",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Baumgartlinger",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Pohjanpalo",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Tah",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Bellarabi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Demirbay",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Havertz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Volland",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Alario",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Bailey",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Hrádecký",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Diaby",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Weiser",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "N. Amiri",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lomb",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Retsos",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Özcan",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Wendell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Davies",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Arrey-Mbi",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Pavard",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Tolisso",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Perišić",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Arp",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "RB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Musiala",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Zirkzee",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Goretzka",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Mai",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Cuisance",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "91",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Tillman",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "N. Süle",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Philippe Coutinho",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Hoffmann",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "95",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Gnabry",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Singh",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Ulreich",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Bayern München",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Samaris",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Taarabt",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Caio Lucas",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Carlos Vinícius",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Chiquinho",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "David Tavares",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Cervi",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ferro",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Florentino",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Gabriel Pires",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Seferović",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Zlobin",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jota",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Nuno Tavares",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "O. Vlachodimos",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pizzi",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rafa",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Raúl de Tomás",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Tomás Tavares",
+      "team": "Benfica",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Hakimi",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "RB",
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Zagadou",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Oelschlägel",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Reyna",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Bruun Larsen",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Hupe",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Sancho",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Weigl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Balerdi",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Akanji",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Hitz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Mateu Morey",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Schulz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Paco Alcácer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Bürki",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Delaney",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Hazard",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Broja",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Rüdiger",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Gilmour",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Hudson-Odoi",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Pulišić",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RB",
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Simeu",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Emerson",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Tomori",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Lawrence",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Maatsen",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Cumming",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jorginho",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Zouma",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kepa",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Bate",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Batshuayi",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Guéhi",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Mount",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Marcos Alonso",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Kanté",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Barkley",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. James",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "T. Abraham",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Chelsea",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Sagna",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Mechele",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. De Ketelaere",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Ngonge",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Clinton Mata",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Okereke",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Dion-Johan Cools",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "É. Balanta",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Dennis",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Horvath",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Sobol",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Ricca",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "H. Vanaken",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Van der Brempt",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Vossen",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Diatta",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Letica",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Rezaei",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Openda",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Luan Peres",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Diagne",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Mitrović",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Rits",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Kossounou",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Tau",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Vormer",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Amrabat",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Deli",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mignolet",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Schrijvers",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Vlietinck",
+      "team": "Club Brugge KV",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Ademi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Gojak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Marin",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Franjić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Petković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Horkaš",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Kądzior",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Livaković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Perić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Zagorac",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Dilaver",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Moubandje",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Atiemwen",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Hajrović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "I. Šunjić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ivo Pinto",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Gvardiol",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Andrić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Théophile-Catherine",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Ivanušec",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Majer",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Đira",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Gavranović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Leovac",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Lešković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Oršić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Šitum",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Moro",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Stojanović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Baturina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Josipović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Stanković",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Vukanović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Jovičić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cañas",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Jovančić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Fardou Ben Mohamed",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Stojković",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Jander",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Borjan",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Degenek",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Gajić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. García",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Gobeljić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ivanić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Jevtović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pavkov",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Rodić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Vulić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marko Marin",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Krstović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Milunović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Petrović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Vasiljević",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Boakye",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Pankov",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. van La Parra",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Babić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Tómané",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Simić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Vujadin Savić",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Popović",
+      "team": "FK Crvena Zvezda",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Babacan",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Büyük",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ahmet Yılmaz Çalık",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Luyindama",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Bayram",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Mor",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Taşdemir",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Yardımcı",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Andone",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Muslera",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Güney",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Durmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Seri",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Arslan",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Lemina",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Linnes",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Marcão",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mariano",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ö. Bayram",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Kocuk",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Babel",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Donk",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Falcao",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Feghouli",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. İnan",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Nzonzi",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ş. Özbayraklı",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Antalyalı",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Akgün",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Y. Belhanda",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Nagatomo",
+      "team": "Galatasaray",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Heynen",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Cuesta",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. De Norre",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Ndongala",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Wouters",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Coucke",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Hagi",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Ito",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Lucumí",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Mæhle",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Paintsil",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Piotrowski",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Uronen",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Samatta",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Vandevoordt",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Neto Borges",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Hrošovský",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Onuachu",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Berge",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Dewaest",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Odey",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Bongonda",
+      "team": "Genk",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Bastoni",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Candreva",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Borja Valero",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Biraghi",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. D&apos;Ambrosio",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Godín",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Padelli",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Dimarco",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Brozović",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Politano",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Škriniar",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Vecino",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Barella",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Gagliardini",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Lukaku",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. de Vrij",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Esposito",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Handanovič",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Sensi",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Lazaro",
+      "team": "Inter",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Pinsoglio",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "92",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Bernardeschi",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. de Ligt",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Demiral",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Olivieri",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Portanova",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Dybala",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Bentancur",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Muratore",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Juventus",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Soumaoro",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. André",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Soumaré",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Bradarić",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Bamba",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Ikoné",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jérémy Pied",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "José Fonte",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Rémy",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Léo Jardim",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Luiz Araújo",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Maignan",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Reinildo",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Renato Sanches",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Thiago Maia",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Tiago Djaló",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Osimhen",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Xeka",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Yazıcı",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Z. Çelik",
+      "team": "Lille",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Lallana",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Lonergan",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Robertson",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Adrián",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alisson Becker",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Jones",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Kelleher",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Lovren",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Origi",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Fabinho",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Wijnaldum",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Gomez",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Henderson",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Keïta",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Brewster",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Roberto Firmino",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Mané",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Alexander-Arnold",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "V. van Dijk",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "91",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "X. Shaqiri",
+      "team": "Liverpool",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Kochenkov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kolomeytsev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Miranchuk",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": ""
+    },
+    {
+      "name": "A. Miranchuk",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CF",
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Idowu",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Rotenberg",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Barinov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kulikov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Rybchinskiy",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Zhivoglyadov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Éderzito António Macedo Lopes",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Smolov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Krychowiak",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Guilherme",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "João Mário",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Đorđević",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lysov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Rybus",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Murilo",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Dorofeev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Medvedev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Titkov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Tugarev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Zhemaletdinov",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Kvirkvelia",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Magkeev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Ćorluka",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vladislav Ignatjev",
+      "team": "Lokomotiv",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Gouiri",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Anthony Lopes",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Traoré",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Bruno Guimarães",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Tătărușanu",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Aouar",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Andersen",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Denayer",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Reine-Adélaïde",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Jean Lucas",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Tete",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Toko Ekambi",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Dubois",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "L. Tousart",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Bard",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Caqueret",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Cornet",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "LWB",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Depay",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CF",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Terrier",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Marçal",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Cherki",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Diomandé",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Thiago Mendes",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Koné",
+      "team": "Lyon",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Adrián Bernabé",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Angeliño",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Aymeric Laporte",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Mendy",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "RW",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Bravo",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Palmer",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Eric García",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Gabriel Jesus",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Stones",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "João Cancelo",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "91",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Walker",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Zinchenko",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Foden",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Mahrez",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rodri",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Carson",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Doyle",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Harwood-Bellis",
+      "team": "Manchester City",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Meret",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Milik",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Younes",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Allan",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Mertens",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Ospina",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Elmas",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Hysaj",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Ghoulam",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Fabián Ruiz",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Di Lorenzo",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Gaetano",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Lozano",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Koulibaly",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Malcuit",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Manolas",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "Llorente",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Mário Rui",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Maksimović",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Karnezis",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Zieliński",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Lobotka",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Luperto",
+      "team": "Napoli",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Bouchalakis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Martinis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Avraam Papadopoulos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Allain",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bruno Felipe",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Bruno Gaspar",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Daniel Podence",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Durmishaj",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Masouras",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Xenitidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Guilherme",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Soudani",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Karargyris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "José Sá",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Fortounis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Tsimikas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Tzolakis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Christodoulopoulos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Koútris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Ranđelović",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Camara",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Lovera",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Siampanis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Miguel Guerrero",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Nikolis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Ba",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Elabdellaoui",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Cissé",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rúben Semedo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Torosidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Y. Benzia",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. El-Arabi",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Meriah",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Kalimuendo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ander Herrera",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Dagba",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Choupo-Moting",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Innocent",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Gueye",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Ruiz-Atil",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "91",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Mbe Soh",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Paredes",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Bakker",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Bułka",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Icardi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "92",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kehrer",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Meunier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Nianzou",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Haidara",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Lookman",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Nkunku",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Borkowski",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Demme",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Upamecano",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Ampadu",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Forsberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Wolf",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Hugo Novoa",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Konaté",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Wosz",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Laimer",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Klostermann",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Halstenberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Sabitzer",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Saracchi",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Mukiele",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Gulácsi",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Schick",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Tschauner",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Adams",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Krauß",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Werner",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "W. Orbán",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Mvogo",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Poulsen",
+      "team": "RB Leipzig",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Areola",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Brahim Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dela",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Diego Altube",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LF"
+      ]
+    },
+    {
+      "name": "Éder Militão",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Mendy",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Valverde",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Bale",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Javi Hernández",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Jović",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marco Asensio",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Odriozola",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rodrygo",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "88",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "Real Madrid",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Bernede",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Ulmer",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Vallci",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "André Ramalho",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Stanković",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Carlos Coronel",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Szoboszlai",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Haaland",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Mwepu",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Hwang Hee-Chan",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Onguéné",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Ashimeru",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Okugawa",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Pongračić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Wöber",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Daka",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Farkas",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Köhn",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Kristensen",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Koïta",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Prevljak",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Minamino",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Z. Junuzović",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Trubin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alan Patrick",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Butko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Khocholava",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sikan",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Dodô",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Júnior Moraes",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Matvienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Solomon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marcos Antônio",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marlos",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marquinhos Cipriano",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Shevchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Bolbat",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Tetê",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "V. Bondar",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Kovalenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Konoplyanka",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Băluță",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Král",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Abdulla Yusuf Helal",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Hovorka",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Traoré",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Bořil",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Hušbauer",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Markovič",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Zelený",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Masopust",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Provod",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Takács",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "69",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Frydrych",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Škoda",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. van Buren",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Miroslav Stoch",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Stanciu",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Kolář",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Kúdela",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Olayinka",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Ševčík",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Přemysl Kovář",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Tecl",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Holeš",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Souček",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Coufal",
+      "team": "Slavia Praha",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Whiteman",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Austin",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Alli",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Rose",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Sánchez",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Dier",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Lamela",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Lo Celso",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Gedson Fernandes",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "H. Kane",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Lloris",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Winks",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Foyth",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Tanganga",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Vertonghen",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Walker-Peters",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RW",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Fagan-Walcott",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Sissoko",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Vorm",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Skipp",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Gazzaniga",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Sessegnon",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Aurier",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Bergwijn",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "86",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Ndombélé",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Parrott",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Wanyama",
+      "team": "Tottenham",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Florenzi",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Carlos Soler",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Cristian Rivero",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Cheryshev",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Wass",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Dani Parejo",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "83",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Garay",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Coquelin",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ferran Torres",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "G. Kondogbia",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gabriel Paulista",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "79",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Guillem Molina",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hugo Guillamón",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jaume Costa",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jaume Doménech",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "José Gayà",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Gameiro",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lee Kang-In",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Diakhaby",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Gómez",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Manu Vallejo",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Pablo Gozálbez",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "62",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "81",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rubén Sobrino",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Thierry Correia",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Vicente Esquerdo",
+      "team": "Valencia",
+      "ucl_season": 2019,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Dzyuba",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Erokhin",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Lunev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Sutormin",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Vasyutin",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Ivanović",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Kuzyaev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Prokhin",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Douglas Santos",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Mammana",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Smolnikov",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Vorobjev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Musaev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "66",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Kranevitter",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "72",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Ozdoev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Goylo",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Rybikov",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Shatov",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "73",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Mak",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Azmoun",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Driussi",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Karavaev",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "W. Barrios",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Osorio",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Zhirkov",
+      "team": "Zenit",
+      "ucl_season": 2019,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    }
+  ]
+}

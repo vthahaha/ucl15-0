@@ -1,0 +1,10804 @@
+{
+  "total_players": 1112,
+  "players": [
+    {
+      "name": "A. Alibekov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Bastoni",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Bernede",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Á. Bogdán",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Bol",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Bouchalakis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Cerbara",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Chernikov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Cherny",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RM",
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Csonka",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Davies",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Dedić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Di Pardo",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Dia",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Dreyer",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Dzyuba",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Epureanu",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Erokhin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Florenzi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Furlanetto",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Gomis",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Haidara",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM",
+        "RM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Hakimi",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "RWB",
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Hunou",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Ionov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Ivashin",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Kalimuendo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Kamara",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kamardin",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Kıvanç",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Knauff",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Kochenkov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Kovačević",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Laïdouni",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Letellier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Lookman",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Lunev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Lunin",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Mabil",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Marchesín",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Martial",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Martynovich",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Marušić",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "RWB",
+        "LWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Matsukatov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Miranchuk",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "RW",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Miranchuk",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Mohamed",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Mostovoy",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Ndrecka",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Nübel",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Onana",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Phliponeau",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Pinamonti",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Pléa",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Poulsen",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Ranocchia",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Riccio",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Robertson",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Rüdiger",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Sagna",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Sandrachuk",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Savin",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Scholz",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Shabanov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Siljanov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Şimşir",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Sørloth",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Stiller",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Sutormin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Tekuchev",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Trubin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Truffert",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Tsavos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Tuanzebe",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Ulmer",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Vallci",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Vasyutin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Walke",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Wan-Bissaka",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Abraham Akwasi Frimpong",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Adrián",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Adrián Bernabé",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Adrián González",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alan Patrick",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleix Vidal",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Aleksandr Kasjanenko",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Álex Pozo",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Alex Telles",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Alfonso Pastor",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alisson Becker",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro García",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Álvaro González",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ammar Ramadan",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ander Herrera",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "André Anderson",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "André Ramalho",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Andreas Pereira",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Andrey Sinitsyn",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Angeliño",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LWB",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ansu Fati",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Antonio Blanco",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Antonio Zarzana",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Antony",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Ari",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Arnau Tenas",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Artem Dudik",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Artem Kravets",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Arthur",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Avraam Papadopoulos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aymeric Laporte",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Adekanye",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Allain",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Arrey-Mbi",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Bolingoli-Mbombo",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Bourigeaud",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Brobbey",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Butko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Chilwell",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Djimsiti",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Embolo",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "ST",
+        "RW",
+        "CF"
+      ]
+    },
+    {
+      "name": "B. Fadiga",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Gilmour",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Henrichs",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Kamara",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Kraev",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Lednev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Mechele",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Mendy",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Özcan",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Pavard",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Radunović",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Rotenberg",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Sarr",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Soppy",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Šutalo",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Vécsei",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Verbič",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Viunnyk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Williams",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Bartolomeu Jacinto Quissanga",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "RM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Billy Dawson Koumetio",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Borja Mayoral",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruma",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Bruno Felipe",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Bryan Gil",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Dagba",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. De Ketelaere",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CF",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. de Pena",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Eiting",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Grenier",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Hudson-Odoi",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Immobile",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Jones",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Kelleher",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Kramer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Lenglet",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Mbemba",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Nkunku",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "C. Palmer",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Piccini",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "C. Pinsoglio",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Pulišić",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Ramírez",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Richards",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Rocchia",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Romero",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Souaré",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Stanković",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Tolisso",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cafú",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Carles Aleñá",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Carlos Álvarez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Carlos Coronel",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Carlos Fernández",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Carlos Ponck",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carraça",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "CB",
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Cláudio Ramos",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Clayton",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Clinton Mata",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "91",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Adamov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Akintola",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Aleksić",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Anderson",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Ba",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Barinov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Benedetto",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Borkowski",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Boyko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Ćaleta-Car",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Cataldi",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Chistyakov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Csontos",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. D&apos;Ambrosio",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "D. Da Silva",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Dibusz",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Franco",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Garmash",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Ghislandi",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Goncharuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Henderson",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Høegh",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Ignatenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. James",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Khocholava",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Khotulev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Klaassen",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kotarski",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Krugovoy",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Kulikov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kulusevski",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RW",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Kuzyaev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Lovren",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Odoevskiy",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Okereke",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Origi",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Padelli",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Payet",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Peeters",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Pelikh",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Popov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Prokhin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Redzic",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Rensch",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Rybchinskiy",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Sergeev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Shamkin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Sigér",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Sikan",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Skorko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Stotskiy",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LM",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Szoboszlai",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Tadić",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LW",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Terentjev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Türüç",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Upamecano",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Utkin",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. van de Beek",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Vavro",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Wanner",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Zagadou",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Zakaria",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Zapata",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Zhivoglyadov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dalbert Henrique",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RB",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo Pereira",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "David Neres",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Denys Shostak",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Diego Altube",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diego Carlos",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Diego Costa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Diogo Costa",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diogo Dalot",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Diogo Jota",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CF",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Diogo Leite",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dion-Johan Cools",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "RB",
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Dodô",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Douglas Santos",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Álvarez",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Bailly",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "É. Balanta",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Botka",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Camavinga",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Chernov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Choupo-Moting",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Ćivić",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "E. Crivelli",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Dennis",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Forsberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Gorodov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Haaland",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Horvath",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Kaplan",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Karakuş",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Markov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Martel",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "É. Mendy",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "É. Michut",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Mwepu",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Rigoni",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Sobol",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "E. Sorokin",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Sottini",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Spertsyan",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Sviatchenko",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Višća",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Éder Militão",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Éderzito António Macedo Lopes",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Emerson",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Eric García",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Evander",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Evanilson",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Acerbi",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Anjorin",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Bernardeschi",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Boli",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Caicedo",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Carboni",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Chabrolle",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Chiesa",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "RW",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Cortinovis",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. de Jong",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Depaoli",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Gulbrandsen",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Hartmann",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Israel",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Kamano",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Kitsos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Maouassa",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Mendy",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Neuhaus",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Nmecha",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Onyeka",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Passlack",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Pellistri",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Ricca",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Rossi",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Smolov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Stanković",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Tait",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Thauvin",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Tomori",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Valverde",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Vanni",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Vázquez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Vezzoni",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fabinho",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Fábio Silva",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fábio Vieira",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Famana Quizera",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Felipe",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Felipe Anderson",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ferran Torres",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Fran Sol",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Francisco Conceição",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Francisco Meixedo",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fred",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Escalante",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Frabotta",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "G. Garofani",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Innocent",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Isaksen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Kondogbia",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Krychowiak",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Lovrencsics",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Masouras",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Nyamsi",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Oristanio",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Reyna",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Rodrigues",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Rutter",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Scalvini",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Szécsi",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Tsitaishvili",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "G. Vrioni",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Wijnaldum",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Gabriel Jesus",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Germán Valera",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Giuliano",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Guilherme",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Bushchan",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Cuypers",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Davies",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Hateboer",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Kaldırım",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "H. Maguire",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Rafia",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "H. Sakai",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "H. Soudani",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Sudakov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Traoré",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Vanaken",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Wolf",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "H. Ziyech",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Hermoso",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Hugo Duro",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Hugo Novoa",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "RW",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Hwang Hee-Chan",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "I. Grbić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Gueye",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "İ. Kahveci",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "I. Karargyris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Kharatin",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Konaté",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Martynov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Moriba",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Perišić",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LWB",
+        "LW"
+      ]
+    },
+    {
+      "name": "I. Petukhov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Radu",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Šaponjić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Smolnikov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "I. Sukhoruchenko",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Tarasov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Traoré",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "I. Vakhania",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Van der Brempt",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "I. Vorotnikov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "I. Zabarnyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Iñaki Peña",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Isael",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RW",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ismaël Gharbi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Iván Romero",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Akpa Akpro",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Amavi",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Andersson",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Bellingham",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Beyer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Cain",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Cajuste",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Corona",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Correa",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "RB",
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Da Riva",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Doku",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LW",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Ekkelenkamp",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Garner",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Gélin",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Gomez",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Hansen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Henderson",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Hofmann",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RM",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Iličić",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CF",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Kluivert",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Koundé",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Léa Siliki",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Lingard",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Lukaku",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "J. Mæhle",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LWB",
+        "RWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Martin",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Mojica",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "J. Musiala",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Olschowsky",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Onguéné",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Palomino",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Rahou",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Sanabria",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Sancho",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Sery Larsen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Stanišić",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Stones",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Timber",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Trafford",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Villalba",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Wosz",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Zirkzee",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jasurbek Jaloliddinov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Javi Díaz",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Javi Vázquez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Joan Jordán",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "João Cancelo",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "RB",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "João Félix",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "João Mário",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Jony",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jorginho",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "José Holebas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "CB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "José Sá",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Josep Martínez",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Juanlu Sánchez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Júnior Brumado",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Júnior Caiçara",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Junior Firpo",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Júnior Moraes",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Adeyemi",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Bennetts",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "91",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. de La Fuente",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. De Winter",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Diatta",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Fortounis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Havertz",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Huntelaar",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Kravtsov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Kurt",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "K. Laimer",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Nagera",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Olsson",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Rekik",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Riis",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Ruiz-Atil",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Scherpen",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Shchetinin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Strootman",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Taylor",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Trippier",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "K. Tsimikas",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Tzolakis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Vivcharenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "K. Walker",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Žiger",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Zouma",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kaio Pantaleão",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Kepa",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kike Ríos",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Koka",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "91",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Assignon",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Balerdi",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Bénes",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Brassier",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Clarkson",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. de Jong",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Delap",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Díaz",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Đorđević",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Dvali",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Gelmi",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Goretzka",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Jović",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Klostermann",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Koútris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "93",
+      "position": [
+        "RW",
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Moretti",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Muriel",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Musaev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Ocampos",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Őri",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Paredes",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Perrin",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Pfeiffer",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Pirola",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RB",
+        "CB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "L. Ranđelović",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Sabua",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Samardžić",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Sané",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Schneller",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Shaw",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "L. Stindl",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Sučić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Torreira",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Traoré",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Ugochukwu",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Unbehaun",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lasse Vibe",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lee Grant",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lisandro Martínez",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Lucas Cañizares",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lucas Leiva",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Luis Alberto",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Luis Henrique",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Luis López",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Luiz Felipe",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Abdallah",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Acuña",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "M. Adamonis",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Ageev",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Akanji",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Aké",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Alia",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Andersen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Anderson",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Ashimeru",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Bakker",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Berg",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Berisha",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Bertini",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Blažič",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Braithwaite",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Brozović",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Burda",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Caldara",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Camara",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Camara",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Carnesecchi",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Cuisance",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Da Graca",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Darmian",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. De Cuyper",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "M. de Ligt",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. de Roon",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Demiral",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Doucouré",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Dräger",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "M. Duelund",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. El Haddadi",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Fares",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LWB",
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ginter",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Greenwood",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Grujić",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Grün",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Günok",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Halstenberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Heister",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Hitz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Icardi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. James",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kapo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kean",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Krmenčík",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Kudus",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Kutovoy",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lang",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Lazzari",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "M. Lopez",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Loum",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Lovera",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Lysov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Mampassi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Marega",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Matvienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Mbaye",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Mitrović",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Mount",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Mukhin",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Musacchio",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Niang",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Novella",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Ødegaard",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Okugawa",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Ozdoev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Parolo",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pašalić",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Pessina",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Pica",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pjaca",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Portanova",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Randriamamy",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Rashford",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Rits",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Rojo",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ruggeri",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Rybus",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Sabitzer",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Safonov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Sanson",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Sarr",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Satriano",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Shaparenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Škriniar",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Škvarka",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Solomon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Sportiello",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Stekelenburg",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Suleymanov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Taremi",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Tekdemir",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Terrier",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LW",
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Thuram",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LM",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Topal",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Uribe",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Uzuni",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Vecino",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Voytikhovskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Vrousai",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Wöber",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Wolf",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Zaiser",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Madiu Bari",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Maksym Malyshev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Malcom",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Manu Sánchez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marc Roca",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marco Asensio",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Marcos Alonso",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Marcos Antônio",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "RM",
+        "CM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Marlos",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "RM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Marquinhos Cipriano",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Martin Škrtel",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Márton Bánki",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marvin Park",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Mateu Morey",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Matheus Fernandes",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Maycon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Miguel Gutiérrez",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Miguel San Román",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Murilo",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Aguerd",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Ahmed",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Aké",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Armini",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Barella",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Baxter",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Bochko",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Bonfanti",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Chadli",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Diallo",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Dyhr",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Elvedi",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Fagioli",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Fuakala",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Gudelj",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Iosifov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "N. Kanté",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Keïta",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lang",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Madsen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Mazraoui",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Mukiele",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Nikolis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Okafor",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LM",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Pérez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Phillips",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Radonjić",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Rusyn",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Rybikov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Schulz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "N. Seiwald",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Sergeev",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Shinton",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Simdyankin",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Squizzato",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Süle",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Tagliafico",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Titkov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Williams",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Nanu",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Neto",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "90",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "O. Andrievskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Ba",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Dembélé",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Idrissi",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Ighalo",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Kabak",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Karavaev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "O. Kossounou",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ö. Kristinsson",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Olsen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "O. Pikhalyonok",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Shevchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Solet",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Sørensen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Syrota",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Tymchyk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "O. Wendt",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "O. Zinchenko",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Zubkov",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Odriozola",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Oliver Ottesen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Óscar Castro",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Óscar Mingueza",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Óscar Rodríguez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Otávio",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Bonet",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Cissé",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Daka",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Dybala",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Farkas",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Foden",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "LW",
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Gollini",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Gómez",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Gueye",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Gulácsi",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Herrmann",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CM",
+        "LM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Schuurs",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Sisto",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Tschauner",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Patric",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Pedri",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pepe Reina",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pêpê Rodrigues",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Philippe Coutinho",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Q. Promes",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LW",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Araújo",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Barkley",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Baturina",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Bensebaïni",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Bentancur",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Boscolo Chio",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Bürki",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Cabella",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Del Castillo",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Drăgușin",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Durmisi",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "R. Freuler",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Gagliardini",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Gosens",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Gravenberch",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Hoffmann",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. James",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "R. Khalnazarov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Kristensen",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "92",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Lukaku",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Mahrez",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Mak",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Malinovskyi",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Marin",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Nainggolan",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Neshcheret",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Nicolaisen",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Reitz",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Rzaev",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Salin",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Saravia",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Schwartz",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Tolói",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Tugarev",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varga",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Vormer",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Williams",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Zhemaletdinov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "LB",
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Raphinha",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Raul Moro",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Reinier",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Renan Lodi",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Ricard Sánchez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Richecard Richard",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Riqui Puig",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Roberto Firmino",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Rodri",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Rodrygo",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Romário Baró",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rúben Semedo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rúben Vinagre",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Ruslan Kambolov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Agkatsev",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Azmoun",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Boey",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Bolbat",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Borodin",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Buletsa",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Carson",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Czyż",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. de Vrij",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Deli",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Dest",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Driussi",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Drljača",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Eshchenko",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Gnabry",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Guirassy",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Handanovič",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Kaba",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Khaoui",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Kiyine",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Klaiber",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Koïta",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kvirkvelia",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Lainer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Lammens",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Lammers",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Lulić",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Magkeev",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mandanda",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Mané",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "S. McTominay",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Mignolet",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Milinković-Savić",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Nakajima",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Ngapandouetnbu",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Nzonzi",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Panada",
+      "team": "Atalanta",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Petrov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Proto",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ş. Radu",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Ramos",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Romero",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Sazonov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Schrijvers",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Sensi",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Sydorchuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Tigges",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. van den Berg",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "LM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergi Gómez",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Arribas",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergio Camello",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Sergio Escudero",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Sérgio Oliveira",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sergio Santos",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Slobodan Rajković",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Suso",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Abraham",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Adams",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Alexander-Arnold",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Androutsos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Baeten",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Băluță",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Delaney",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Doyle",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Fosu-Mensah",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "RB",
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Harwood-Bellis",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Hazard",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LM",
+        "RM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "T. Jantschke",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kędziora",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Kehrer",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "88",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Lemar",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "LM",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Mengi",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Meunier",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "T. Minamino",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Müsel",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Nguen",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Nianzou",
+      "team": "Bayern München",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Pembélé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Persyn",
+      "team": "Inter",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "T. Raschl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Schreiber",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Sippel",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Strakosha",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Vaclík",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Van den Keybus",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Vilhena",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Vlietinck",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Werner",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Tetê",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Tiago Silva",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Tiquinho Soares",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Tomás Esteves",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Toni Martínez",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Toni Moya",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Trincão",
+      "team": "Barcelona",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "U. Bertelli",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "U. Spajić",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Babacan",
+      "team": "Başakşehir",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Birksø",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Bondar",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Bondarenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Buyalskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Churko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "V. Claesson",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Ćorluka",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Germain",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "V. Jaroš",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Jensen",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Karavaev",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Kornienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Kostevych",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Kovalenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Lazaro",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Lindelöf",
+      "team": "Manchester United",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Lisakovich",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Litvinov",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Lystsov",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Morgun",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Muriqi",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Mykolenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Rongier",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Shepelev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Simutenkov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Sourlis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Stezhko",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Supryaga",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Tankovskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Torosidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Torp",
+      "team": "FC Midtjylland",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Tsygankov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "V. Vakula",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "V. van Dijk",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vaná",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Víctor Chust",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Víctor Mollejo",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "Real Madrid",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Vitão",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vitinha",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Vitolo",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Vladislav Ignatjev",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "W. Barrios",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Chelsea",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "W. Hoedt",
+      "team": "Lazio",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. McKennie",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "W. Omari",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Orbán",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Juventus",
+      "ucl_season": 2020,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Wanderson",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Wellington Nem",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Wendel",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "CM",
+        "LM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Wergiton do Rosário Calmon",
+      "team": "Ferencvarosi TC",
+      "ucl_season": 2020,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Wilson Manafá",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "X. Shaqiri",
+      "team": "Liverpool",
+      "ucl_season": 2020,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "X. Simons",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Badji",
+      "team": "Club Brugge KV",
+      "ucl_season": 2020,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Bounou",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2020,
+      "rating": "82",
+      "position": [
+        "LM",
+        "LWB",
+        "LW"
+      ]
+    },
+    {
+      "name": "Y. El-Arabi",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. En-Nesyri",
+      "team": "Sevilla",
+      "ucl_season": 2020,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Gazinskiy",
+      "team": "FC Krasnodar",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Gboho",
+      "team": "Rennes",
+      "ucl_season": 2020,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Grytsenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Konoplyanka",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. M&apos;Vila",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Moukoko",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Nagatomo",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Y. Pelé",
+      "team": "Marseille",
+      "ucl_season": 2020,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Poulsen",
+      "team": "RB Leipzig",
+      "ucl_season": 2020,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF",
+        "RW"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Saidani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2020,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2020,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Tlumak",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2020,
+      "rating": "61",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Zhirkov",
+      "team": "Zenit",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Z. Junuzović",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Z. Labyad",
+      "team": "Ajax",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Z. Sanusi",
+      "team": "FC Porto",
+      "ucl_season": 2020,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Z. Steffen",
+      "team": "Manchester City",
+      "ucl_season": 2020,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Zé Luís",
+      "team": "Lokomotiv",
+      "ucl_season": 2020,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    }
+  ]
+}

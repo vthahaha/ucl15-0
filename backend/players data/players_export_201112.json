@@ -1,0 +1,8446 @@
+{
+  "total_players": 883,
+  "players": [
+    {
+      "name": "A. Nocerino",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Alberto Aquilani",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Alessandro Nesta",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Alexandre Pato",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Antonio Cassano",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Cristante",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Christian Abbiati",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Clarence  Seedorf",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Bonera",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Mesbah",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Roma",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Gianluca Zambrotta",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Abate",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Boateng",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Luca Antonini",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Yepes",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marco Amelia",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mark van Bommel",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Massimo Ambrosini",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Maximiliano Gastón López",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Philippe Mexès",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Robinho",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "LW",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. El Shaarawy",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Ganz",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Taïwo",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Urby Vitorrio Diego Emanuelson",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LM",
+        "CAM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "AC Milan",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Ooijer",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Özbiliz",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB",
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Bulykin",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Klaassen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Koppers",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Derk Boerrigter",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eyong Tarkang Enoh",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. van der Wiel",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Lukoki",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Vertonghen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Vermeer",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kolbeinn Sigþórsson",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Ebecilio",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Lesly de Sa",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Sulejmani",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Boilesen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Lodeiro",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Ligeon",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ricardo van Rhijn",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. de Jong",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Janssen",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Serero",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Anita",
+      "team": "Ajax",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Christofidis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Panagiotou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Aílton José Almeida",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Aldo Adorno",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Anthos Solomou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Christos Kontis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dionisis Chiotis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Antoniou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Solari",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Hélder Bruno Macedo De Sousa",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Hélio José Ribeiro Pinto",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Trichkovski",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Charalambidis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Kaká",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Antoniades",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ilia",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Marcelo Oliveira",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcinho",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marinos Satsias",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Alexandrou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Nuno Morais",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Panos Constantinou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Paulo Jorge Soares  Gomes",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Jahić",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Savvas Poursaitidis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kissas",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Tijani Belaid",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "U. Pardo",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "William Cleite Boaventura",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Alexandre Dimitri Song-Billong",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "André Clarindo dos Santos",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Andrey Arshavin",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Armand Traoré",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Sagna",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Eastmond",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Jenkinson",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Frimpong",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Coquelin",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Lansbury",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ignasi Miquel",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jack Wilshere",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Johan Danon Djourou-Gbadjere",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Gibbs",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ł. Fabiański",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Laurent Koscielny",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Li Ke",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Marouane Chamakh",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Mikel Arteta Amatriain",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Bendtner",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Özyakup",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Mertesacker",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Park Chu-Young",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Miyaichi",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Robin van Persie",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Sébastien Squillaci",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Rosický",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Walcott",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Thierry  Henry",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Mannone",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Vassiriki Abou Diaby",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Benayoun",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Gervinho",
+      "team": "Arsenal",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB",
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "93",
+      "position": [
+        "CM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Andreu Fontàs",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carles Puyol i Saforcada",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Cesc Fàbregas",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Cristian Tello",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "89",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "David Villa",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Deulofeu",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Abidal",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Afellay",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Isaac Cuenca",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. dos Santos",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "José Manuel Pinto Colorado",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kiko Femenía",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "98",
+      "position": [
+        "CF",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Martí Riverola",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Martín Montoya",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Muniesa",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Oier",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergi Gómez",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "90",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Seydou Keita",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Víctor Valdés Arribas",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Xavier Hernández Creus",
+      "team": "Barcelona",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Gutor",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Shcherbakov",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleksandr Pavlov",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandr Volodko",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandr Yurevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Alex",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Artem Kontsevoy",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Baga",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Dmitri Likhtarovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Chudnovskiy",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Filipenko",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Kuntsevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Olekhnovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Rudik",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Tsyvilko",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Igor Shitov",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Aleksiyan",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Bordachev",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Gordeychuk",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Simić",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Skavysh",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Volodko",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mateja Kezman",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Patotskiy",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Pavel Chesnovskiy",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pavel Nekhaychik",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Bressan",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Glebko",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Kurlovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vitali Rodionov",
+      "team": "Bate Borisov",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Schürrle",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Leno",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Oczipka",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. da Costa",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "D. Schwaab",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "David Yelldell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Derdiyok",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Zenga",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Giefer",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Gonzalo Castro Randon",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Balitsch",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Bellarabi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Ballack",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Friedrich",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kadlec",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ortega",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Nicolai Mick Jørgensen",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ö. Toprak",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Renato Augusto",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Kießling",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Rolfes",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sam",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Stefan Reinartz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Ćorluka",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Anatoliy Tymoshchuk",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Schweinsteiger",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "90",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Breno",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Contento",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Van Buyten",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Danijel Pranjić",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "92",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "H. Badstuber",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "H. Butt",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Olić",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Luiz Gustavo",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Gómez",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "90",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "92",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Riedmüller",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Petersen",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Lahm",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Sattelmaier",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "CF",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Usami",
+      "team": "Bayern München",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Artur Moraes",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bruno César",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Bruno Varela",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Capdevila",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "David Simão",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Garay",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Pérez",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Eduardo",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Emerson da Conceição",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Jara",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Fabio  do Passo Faria",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Francisco Javier  García Fernández",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Saviola",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luís Martins",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Vítor",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mika",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nélson Oliveira",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nolito",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Ó. Cardozo",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Aimar",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Ruben Amorim",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Rúben Pinto",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Yannick Djalo",
+      "team": "Benfica",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Antônio da Silva",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Löwe",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Felipe Santana",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Perišić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Błaszczykowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Großkreutz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Barrios",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Langerak",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Mohamed Zidan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Moritz Leitner",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Subotić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Owomoyela",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Weidenfeller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Bender",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kagawa",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Sebastian Kehl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Cole",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "90",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Alex",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Ivanović",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Daniel Andre Sturridge",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "David Luiz",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Didier Yves Drogba Tébily",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Lampard",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "89",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Malouda",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Gary Cahill",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hilário",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. McEachran",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Terry",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "José Bosingwa da Silva",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Michael Essien",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mikel John Obi",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Nicolas Anelka",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Oriol Romeu",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Paulo Renato Rebocho Ferreira",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Petr Čech",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Bertrand",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ramires",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Raul José Trindade Meireles",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ross Turnbull",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Salomon Armand Magloire Kalou",
+      "team": "Chelsea",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Dzagoev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Musa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Popov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Vasiljev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandrs Cauņa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Alexei Berezutski",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Chidi Odiah",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Deividas Šemberas",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Elvir Rahimic",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Evgeni Aldonin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Shchennikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Akinfeev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Nababkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Keisuke Honda",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Kim In-Sung",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Mark Dennis González Hoffmann",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Mamaev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Wernbloom",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Revyakin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Serderov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Sekou Jabateh Oliseh",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Semen Fedotov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Sergei Ignashevich",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergey Chepchugov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Seydou Doumbia",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Necid",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Vasin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vágner Love",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Vladimir Gabulov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Vyacheslav Isupov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Z. Tošić",
+      "team": "CSKA Moscow",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Ademi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Calello",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Kramarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Puljić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ante Rukavina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Antun Palić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Škvorc",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Vida",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "F. Bećiraj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Lončarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Kelava",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Krstanović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Tomečak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Sylvestr",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Jerko Leko",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jorge Sammir Cruz Campos",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Josip Simunic",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Cufré",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Ibáñez",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Badelj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Chago",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Šitum",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Mehmed Alispahić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Pokrivač",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Zelenika",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pedro Andrés Morales Flores",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Tomislav Barbarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Tonel",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Ajeti",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Dragović",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Frei",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Huggel",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Cabral",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Abraham",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Frei",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Fwayo Tembo",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Xhaka",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Genséric Kusunga",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Gilles Donald Yapi-Yapo",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jacques Zoua Daogari",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Voser",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Colomba",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Herzog",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Steinhöfer",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Streller",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Degen",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Schürpf",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Pak Kwang-Ryong",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Park Joo-Ho",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Buess",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Andrist",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Wieser",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Scott Kenneth Chipperfield",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Xhaka",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Stocker",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "X. Shaqiri",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "FC Basel 1893",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro Daniel Pereira Barragán",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Săpunaru",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Cristian Gabriel Rodríguez Barrotti",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Djalma",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Belluschi",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Guarín",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Helton da Silva Arruda",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Hulk",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "João Moutinho",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Jorge Ciro Fucile Perdomo",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Kléber",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Maicon",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafael Bracali",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rolando",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Defour",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Souza",
+      "team": "FC Porto",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Limbombe",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Masika",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Masuero",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Vanden Borre",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "B. Tóth",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Calvin Anele Ngcongca",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Hubert",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Verhulst",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Daniel Pudil",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Dániel Tőzsér",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Dugary Ndabashinze",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "E. Barda",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Camus",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Spruyt",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gilles Lentz",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Grzegorz Sandomierski",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Istvan Bakx",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Croux",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Gaethofs",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Simaeys",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Vossen",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jordie Briels",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "José Nadson Ferreira",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Kennedy Ugoala Nwanganga",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Khaleem Hyland",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Köteles",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Madeng",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Leandro Damián Grimi",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ogunjimi",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Sarr",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Gerkens",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Huysegems",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Peeters",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Walsh",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Wertelaers",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Seppe Brulmans",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Joneleit",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Thomas Buffel",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Timothy Durwael",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "W. Ofori",
+      "team": "Genk",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Poli",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ranocchia",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Romanò",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Cristian Eugen Chivu",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Dejan Stankovic",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Diego Alberto Milito",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Diego Forlán Corazo",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "E. Cambiasso",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Giampaolo Pazzini",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Obi",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Javier Aldemar Zanetti",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "RB",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jonathan",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Júlio César",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Caldirola",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Crisetig",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Luca Castellazzi",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lúcio",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Bianchetti",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Faraoni",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Zárate",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "Maicon Douglas Sisenando",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Paolo Orlandoni",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Philippe Coutinho",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Álvarez",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Walter Adrián Samuel Luján",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Wesley Sneijder",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Nagatomo",
+      "team": "Inter",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB",
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Oukidja",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Soumaoro",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aurélien Bayard Chedjou Fongang",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Barel Morial Mouko",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Benoît Pedretti",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Payet",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Rozehnal",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "LW",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Balmont",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Béria",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Bruno",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Gueye",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Jelen",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Cole",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Bonnart",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ludovic Obraniak",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Debuchy",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Mickaël Landreau",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Moussa Sow",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Wade",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Souaré",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Rodelin",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "Rio Mavuba",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Túlio Vinícius Froes de Melo",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Enyeama",
+      "team": "Lille",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Cissokho",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Lacazette",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Réveillère",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Anthony Lopes",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Gomis",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Koné",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Grenier",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Cris",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Lovren",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Réale",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Gueïda Fofana",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Lloris",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Harry Novillo",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "I. Belfodil",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jérémy Pied",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW",
+        "RB"
+      ]
+    },
+    {
+      "name": "Jimmy Briand",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "John Mensah",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Källström",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Gassama",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. López",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Dabo",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Gonalons",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Valverde",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Michel Bastos",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LW",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Seguin",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Vercoutre",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Koné",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Fontaine",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Kolodziejczak",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "X. Chavalerin",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Yannis Tafer",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Yoann  Gourcuff",
+      "team": "Lyon",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Adam Johnson",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Alex Tchuimeni-Nimely",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Pantilimon",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Tevez",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Barry",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Clichy",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Joleon Lescott",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kolo Habib Touré",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Balotelli",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Micah Richards",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Onuoha",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Nigel de Jong",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Zabaleta",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Taylor",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Lindegaard",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Valencia",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Anderson",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Welbeck",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Darren  Fletcher",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Darron Gibson",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Dimitar Ivanov Berbatov",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Macheda",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fábio",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Evans",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hernández",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ji-Sung Park",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LM",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Carrick",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Diouf",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Owen",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nani",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Nemanja Vidic",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Patrice Evra",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Ferdinand",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ryan  Giggs",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Rooney",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "90",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Z. Fryers",
+      "team": "Manchester United",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Ayew",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Gignac",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alou Diarra",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Cheyrou",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Omrani",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Brandão",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Kaboré",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Chris Gadi N'Kiasala",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Traoré",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Elinton Sanchotene Andrade",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Roland",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gennaro Bracigliano",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Ayew",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Morel",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Jean-Philippe Sabo",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. González",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Rémy",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Amalfitano",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Nkoulou",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Fanni",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Diawara",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mandanda",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Stéphane M'Bia Etoundi",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "W. Jobello",
+      "team": "Marseille",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Rosati",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Andrea Dossena",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Džemaili",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Zúñiga",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "LB",
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Christian Maggio",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Lavezzi",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Vargas",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Fernández",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Grava",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. İnler",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Pandev",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Giuseppe Mascara",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Campagnaro",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Fideleff",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Britos",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hamšík",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marco Donadel",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mario Alberto Santana",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Morgan De Sanctis",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Cannavaro",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Colombo",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Salvatore Aronica",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "W. Gargano",
+      "team": "Napoli",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Papazoglou",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ariel Miguel Santiago Ibagaza",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Avraam Papadopoulos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Megyeri",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Abdoun",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "David Fuster Torrijos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Costanzo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Modesto",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Francisco Javier Yeste Navarro",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Giannis Maniatis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Fetfatzidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "I. Potouridis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Makoun",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "José Holebas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Kevin Mirallas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Pantelić",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Mellberg",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Djebbour",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Torosidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Benga",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Chebac",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Adrian Ioan Sălăgeanu",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Punoševac",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Branko Grahovac",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Brăneţ",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Râpă",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Sîrghi",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Daniel Mackensi Chávez Castillo",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Giurgiu",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Paraschiv",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Viglianti",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "I. Filip",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Neagu",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "John Yke Ibeh",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Antal",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Laurenţiu Cătălin Iorga",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Laurenţiu Cosmin Buş",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Marius George Pena",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Milan Perendija",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Miloš Buchta",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Skubic",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Costin",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Frunză",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Silviu Ilie",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Zoran Ljubinković",
+      "team": "Oţelul",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Bystroň",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Kolář",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Limberský",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Štipek",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Rajtoral",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Sevinsky",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hora",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Brezinsky",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Čech",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Ďuriš",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Fillo",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Krmenčík",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Petržela",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Sladký",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Ticháček",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marek Bakoš",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marián Čišovský",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Michal Daněk",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Horváth",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Trapp",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Petr Jiráček",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Pavlík",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Řezník",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Darida",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Pilař",
+      "team": "Plzen",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "RW",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Adán",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro Arbeloa Coca",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "97",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Esteban Félix Granero Molina",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Fábio Coentrão",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LB",
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Hamit Altıntop",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "91",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Kaká",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Lassana Diarra",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Özil",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "89",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Şahin",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Pedro Mendes",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Raúl Albiol",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ricardo Carvalho",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Tomás Mejías",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Xabier Alonso Olano",
+      "team": "Real Madrid",
+      "ucl_season": 2011,
+      "rating": "88",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Tetenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alex Teixeira",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Chyhrynskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Darijo Srna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Eduardo da Silva",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Mkhitaryan",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jádson Rodrigues da Silva",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Luiz Adriano",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Moreno",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Rybka",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Oleksandr Chizhov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexandr Kucher",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexiy Gai",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Răzvan Dincă Raț",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Hübschman",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Shevchuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Vasyl Kobin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yevhen Seleznev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Glowacki",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Mierzejewski",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Alain Didier Zokora-Déguy",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Alan Carlos Gomes da Costa",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Aykut Akgün",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Ataş",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "65",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Yılmaz",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bora Sevim",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Engin Baytar",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Öztorun",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Colman",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Kaçar",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Halil Altıntop",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Sapara",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Yumlu",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marek Cech",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "O. Čelůstka",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Kıvrak",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Paulo Henrique Carneiro Filho",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Paweł Brożek",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Piotr Brożek",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Vittek",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Badur",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Serkan Balci",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Zengin",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Tayfun Cora",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Ayvaz",
+      "team": "Trabzonspor",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Costa",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Rami",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aduriz",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ángel Dealbert Ibáñez",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Barragán",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Bruno Saltor",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dani Parejo",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "David Albelda Aliques",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Diego Alves",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "É. Banega",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Guaita",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Hedwiges  Maduro",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Mathieu",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Jonas Gonçalves Oliveira",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "83",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Luis Miguel Brito Garcia Monteiro",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Topal",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Piatti",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Pablo Hernández",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Ricardo Costa",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Feghouli",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sergio Canales",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Soldado",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Víctor Ruiz",
+      "team": "Valencia",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ángel Domingo López Ruano",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Borja Valero",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Bruno",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Zapata",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Camuñas",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Carlos Marchena López",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Carlos Tomás Ferrer",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Cesar  Sanchez Dominguez",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diego López",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diego Mariño",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fofo",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Rodríguez",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Rossi",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Gerard Bordas Bahamontes",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "66",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Pérez",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. de Guzmán",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Joan Oriol",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "José Manuel Catalá Mazuecos",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Joselu",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Musacchio",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Ruben",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Wakaso",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Marcos Antonio Senna da Silva",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcos Gullón Ferrera",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mario Gaspar",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Nilmar Honorato da Silva",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Pablo Íñiguez",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "63",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Rubén Gracia Calmache",
+      "team": "Villarreal",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Anyukov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Ionov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Rosina",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Aleksandar Luković",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Aleksandr Bukharov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alexander Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruno Eduardo Regufe Alves",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Borodin",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Criscito",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Lazović",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "76",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Danny",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "I. Cheminava",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Denisov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Zyryanov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Kanunnikov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "70",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Lombaerts",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Roman Shirokov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Huszti",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Hubočan",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Viktor Faizulin",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Vyacheslav Malafeev",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Yuri Zhevnov",
+      "team": "Zenit",
+      "ucl_season": 2011,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7738 @@
+{
+  "total_players": 805,
+  "players": [
+    {
+      "name": "A. Matri",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Nocerino",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Petagna",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Poli",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Rami",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Taarabt",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Cristante",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Bakaye Traoré",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Zapata",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Christian Abbiati",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Cristian Zaccardo",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Bonera",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "F. Coppola",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Gabriel Vasconcelos",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Giampaolo Pazzini",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Abate",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Kaká",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Kevin Constant",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Kingsley Boateng",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Iotti",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luca Antonini",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Balotelli",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Niang",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "ST",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Marco Amelia",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Matías Agustín Silvestre",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Michael Essien",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nigel de Jong",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Philippe Mexès",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Riccardo Montolivo",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Robinho",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. El Shaarawy",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Muntari",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Urby Vitorrio Diego Emanuelson",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Birsa",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Ž. Benedičič",
+      "team": "AC Milan",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Bojan Krkić",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RW",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Christian  Bjørnshøj Poulsen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Hoesen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Klaassen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Veltman",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Vermeer",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kolbeinn Sigþórsson",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Andersen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Duarte",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Schöne",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Lesly de Sa",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "M. van der Hoorn",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Boilesen",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Moisander",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Ligeon",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Ricardo van Rhijn",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. de Jong",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Denswil",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Sana",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Serero",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Fischer",
+      "team": "Ajax",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Mitrović",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Najar",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Vanden Borre",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Nuytinck",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Kouyaté",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Mbemba",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Cyriac",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. de Zeeuw",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Praet",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Roef",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Acheampong",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LW",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. N&apos;Sakala",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Guillaume Olivier Gillet",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Milivojević",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Bruno",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Suárez",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "O. Deschacht",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Ronald Alejandro Vargas Aranguren",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Klještan",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Proto",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kaminski",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Tielemans",
+      "team": "Anderlecht",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "RM",
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "B. Sagna",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Akpom",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Jenkinson",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Frimpong",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Viviano",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Hayden",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jack Wilshere",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Gibbs",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ł. Fabiański",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ł. Podolski",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "LW",
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Laurent Koscielny",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Özil",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mathieu Flamini",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mikel Arteta Amatriain",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Bendtner",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nacho Monreal",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Mertesacker",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Miyaichi",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Gnabry",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Santi Cazorla",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "LM",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Rosický",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Walcott",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Sanogo",
+      "team": "Arsenal",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Turan",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Adrián López",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Cristian Gabriel Rodríguez Barrotti",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Godín",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "91",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Daniel Aranzubia Aguado",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "David Gil",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "David Villa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Diego",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Diego Costa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Insúa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Filipe Luís",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gabriel Fernández Arenas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Guilavogui",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Sosa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Javier Manquillo",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Juanfran",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "LM",
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Léo Baptistão",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Mario Suárez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Miranda",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Momar Ndoye",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "60",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Raúl García",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Tiago Cardoso Mendes",
+      "team": "Atletico Madrid",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Gorgon",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Grünwald",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Ramsebner",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Royer",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "E. Dilaver",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Koch",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "F. Mader",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Lindner",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ivan Kardum",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Holland",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Kaja Rogulj",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Lukas Rotpuller",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Leovac",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Ortlechner",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Stankovic",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Suttner",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Hosiner",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Pascal Grünwald",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Okotie",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Roman Kienast",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Spiridonović",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Jun",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CF",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Murg",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Tomáš Šimkovič",
+      "team": "Austria Vienna",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "RW",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Adama Traoré",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Alexandre Dimitri Song-Billong",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "89",
+      "position": [
+        "CM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Carles Puyol i Saforcada",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Cesc Fàbregas",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Cristian Tello",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Dongou",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. dos Santos",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "José Manuel Pinto Colorado",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "94",
+      "position": [
+        "CF",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Martín Montoya",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Oier",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Patric",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Víctor Valdés Arribas",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Xavier Hernández Creus",
+      "team": "Barcelona",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Guardado",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Andrés Palop Cervera",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Leno",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Kohr",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "David Yelldell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CM",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Derdiyok",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Emir Spahić",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Donati",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Gonzalo Castro Randon",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Hegeler",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Stafylidis",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Öztunalı",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Wagener",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lomb",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ö. Toprak",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Philipp Wollscheid",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Hilbert",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Kruse",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Boenisch",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Kießling",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Rolfes",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sam",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Stefan Reinartz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "91",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Schweinsteiger",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Pizarro",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Contento",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Van Buyten",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dante",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Green",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Kirchhoff",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Raeder",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Zingerle",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Mandžukić",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "92",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Weiser",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Højbjerg",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Lahm",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Weihrauch",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CF",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Starke",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "X. Shaqiri",
+      "team": "Bayern München",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Artur Moraes",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Garay",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Pérez",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Đuričić",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Guilherme Siqueira",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ivan Cavaleiro",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Marković",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Sulejmani",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ó. Cardozo",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. John",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Paulo Jorge Pedro Lopes",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rodrigo José Lima Dos Santos",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ruben Amorim",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Sílvio",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "U. Matić",
+      "team": "Benfica",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Durm",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Mkhitaryan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Błaszczykowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Hofmann",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Julian Schieber",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Großkreutz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Günter",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Ducksch",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Friedrich",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Jojić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Langerak",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Sarr",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Şahin",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Subotić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Kirch",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Aubameyang",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Weidenfeller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Bender",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Papastathopoulos",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sebastian Kehl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Z. Alomerović",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Matthews",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Stokes",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Amido Baldé",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Atajić",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Kayal",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. McGregor",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Mulgrew",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Waters",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Fisher",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. McGeouch",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Derk Boerrigter",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Ambrose",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Emilio Arturo Izaguirre Girón",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Forster",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Twardzik",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Gary Hooper",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Georgios Samaras",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Forrest",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Irvine",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Ledley",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Wilson",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kris Commons",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Łukasz Załuska",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Lustig",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Bitton",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mouyokolo",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Scott Brown",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Pukki",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Rogić",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Watt",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. van Dijk",
+      "team": "Celtic",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Cole",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Schürrle",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Ivanović",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Ba",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "David Luiz",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "88",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Lampard",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Gary Cahill",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hilário",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Terry",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. van Ginkel",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Mark Schwarzer",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mikel John Obi",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Aké",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Oscar",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Petr Čech",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Bertrand",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ramires",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Samuel Eto'o Fils",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Kalas",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Chelsea",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Dzagoev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Musa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Aleksandrs Cauņa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alexei Berezutski",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Elvir Rahimic",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Milanov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Shchennikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Akinfeev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Bazelyuk",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Nababkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Keisuke Honda",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Mark Dennis González Hoffmann",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Wernbloom",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Elm",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Zuber",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Sergei Ignashevich",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergey Chepchugov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Seydou Doumbia",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Karavaev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Vasin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vitinho",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LM",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Z. Tošić",
+      "team": "CSKA Moscow",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Ajeti",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Safari",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Degen",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Frei",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Schär",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Sauro",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Sio",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Vailati",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Voser",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Salvi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Streller",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Matías Emilio Delgado",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mohamed Elneny",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Degen",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Bobadilla",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Andrist",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "Sereso Geoffroy Gonzaroua Dié",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Xhaka",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Stocker",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "FC Basel 1893",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Bolaños",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Remmer",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Cesar Santin",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Claudemir",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Amankwaa",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Daniel  Omoya Braaten",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Adi",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Margreitter",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Igor Vetokele",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Busk",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Johan Wiland",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Stadsgaard",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Jacobsen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Pourié",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nicolai Mick Jørgensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Mellberg",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Bengtsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Gíslason",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Ragnar Sigurðsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Delaney",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Kristensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Youssef Toutouh",
+      "team": "FC Copenhagen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "D. Reyes",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fabiano",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Helton da Silva Arruda",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Martínez",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Quintero",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Jorge Ciro Fucile Perdomo",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Josué",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. González",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Licá",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Agu",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Maicon",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marat Izmailov",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Nabil Ghilas",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ricardo Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Defour",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "team": "FC Porto",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Á. Szalai",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Anthony Gildas Kofi Annan",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Atsuto Uchida",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Clemens",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Fuchs",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "C. Obasi",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Aogo",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Felipe Santana",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Jones",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jefferson Agustín Farfán Guadalupe",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Jermaine Jones",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Ayhan",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB",
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Boateng",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Huntelaar",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Papadopoulos",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Goretzka",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Unnerstall",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Höger",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Meyer",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Max",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Fährmann",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Neustädter",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kolašinac",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Barnetta",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Hoogland",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Timo Hildebrand",
+      "team": "FC Schalke 04",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Chipciu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "LM",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Popa",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Prepeliță",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Adrian Cristea",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alexandru Bourceanu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Râpă",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Tătărușanu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Cristian Tănase",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Georgievski",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Niţă",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Piovaccari",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fernando Varela",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Florin Gardoș",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Iancu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "I. Latovlevici",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "I. Neagu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ł. Szukala",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Leandro Ângelo Martins",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lucian Ionuț Filip",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Costea",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Răduț",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mihai Doru Pintilii",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Stanciu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Pîrvulescu",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Pantelis Kapetanos",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Nikolić",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Chiricheș",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Cojocaru",
+      "team": "FCSB",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Albert Riera Ortega",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alex Telles",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Aurélien Bayard Chedjou Fongang",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aydın Yılmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Yılmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruma",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Gülselam",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Dany Achille Nounkeu Tchounkeu",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Didier Yves Drogba Tébily",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Çolak",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Emmanuel Eboué",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Engin Baytar",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Eray İşcan",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Muslera",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Felipe Melo",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Burdisso",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gökhan Zan",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hakan Kadir Balta",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Hajrović",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Amrabat",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. İnan",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Kaya",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sabri Sarıoğlu",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "U. Bulut",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "U. Ceylan",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Wesley Sneijder",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Kurtuluş",
+      "team": "Galatasaray",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ogbonna",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Andrea Barzagli",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Andrea Pirlo",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Marchisio",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Tevez",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Quagliarella",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Federico Peluso",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "LM",
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Llorente",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Cáceres",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Isla",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Marco Storari",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mirko Vucinic",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. De Ceglie",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Giovinco",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CF",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Lichtsteiner",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Padoin",
+      "team": "Juventus",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Álvaro Negredo",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Pantilimon",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Boyata",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Huws",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Francisco Javier  García Fernández",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Clichy",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodwell",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Joleon Lescott",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Demichelis",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Nastasić",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Micah Richards",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Zabaleta",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Jovetić",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2013,
+      "rating": "89",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Büttner",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Januzaj",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Lindegaard",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Valencia",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Anderson",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Welbeck",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Darren  Fletcher",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fábio",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Evans",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hernández",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Carrick",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Fellaini",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Nani",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Nemanja Vidic",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Patrice Evra",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Ferdinand",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Robin van Persie",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ryan  Giggs",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Kagawa",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Cleverley",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Rooney",
+      "team": "Manchester United",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Ayew",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "LW",
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Gignac",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Romao",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Aloé",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Cheyrou",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Mendy",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Samba",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Payet",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Thauvin",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Imbula",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Ayew",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Morel",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Abdallah",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Abergel",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Lucas Mendes",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Bangoura",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lemina",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Nkoulou",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Fanni",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Diawara",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Khalifa",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Mandanda",
+      "team": "Marseille",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Džemaili",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Bruno Uvini",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Zúñiga",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Christian Maggio",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "D. Mertens",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Zapata",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Fernández",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. İnler",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Pandev",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Giandomenico Mesto",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Britos",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hamšík",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Armero",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Cannavaro",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pepe Reina",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Colombo",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rafael Cabral",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raúl Albiol",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Behrami",
+      "team": "Napoli",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Samaris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Avraam Papadopoulos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Megyeri",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Carl Medjani",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. N’Dinga",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Siovas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "David Fuster Torrijos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "G. Bong",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Giannis Maniatis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM",
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Pérez",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Campbell",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "RW",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Saviola",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "José Holebas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Manolas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Konstantinos Mitroglou",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Leandro Salino do Carmo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Michael Olaitan",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Vergos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Paulo Ricardo Ribeiro de Jesus Machado",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Roberto Jiménez",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Yatabaré",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Weiss",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Alex",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Christophe Jallet",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Lavezzi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "G. van der Wiel",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Ongenda",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Ménez",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CF",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Pastore",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Traoré",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Douchez",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Sirigu",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Cabaye",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2013,
+      "rating": "92",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Kolář",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Limberský",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Rajtoral",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Hora",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Kovařík",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Hejda",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Ďuriš",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Hanousek",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Kozáčik",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Petržela",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pospíšil",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marek Bakoš",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marián Čišovský",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Horváth",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Petr Bolek",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Pavlík",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Řezník",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Roman Hubník",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Tecl",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Wágner",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Tomáš Hořava",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Darida",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Procházka",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Koukal",
+      "team": "Plzen",
+      "ucl_season": 2013,
+      "rating": "62",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "CM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Álvaro Arbeloa Coca",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "98",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Diego López",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fábio Coentrão",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Bale",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "90",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Illarramendi",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jesús",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "José Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "91",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "94",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Xabier Alonso Olano",
+      "team": "Real Madrid",
+      "ucl_season": 2013,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Bergara",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Bravo",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Vela",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Carlos Martínez Díez",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Cote",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Daniel Estrada Agirrezablaga",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "De la Bella",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Eñaut Zubikarai Goñi",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Esteban Félix Granero Molina",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Castro",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Gorka Elustondo Urkola",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Seferović",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Imanol Agirretxe Arruti",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Íñigo Martínez",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Javi Ros",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Jon Ansotegi Gorostola",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jon Gaztañaga",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Joseba Zaldúa",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Kike Royo",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Cadamuro",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Marco Sangalli",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Mikel González",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rubén Pardo",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Xabier Prieto Argarate",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Zurutuza",
+      "team": "Real Sociedad",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alex Teixeira",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Anton Kanibolotskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bernard",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Darijo Srna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eduardo da Silva",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Ferreyra",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fred",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ilsinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "73",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Luiz Adriano",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Oleksandr Volovyk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexandr Kucher",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Hübschman",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "V. Shevchuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Anyukov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Vasyutin",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Aleksandar Luković",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "71",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Aleksandr Bukharov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alexander Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Anatoliy Tymoshchuk",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Andrey Arshavin",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Ansaldi",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Criscito",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Khodzhaniyazov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "63",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Danny",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Baburin",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Hulk",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "84",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Smolnikov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Zyryanov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Đorđević",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Luís Neto",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Rodić",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Lombaerts",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Shatov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "LM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Mogilevets",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Roman Shirokov",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Rondón",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Hubočan",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Viktor Faizulin",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Vyacheslav Malafeev",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Lodygin",
+      "team": "Zenit",
+      "ucl_season": 2013,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    }
+  ]
+}

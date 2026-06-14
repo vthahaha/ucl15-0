@@ -1,0 +1,19 @@
+{
+  "name": "ucl-draft-backend",
+  "version": "1.0.0",
+  "description": "Backend and ingestion scripts for the UEFA Champions League Draft Simulator",
+  "main": "seed.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "verify": "node verify.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.4",
+    "axios": "^1.7.2",
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1"
+  }
+}

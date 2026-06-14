@@ -1,0 +1,10770 @@
+{
+  "total_players": 1081,
+  "players": [
+    {
+      "name": "A. Ademi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Adli",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Akman",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Amoo",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Azhil",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "63",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Bah",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Bastoni",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Benyahia-Tani",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "63",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Bernabéi",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "62",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Bernede",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Bondarenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Boryachuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Broja",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Buleza",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Čermák",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Čolak",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Cordaz",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Cornelius",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST",
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Coubiș",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Danjuma",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Davies",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Dedić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Devine",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Devine",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "61",
+      "position": [
+        "RM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Dithmer",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Fatawu",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Fein",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Florenzi",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Fontanarosa",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "62",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Gala",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Gojak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Haidara",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Hakimi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Harit",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Hložek",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Hrustić",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Ibrahimović",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Januzaj",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Jungdal",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kalimuendo",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Kamara",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Kaplan",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Knauff",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kronus",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kulakov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "63",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Letellier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Lookman",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Lowry",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Lunev",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Lunin",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Marin",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. McGregor",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Meret",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Meyer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Milik",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Mirante",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Modeste",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Mooy",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Morelos",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Muhammad",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Nusa",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Onana",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ounas",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Papadopoulos",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Petagna",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Ralston",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Rebić",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Robertson",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Robertson",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Á. Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Rüdiger",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Saelemaekers",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Schjelderup",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Seck",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Skov Olsen",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Sørloth",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Stanković",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Stejskal",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Stevens",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Sylla",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Taarabt",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Tchouaméni",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Totovytskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Touré",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Trubin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ulmer",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. van Axel Dongen",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Vlkanova",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Vranckx",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Vrba",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Walke",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Whiteman",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Zadražil",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Zambo Anguissa",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "A. Zanoli",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Zargari",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Zerbin",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Adán",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Adrián",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alberto Flores",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alberto Moreno",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alejandro Balde",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Alex Telles",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Álex Valle",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Alisson Becker",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Álvaro Sanz",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Amir Rrahmani",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Ander Herrera",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "André Franco",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "André Paulo",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "André Silva",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Angeliño",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LWB",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ansu Fati",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Antonio Gomis",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "António Silva",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Arnau Tenas",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Arthur",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Arthur Gomes",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Aurélio Buta",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Aymeric Laporte",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Austin",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Barišić",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Bereszyński",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Brobbey",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Chilwell",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Clark",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Dieng",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Elmaz",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Henrichs",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Knight",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Mechele",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Meijer",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Mykhailichenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Okoh",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Pavard",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Petković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "B. Sahar",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Sarr",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Šeško",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Siegrist",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Šutalo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Zaarura",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Bernardo",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "CB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Bernardo Folha",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "89",
+      "position": [
+        "CM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Bogdan Planić",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Brahim Díaz",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Bremer",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Bruno Costa",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Bryan Gil",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Allan",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Aránguiz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Bakambu",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "C. Bassey",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Carter-Vickers",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Casadei",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Chukwuemeka",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. De Ketelaere",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Gakpo",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Gallagher",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Goldson",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Hudson-Odoi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Jones",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Kelleher",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Larin",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Lenglet",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Lenz",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Mbemba",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. McCann",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. McGregor",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "C. Ndour",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Nielsen",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Nkunku",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Palmer",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Pinsoglio",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Pulišić",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Ramsay",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Romero",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Sandra",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Setford",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Sørensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Starfelt",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Talbi",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "C. Tătărușanu",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Tengstedt",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "C. Ünder",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cadu",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Carlos Álvarez",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Carlos Dotor",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Carlos Soler",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB",
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Chiquinho",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Cláudio Ramos",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Clinton Mata",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Batubinsika",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Boyata",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Calabria",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Costanzo",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Curatolo",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. D&apos;Ambrosio",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB",
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "D. David",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Demme",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Dumfries",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Haziza",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Kamada",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Kameri",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kapinus",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Khocholava",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Klaassen",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kryskiv",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Kulusevski",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RW",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Livaković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Maeda",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Malen",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Marfella",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Myshnov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Namaso",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Núñez",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Odoi",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Okereke",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Origi",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Payet",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Pérez",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Perić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Ramaj",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Raum",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Rensch",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sánchez",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sikan",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Sinkgraven",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sow",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Spence",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Špikić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Štefulj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Sundgren",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Szoboszlai",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Tadić",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "LW",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Topalov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Turnbull",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Upamecano",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Vavro",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Vlahović",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Zagorac",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Zakaria",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Dalbert Henrique",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dani Ceballos",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Daniel Bragança",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo Pereira",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Danylo Udod",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Dário Essugo",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "David Carmo",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "David Neres",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Denys Shostak",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Diego Callai",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diego Moreira",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Diogo Costa",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diogo Gonçalves",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "Diogo Jota",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "LW",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Dodô",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Álvarez",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Bailly",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "É. Balanta",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Barrenechea",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Bitshiabu",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Camavinga",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Choupo-Moting",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Dier",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Dilaver",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Elmas",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Fernández",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Forsberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Haaland",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Jelert",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Jirka",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Kozik",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Lamela",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RW",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "É. Mendy",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Nazaryna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Ndicka",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Palacios",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Salcedo",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Sobol",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "E. Tapsoba",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Éder Militão",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Emerson Royal",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eric García",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Evanilson",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Everton",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "F. Acerbi",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Alidou",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Aursnes",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Ballo-Touré",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Bassey",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Chiesa",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Čihák",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Colidio",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. de Jong",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Dimarco",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "LWB",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Forster",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Gatti",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Grillitsch",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Helander",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Israel",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Kaša",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Kessié",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Kostić",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Mendy",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Miretti",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Passlack",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Pierrot",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "F. Ricca",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Sakala",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Tomori",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Valverde",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "CM",
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Wirtz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Fabian Mrozek",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fabián Ruiz",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fabinho",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fábio Cardoso",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fábio Carvalho",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Felipe",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernando Andrade",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ferran Jutglà",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Ferran Torres",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Ferro",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Flávio Nazinho",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LWB",
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Florentino",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Francisco Conceição",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Francisco Meixedo",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Ambrosino",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Di Lorenzo",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Donnarumma",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Gaetano",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Garofani",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Giakoumakis",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Gürpüz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Kamara",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Kobel",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Kondogbia",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Marušić",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Middleton",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Montiel",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "G. Naor",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Raspadori",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Reyna",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Rukavina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Simeone",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "G. Taylor",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Vidović",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Gabriel Veron",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Galeno",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Gavi",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Gerson",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Gil Dias",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "LM",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Gilberto",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Giovanni Manson",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Gonçalo Borges",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Gonçalo Inácio",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gonçalo Paciência",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "H. Çalhanoğlu",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Davies",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Ekitike",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Elliott",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "RW",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Haraldsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "H. Idasiak",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Kane",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "H. Lloris",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Lozano",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "H. Mkhitaryan",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Morita",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "H. Seferović",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Smolčić",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Sudakov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "H. Vanaken",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. White",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Ziyech",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Héctor Bellerín",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Helton Leite",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Henrique Araújo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Hermoso",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Hugo Novoa",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RM",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Bennacer",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Í. Bergmann Jóhannesson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "I. Eliyahu",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Grbić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Gueye",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Hagi",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Hautekiet",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Kaboré",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Konaté",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Kyryukhantsev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Nevistić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Perišić",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "LM",
+        "LWB",
+        "LW"
+      ]
+    },
+    {
+      "name": "I. Petryak",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Slimani",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Van der Brempt",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Iker Bravo",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Ilias Akhomach",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Iñaki Peña",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Isaac Mabaya",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ismaël Gharbi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Adamu",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Álvarez",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Bellingham",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Blaswich",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Brooks",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Bursik",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Bynoe-Gittens",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Clauss",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Cohen",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Corona",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Correa",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Dina Ebimbe",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LW",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Drmić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Eze",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Forrest",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Frimpong",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Gomez",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Gorter",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Grahl",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Grealish",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Guadagno",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Gvardiol",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Hauge",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Henderson",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Hendry",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Horz",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Janitzek",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Juranović",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Kliment",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Kopic",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "J. Koundé",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Lindstrøm",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Lundstram",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. McCarthy",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. McLaughlin",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Mišić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Mosquera",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Musiala",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Nickisch",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Omoregie",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Onguéné",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Ordoñez",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Quansah",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Ryerson",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Sánchez",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Sands",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Schenk",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Schröder",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Simpson",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Souttar",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Spileers",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. St. Juste",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Staněk",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Stanišić",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Stones",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Šutalo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Sýkora",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Tah",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Tanganga",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Tavernier",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Timber",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Veretout",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Vertonghen",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Weigl",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Wilson-Esbrand",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Zirkzee",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "James Barry Norris",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Joan Jordán",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "João Cancelo",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "João Félix",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CF",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "João Marcelo",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "João Mário",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "João Mário",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "João Neves",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "João Tomé",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "João Victor",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jorginho",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "José Ángel Carmona",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "José Marsà",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jota",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jovane Cabral",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Juan Jesus",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Junior Messias",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "RW",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Adeyemi",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Asllani",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Babacar",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Bellarabi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "90",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "91",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Demirbay",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Diks",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Dolberg",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "K. Fitz-Jim",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Furuhashi",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "K. Grabara",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Havertz",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Jakić",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Johnsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Koulibaly",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Kvaratskhelia",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Laimer",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Phillips",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "K. Piątkowski",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Pierie",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Qose",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Rekik",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Roofe",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Sabbe",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Sigeev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Sowah",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Taylor",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Théophile-Catherine",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Trapp",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Tsimikas",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Walker",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Wright",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Zedadka",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Kaio Jorge",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Kepa",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kike Salas",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kim Min-Jae",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "89",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Abada",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Agoumé",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Alario",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Audoor",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Balerdi",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Bergström",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Budinauckas",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Chambers",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Clarkson",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Díaz",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Goretzka",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Gourna-Douath",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Hall",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Hejda",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Holík",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Hrádecký",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Ivanušec",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Kalvach",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. King",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Klostermann",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Kokubo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "L. Lerager",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Lucca",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Magallán",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Mayo",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Menalo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "88",
+      "position": [
+        "RW",
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Nava",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Ocampos",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Østigård",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Paredes",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Pellegrini",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Pernica",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Sané",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Singh",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Sučić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Traoré",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Unbehaun",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "88",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Liam John Hughes",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lucas Cañizares",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Lucas Taylor",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Lucas Veríssimo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luis López",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Luís Neto",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Abu Fani",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Acuña",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "M. Akanji",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Aké",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Bakker",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Baturina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Bettinelli",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Bignetti",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Brozović",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Bulat",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Chekh",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Da Graca",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Daramy",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Darmian",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "RWB",
+        "LWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. de Ligt",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Depay",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Diaby",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Diambou",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dmitrović",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Doherty",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Edwards",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Emreli",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Farina",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Frauendorf",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Gabbia",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Grujić",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Guendouzi",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Halstenberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Hasebe",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Havel",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Icardi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Ihattaren",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Jaber",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Jedlička",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Jenz",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Karamoko",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Kean",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Kjærgaard",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Kudus",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Lazetić",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Levi",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Locatelli",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Lotka",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Loune",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Maignan",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Matvienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Mount",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Mudryk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. N&apos;Diaye",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Neutgens",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. O&apos;Riley",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Oikonomou",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Olivera",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Oršić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Perin",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Perrone",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Politano",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Ristić",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Rits",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Ryan",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Sabitzer",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Shved",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Simakan",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Škriniar",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Solomon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Soulé",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Stamenić",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Stekelenburg",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Svilar",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Taremi",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Tchibota",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Tel",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Thiaw",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Tijani",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Tillman",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Tolić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Trusa",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Tvrdoň",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Ugarte",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Uribe",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Vydra",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Wenig",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Wöber",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Wolf",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Zanotti",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "M. Żukowski",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Marc Casadó",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marc Cucurella",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcão",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marco Asensio",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Marco Moreno",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcos Alonso",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Marcos Antônio",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RM",
+        "CM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Mario Martín",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mário Rui",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Marlon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Martim Neto",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mateu Morey",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Mateus Fernandes",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Matheus Nunes",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Matheus Reis",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Maycon",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Morato",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Aké",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Amiri",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "N. Barella",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Boilesen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Botis",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Capaldo",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Čavlina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Đurasek",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Fagioli",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Gudelj",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Kanté",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Katić",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Keïta",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lang",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Lavi",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lomb",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Mantl",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Mazraoui",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Mbamba",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Molina",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Mukiele",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Ofoborh",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Okafor",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Phillips",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Radonjić",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Rukavytsya",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "N. Schlotterbeck",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Schulz",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "N. Seiwald",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Shinton",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Süle",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Nuno Mendes",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Nuno Santos",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LWB",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Nuno Tavares",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Abildgaard",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Arad",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Atzili",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "O. Dahan",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Dembélé",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "O. Drambaev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Kashchuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Kossounou",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Mihálik",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Ø. Nyland",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Ocheretko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "O. Óskarsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "O. Otasowie",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Shevchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Skipp",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Solet",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Vlachodimos",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Wijndal",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Zubkov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Odriozola",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Otávio",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Ankersen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Aubameyang",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Bočkaj",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Bucha",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Cornud",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Delgado",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Foden",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "89",
+      "position": [
+        "LW",
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Gaszczyk",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Gollini",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Gómez",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Gueye",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Gulácsi",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Hincapié",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Højbjerg",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Kalulu",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Köhn",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Max",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Mukairu",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Musa",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Nsio",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "LM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Sarr",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Schick",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "P. Stasyuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Wanner",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "P. Zieliński",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Pablo Barrios",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Pablo Pérez",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pablo Torre",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Pau López",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Paulo Bernardo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Pedri",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Pedrinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pedro Porro",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Pep Biel",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pepê Aquino",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pizzi",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Pote",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Andrich",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Araújo",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Bardghji",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Bellanova",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Bentancur",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Borré",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. De Paul",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Dedič",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Durosinmi",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Falk",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Fraser",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Fucs",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Gagliardini",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Gershon",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Gosens",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Gravenberch",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Hatate",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Hranáč",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Jack",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. James",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Kent",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Kolo Muani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Krunić",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "R. Květ",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Lauritsen",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Lewis",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Ljubičić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Loftus-Cheek",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Lukaku",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Mahrez",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "88",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Matondo",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. McCrorie",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Meir",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Mishpati",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Mudražija",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Onyedika",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Pasveer",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Řezník",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Savchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Sessegnon",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Šimić",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Ure",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Vormer",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Williams",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Yaremchuk",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Yılmaz",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Rafa",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RM",
+        "LM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Rafa Mir",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafael Brito",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Rafael Leão",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafael Rodrigues",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "LB",
+        "LWB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Raphinha",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Reguilón",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Reinildo",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Renan Lodi",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Renato Sanches",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Ricardo Esgaio",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RWB",
+        "RB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Richarlison",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Roberto Firmino",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Rochinha",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Rodri",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "91",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Rodrigo Conceição",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Rodrigo Pinho",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rodrigo Ribeiro",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rodrygo",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rubén Blanco",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Alexandropoulos",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Arfield",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Azmoun",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Ba",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Baidoo",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Bain",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Ben Seghir",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Berghuis",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Bergwijn",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Carson",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Charles",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Coates",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Coulibaly",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Davis",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. de Vrij",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Dest",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Eustáquio",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Gigot",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Gnabry",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Goldberg",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Hakšabanović",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Haller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Handanovič",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Hansen",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Iling-Junior",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Kelly",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Keouf",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Kjær",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Koïta",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Kolašinac",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Lammens",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Lobotka",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Mané",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Meïté",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Menachem",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mignolet",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Moharrami",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Ngapandouetnbu",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Nsoki",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Ortega",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Ostrzinski",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Özcan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Pavlović",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Podgoreanu",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Ristovski",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Robertson",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Rode",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Sirigu",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Tijani",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Tonali",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Touré",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Ulreich",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. van den Berg",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Welsh",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Wright",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RW",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Samuel",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Samuel Soares",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sandro Cruz",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "LM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Arribas",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sergio Díez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergio Gómez",
+      "team": "Manchester City",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sergio Mestre",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Stefan Bajčetić",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Suso",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Alexander-Arnold",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Bakayoko",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Barbieri",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Buchanan",
+      "team": "Club Brugge KV",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Cantwell",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Chalobah",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Chandler",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Chery",
+      "team": "Maccabi Haifa",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Chorý",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Delaney",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Fosu-Mensah",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Hazard",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LM",
+        "RM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "T. Hernández",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Kehrer",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "87",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Lawrence",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "T. Lemar",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "LM",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Meunier",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "T. Morton",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Ndombélé",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Nianzou",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Pembélé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Pobega",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Puzankov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Rothe",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Schlieck",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Werner",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Tabata",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Thomas Daniel Hill",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Tiago Gouveia",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Tomás Araújo",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Toni Martínez",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Trincão",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Tuta",
+      "team": "Eintracht Frankfurt",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "U. Bertelli",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "64",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Boffelli",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Bondar",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Carboni",
+      "team": "Inter",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Claesson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Jemelka",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Kornienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "V. Kristiansen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Lazaro",
+      "team": "Benfica",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RWB",
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Lund",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Osimhen",
+      "team": "Napoli",
+      "ucl_season": 2022,
+      "rating": "86",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "V. Pilař",
+      "team": "Plzen",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Rongier",
+      "team": "Marseille",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Vakula",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "V. van Dijk",
+      "team": "Liverpool",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vallejo",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vasco Sousa",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "Real Madrid",
+      "ucl_season": 2022,
+      "rating": "88",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Vitinha",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "W. Bøving",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "W. Clem",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "W. Fofana",
+      "team": "Chelsea",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. McKennie",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "W. Orbán",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Juventus",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "W. Zaïre-Emery",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Wendell",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Wilson Manafá",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "X. Schlager",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "X. Simons",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Adli",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Baas",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Y. Bissouma",
+      "team": "Tottenham",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Bounou",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "LM",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Y. Diarra",
+      "team": "Red Bull Salzburg",
+      "ucl_season": 2022,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. En-Nesyri",
+      "team": "Sevilla",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Grytsenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Ideguchi",
+      "team": "Celtic",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Konoplya",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2022,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Y. Moukoko",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2022,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Poulsen",
+      "team": "RB Leipzig",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF",
+        "RW"
+      ]
+    },
+    {
+      "name": "Y. Regeer",
+      "team": "Ajax",
+      "ucl_season": 2022,
+      "rating": "69",
+      "position": [
+        "RB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "Bayern München",
+      "ucl_season": 2022,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Youssef Chermiti",
+      "team": "Sporting CP",
+      "ucl_season": 2022,
+      "rating": "72",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "AC Milan",
+      "ucl_season": 2022,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Z. Lovelace",
+      "team": "Rangers",
+      "ucl_season": 2022,
+      "rating": "68",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Z. Rodrigues",
+      "team": "FC Copenhagen",
+      "ucl_season": 2022,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Z. Sanusi",
+      "team": "FC Porto",
+      "ucl_season": 2022,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Z. Sertdemir",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2022,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM",
+        "CF"
+      ]
+    }
+  ]
+}

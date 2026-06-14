@@ -1,0 +1,9406 @@
+{
+  "total_players": 994,
+  "players": [
+    {
+      "name": "A. Iwobi",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Maitland-Niles",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RWB",
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RWB",
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "LW",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Akpom",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Jenkinson",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Ospina",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Welbeck",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Martínez",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Coquelin",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Xhaka",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Gabriel Paulista",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Héctor Bellerín",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Dasilva",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Reine-Adélaïde",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Gibbs",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Laurent Koscielny",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Lucas Pérez",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Debuchy",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Macey",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Özil",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mohamed Elneny",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nacho Monreal",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Mertesacker",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Petr Čech",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Holding",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Mustafi",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Santi Cazorla",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Walcott",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Sanogo",
+      "team": "Arsenal",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Fernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "90",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Alessio Cerci",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "André Moreira",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Caio Henrique",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Godín",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Filipe Luís",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gabriel Fernández Arenas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Juan Moreno",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "Juanfran",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Gameiro",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Moyà",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Partey",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Tachi",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Tiago Cardoso Mendes",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "LM",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Turan",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "LW",
+        "RW",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleix Vidal",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Carles Aleñá",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Denis Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Mathieu",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jordi Masip",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "95",
+      "position": [
+        "RW",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marc Cardona",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marlon",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "92",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Nili",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Paco Alcácer",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RM",
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "W. Kaptoum",
+      "team": "Barcelona",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Dragović",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Mehmedi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "B. Henrichs",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Leno",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Aránguiz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. da Costa",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Çalhanoğlu",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Baumgartlinger",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Hernández",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Pohjanpalo",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Tah",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Bellarabi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Havertz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Volland",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Bailey",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Boeder",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Lomb",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Ö. Toprak",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Hilbert",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Kruse",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Özcan",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Kießling",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Jedvaj",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Yurchenko",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Wendell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Badstuber",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Green",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "RB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "91",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Lahm",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "92",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Renato Sanches",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Ulreich",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Starke",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Xabier Alonso Olano",
+      "team": "Bayern München",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Carrillo",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Samaris",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Živković",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "André Horta",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Kalaica",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo Barbosa",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Salvio",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Eliseu Pereira dos Santos",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Cervi",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Filipe Augusto",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Celis",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jonas Gonçalves Oliveira",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Júlio César",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Konstantinos Mitroglou",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Jović",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lisandro López",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Nélson Semedo",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Paulo Jorge Pedro Lopes",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pizzi",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Jiménez",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafa",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Lindelöf",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Zé Gomes",
+      "team": "Benfica",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Hutchinson",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Nukan",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Özbiliz",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Andreas Beck",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Erkin",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Tosun",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Tošić",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Aksoy",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fabri",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Gönül",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "G. İnler",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Frei",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Luiz Rhodolfo Dini Gaioto",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Uysal",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Özyakup",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "O. Şahan",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ö. Şişmanoğlu",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ricardo Andrade Quaresma Bernardo",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Arslan",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Zengin",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Talisca",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "U. Yuvakuran",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Aboubakar",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Kavlak",
+      "team": "Beşiktaş",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ramos",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Schürrle",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Pulišić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Burnić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Durm",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "E. Mor",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Passlack",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Gonzalo Castro Randon",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Bonmann",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Weigl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Ginter",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "LW",
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Mikel Merino",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Şahin",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Subotić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Dembélé",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Aubameyang",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Park Joo-Ho",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Bürki",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Weidenfeller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Bender",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Kagawa",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Papastathopoulos",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Rode",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Hahn",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Álvaro Domínguez Soto",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Kramer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Sow",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Johnson",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Traoré",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Drmić",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Hofmann",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Holtby",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Korb",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Vestergaard",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Bénes",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Stindl",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Doucouré",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Nicolas",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Schulz",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Martin Josef Hinteregger",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Elvedi",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Rütten",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Schulz",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Wendt",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Herrmann",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Raffael Caetano de Araújo",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Hazard",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Jantschke",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Ndenge",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Sippel",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Strobl",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ralston",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Stokes",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Cole",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Gamboa",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Gordon",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Hazard",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Kazim-Richards",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. McGregor",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Mulgrew",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Boyata",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Fisher",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dorus de Vries",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Ambrose",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "E. O&apos;Connell",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Sviatchenko",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Emilio Arturo Izaguirre Girón",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Kelleher",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Mackay-Steven",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Aitchison",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Forrest",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. McCart",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jordan Hart",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jozo Šimunović",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Ajer",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Tierney",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Kolo Habib Touré",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kris Commons",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Henderson",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Leigh Griffiths",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Leonardo Fasan",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Logan Bailly",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Duffy",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Lustig",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Bitton",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Çiftçi",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Roberts",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Christie",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Allan",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Armstrong",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Janko",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Johansen",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sinclair",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Scott Brown",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Rogić",
+      "team": "Celtic",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Diaby",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Limbombe",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Bolingoli-Mbombo",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Engels",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Ibini-Isei",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Mechele",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Poulain",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Claudemir",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. De fauw",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Seys",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Dion-Johan Cools",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Felipe Gedoz",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Vanaken",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Castelletto",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Izquierdo",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Teunckens",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Vossen",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Butelle",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. De Bock",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Lemoine",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Refaelov",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Leandro Pereira",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lennert De Smul",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Cordier",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Storm",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Nicolás Ignacio Castillo Mora",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Vormer",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ricardo van Rhijn",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Bruzzese",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Coopman",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Denswil",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Dioudis",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Simons",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Tomás Pina",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Wesley Moraes",
+      "team": "Club Brugge KV",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Dzagoev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Golovin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Gordyushenko",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ionov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Aleksandrs Cauņa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alexei Berezutski",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Natcho",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Strandberg",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Chalov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Milanov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "G. Shchennikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Akinfeev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Pomazun",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Nababkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Lacina Emeghara Traoré",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Fernandes",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Wernbloom",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Eremenko",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Roman Krivulkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Sergei Ignashevich",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergey Chepchugov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Z. Tošić",
+      "team": "CSKA Moscow",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Ćorić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Gojak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Á. Henríquez",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Karimi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Šemper",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alexandru Mățel",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Antonijo Ježina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Armin Hodžić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Knežević",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Sosa",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Antolić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Livaković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Lovren",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Morris",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Pavičić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Perić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Šovšić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Eduardo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Benković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gordon Schildenfeld",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Soudani",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Fiolić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Brekalo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Fernándes",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Pivarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jonas",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Sigali",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Lešković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Mikulić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Rog",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Šitum",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "LM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Stolnik",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Moro",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Mamić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Stojanović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Paulo Ricardo Ribeiro de Jesus Machado",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Soldo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Besedin",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Gromov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Rudko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Yarmolenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Antunes",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Garmash",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. González",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Vida",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Danilo Silva",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Júnior Moraes",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Burda",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Koval",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Mykola Morozyuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "N. Korzun",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "O. Gladkyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Oleh Husyev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Oleksandr Shovkovsky",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Orikhovskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Myakushko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Rybalka",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sydorchuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Buyalskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Tsygankov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Valerii Fedorchuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Makarenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Yevhen Khacheridi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Ochihava",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Fransson",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Šporar",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Traoré",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Bjarnason",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Riveros",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Høegh",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Kutesa",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Đ. Nikolić",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Davide Callà",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "É. Balanta",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Cömert",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Vailati",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Boëtius",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Bua",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Zuffi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Akanji",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Elyounoussi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Janko",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lang",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Suchý",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Matías Emilio Delgado",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Omar Gaber",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Steffen",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Sereso Geoffroy Gonzaroua Dié",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Seydou Doumbia",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Vaclík",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Xhaka",
+      "team": "FC Basel 1893",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Cornelius",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Keita",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Pavlović",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Kadrii",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Verbič",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Remmer",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Amankwaa",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Berg",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Bay",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Santander",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Felix",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Greguš",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Okore",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Christensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Kusk",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Stadsgaard",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Augustinsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Antonsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Jørgensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Mathisen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Nicolai Mick Jørgensen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Ankersen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Per Nilsson",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Falk",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Olsen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. De Ridder",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Stephan Maigaard Andersen",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Delaney",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Kaminski",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Tom Høgli",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "W. Kvist",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Youssef Toutouh",
+      "team": "FC Copenhagen",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Adrián López",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Alex Telles",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "André André",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "André Silva",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Martins Indi",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Awaziem",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Danilo Alves Rodrigues",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Danilo Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Diogo Jota",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "LW",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Diogo Verdasca",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Evandro Goebel",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Felipe",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Galeno",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Gonçalo Paciência",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Helton da Silva Arruda",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Lichnovsky",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Corona",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "João Teixeira",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "José Sá",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Josué",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Depoitre",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Layún",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB",
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Marega",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Musa Auwal Yahaya",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Nabil Ghilas",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Otávio",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Pité",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Raúl Tiago Soares Almeida",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rodrigo Soares",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Rúben Neves",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Rui Pedro",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Bolat",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sami",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Sérgio Oliveira",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Tiquinho Soares",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. García",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "W. Boly",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Brahimi",
+      "team": "FC Porto",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Erokhin",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Gaţcan",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Grechkin",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Prepeliță",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Sidenko",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Troshechkin",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Aleksandr Bukharov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Artem Sobol",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Bartolomeu Jacinto Quissanga",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Noboa",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "César Navas",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Poloz",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Skopintsev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Terentjev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Dmitri Weber",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Dmitriy Khristis",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Goshev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Evgeni Stukanov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Kudryashov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Filipp Kondryukov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Novoseltsev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Igor Kireev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ivan Komissarov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Bayramyan",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Doumbia",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Grigoryev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Mevlja",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Kacharava",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Medvedev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Nikolić",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Nikita Kovalev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Papa Gueye",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Roman Khodunov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ruslan Shapovalov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Akhmaev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Azmoun",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Dzhanaev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Ezatolahi",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Pokatilov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sergey Zabrodin",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Kalachev",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RWB"
+      ]
+    },
+    {
+      "name": "T. Margasov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Valeri Yaroshenko",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vladimir Granat",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vladislav Suslov",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Yoo Byung-Soo",
+      "team": "FC Rostov",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Andrea Barzagli",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Marchisio",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "90",
+      "position": [
+        "RB",
+        "RWB",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Audero",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Mattiello",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "92",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Hernanes",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Benatia",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kean",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lemina",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Mandžukić",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "LM",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Pjaca",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Neto",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. De Ceglie",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Dybala",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "90",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "Patrice Evra",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Lichtsteiner",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Sturaro",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Rincón",
+      "team": "Juventus",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Hloušek",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Prijović",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Arkadiusz Malarz",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Bereszyński",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Guilherme Marques",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Igor Lewczuk",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Czerwiński",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Niezgoda",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Rzeźniczak",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jakub Kosecki",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Hämäläinen",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Ł. Broź",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Dąbrowski",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kopczyński",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Kucharczyk",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pazdan",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Wieteska",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mihail Aleksandrov",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Miroslav Radović",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Nikolić",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Duda",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Majecki",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Makowski",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Radosław Cierzniak",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Langil",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Szymański",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Vranješ",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Brzyski",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Jodłowiec",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Moulin",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Odjidja-Ofoe",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Qazaishvili",
+      "team": "Legia Warszawa",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. King",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Musa",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Chilwell",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Hamer",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Fuchs",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Amartey",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Gray",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Simpson",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Daniel Noel Drinkwater",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Barnes",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "I. Slimani",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Schlupp",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Vardy",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Schmeichel",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Ulloa",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Luis Hernández",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Albrighton",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Marcin Wasilewski",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Mendy",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Huth",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Mahrez",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Zieler",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Okazaki",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "W. Morgan",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Ndidi",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Benalouane",
+      "team": "Leicester",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Georgiev",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Anicet",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Angulo",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Keșerü",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Cicinho",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Cosmin Iosif Moți",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Aleksandrov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Naumov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Argilashki",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Terziev",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gustavo Campanharo",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Popadiyn",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Klimentov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Plastun",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ivan Čvorović",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Lukoki",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Palomino",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jonathan Cafú",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Juninho Quixadá",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Kristian Krasimirov Grigorov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Lucas Sasha",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Borjan",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marcelinho",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Natanael",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "O. Dimitrov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Kovachev",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Svetoslav Dyakov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Chunchukov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Ivanov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Marem",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Kerchev",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Misidjan",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Vitinha",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Vladislav Boykov Stoyanov",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Wanderson",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Minev",
+      "team": "Ludogorets",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Dzabana",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Kalulu",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Lacazette",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Anthony Lopes",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Grenier",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Tolisso",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Christophe Jallet",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Darder",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Mammana",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Perrin",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Gueïda Fofana",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Aouar",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Ferri",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Gaspar",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Morel",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Mocio",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Tousart",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Cornet",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Diakhaby",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Gonalons",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Gorgelin",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Rybus",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Yanga-Mbiwa",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Fekir",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Nkoulou",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Kemen",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Ghezzal",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Lyon",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Gunn",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Mooy",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Smith-Brown",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Aleix García",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Angeliño",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Barker",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Celina",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Sagna",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Zuculini",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Bravo",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "David Faupala",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Delph",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Clichy",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Glendon",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Rulli",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Denayer",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Stones",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "James Horsfield",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Bryan",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "CAM",
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Ịheanachọ",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Sané",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Demichelis",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Moreno",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Nolito",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Foden",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Zabaleta",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Pablo Maffeo",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rubén Sobrino",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Bytyqi",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Adarabioyo",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Bony",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Diallo",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Saint-Maximin",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Thiam",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Touré",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Traoré",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Andrea Raggi",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Mendy",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Boschilia",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Jean",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Bahamboula",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "D. N’Dinga",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Sidibé",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Subašić",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Salli",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Elderson Echiejile",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Bahlouli",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Fabinho",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Carrillo",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Cardona",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ivan Cavaleiro",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Pi",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jemerson",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jérémy Toulalan",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "João Moutinho",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jorge",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Glik",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. N&apos;Doram",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "91",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Badiashile",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Tisserand",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Morgan De Sanctis",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Dirar",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. N&apos;Guinda",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Nardi",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Diarra",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Falcao",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Ricardo Carvalho",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Sy",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Bakayoko",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Lemar",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "V. Germain",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Vágner Love",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Aït Bennasser",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Andzouana",
+      "team": "Monaco",
+      "ucl_season": 2016,
+      "rating": "63",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Diawara",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Milik",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Allan",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Christian Maggio",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Mertens",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Hysaj",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Emanuele Giaccherini",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Ghoulam",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "I. Strinić",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jorginho",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Koulibaly",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Sepe",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Tonelli",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Gabbiadini",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Hamšík",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Maksimović",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. El Kaddouri",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Zieliński",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pepe Reina",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Rafael Cabral",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raúl Albiol",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Chiricheș",
+      "team": "Napoli",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Areola",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Nkunku",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Krychowiak",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Ben Arfa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "H. Ongenda",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Augustin",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Ikoné",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Pastore",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Trapp",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Descamps",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Aurier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Meunier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Guardado",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Ramselaar",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Pröpper",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Rigo",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Schwaab",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Jozefzoon",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "G. Pereiro",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Jurjus",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Moreno",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Brenet",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. de Wijs",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hendrix",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Locadia",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Willems",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Zoet",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. de Jong",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Koopmans",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Narsingh",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Isimat-Mirin",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Zinchenko",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Lundqvist",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "67",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Pasveer",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Arias",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Bergwijn",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. de Jong",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Poulsen",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Álvaro Tejero",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "98",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "90",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Fábio Coentrão",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Bale",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kiko Casilla",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "93",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "92",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marco Asensio",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CB",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rubén Yáñez",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "93",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2016,
+      "rating": "92",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Rami",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Antonio Cotán",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Trémoulinas",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Lenglet",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carlos Fernández",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Daniel Filipe Martins Carriço",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "David Soria",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diego González",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Vázquez",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Mercado",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Kiyotake",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Iborra",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Correa",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "José Caro",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Vietto",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Kranevitter",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Krohn-Dehli",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Mariano",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "PH Ganso",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Jovetić",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Nzonzi",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sirigu",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Escudero",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kolodziejczak",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Vitolo",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "W. Ben Yedder",
+      "team": "Sevilla",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Jug",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ruiz",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Adrien Silva",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "André Felipe",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "António Alberto Bastos Pimparel",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Dost",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruno César",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "LM",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Bruno Jacinto da Silva",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Bryan Jafet Ruiz González",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Douglas",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Schelotto",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Elias",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Gelson Martins",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Campbell",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Jefferson Moreira Nascimento",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "João Pereira",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Castaignos",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Marković",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Spalvis",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Meli",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Zeegelaar",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Matheus Pereira",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Paulo Oliveira",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Petrović",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ricardo Esgaio",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Rúben Semedo",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rui Patrício",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Coates",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "William Carvalho",
+      "team": "Sporting CP",
+      "ucl_season": 2016,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB",
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Carter-Vickers",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Alli",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "D. Rose",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Dier",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "79",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Lamela",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Fazio",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Nkoudou",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "H. Kane",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Lloris",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Winks",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Onomah",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Vertonghen",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Trippier",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Walker",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Wimmer",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Sissoko",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "78",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Vorm",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "83",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Janssen",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Wanyama",
+      "team": "Tottenham",
+      "ucl_season": 2016,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    }
+  ]
+}

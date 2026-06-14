@@ -1,0 +1,8639 @@
+{
+  "total_players": 898,
+  "players": [
+    {
+      "name": "A. Iwobi",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ramsey",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Chambers",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Willock",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Ospina",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Welbeck",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Coquelin",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gabriel Paulista",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Héctor Bellerín",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "J. Campbell",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Reine-Adélaïde",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CAM",
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jack Wilshere",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Gibbs",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Laurent Koscielny",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Debuchy",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Macey",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Özil",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mathieu Flamini",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mikel Arteta Amatriain",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mohamed Elneny",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nacho Monreal",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Mertesacker",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Petr Čech",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Santi Cazorla",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Rosický",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Walcott",
+      "team": "Arsenal",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Florenzi",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Rüdiger",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Bogdan Ionuț Lobonț",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. De Rossi",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Diego Perotti",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LW",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Soleri",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Zukanović",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Emerson",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Francesco Totti",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CF",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Iago Falqué",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Iturbe",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Manolas",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Strootman",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Leandro Castán da Silva",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Maicon Douglas Sisenando",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Morgan De Sanctis",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Gyömbér",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Nainggolan",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CAM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. El Shaarawy",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Uçan",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Seydou Keita",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Torosidis",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Gervinho",
+      "team": "AS Roma",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Fernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "Borja González",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Godín",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Filipe Luís",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gabriel Fernández Arenas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Guilherme Siqueira",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Martínez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Jesús Gámez Duarte",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Juanfran",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Vietto",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Kranevitter",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Moyà",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nacho Monsalve",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Raúl García",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Rober Mañas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Samuel Villa Rodríguez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Hernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Partey",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Tiago Cardoso Mendes",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "LM",
+        "LW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Turan",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "RM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Aleix Vidal",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "89",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Bravo",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Douglas Pereira",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Gumbau",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Mathieu",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jordi Masip",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Juan Cámara",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "95",
+      "position": [
+        "RW",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "92",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. El Haddadi",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Sandro Ramírez",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB",
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Sergi Samper",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Kaptoum",
+      "team": "Barcelona",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Jevtić",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Karnitskiy",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Soroko",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleksandr Hleb",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Aleksandr Volodko",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Aleksey Rios",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Baga",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Polyakov",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Dmitri Mozolevski",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Olekhnovich",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Yablonskiy",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Mladenović",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "I. Aleksievich",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "I. Stasevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Dubra",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Gordeychuk",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "RW",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Volodko",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Maksim Zhavnerchik",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Milunović",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Nikolić",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Signevich",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Chernik",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Vitali Gayduchik",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vitali Rodionov",
+      "team": "Bate Borisov",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Mehmedi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LW",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "André Ramalho",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Leno",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Aránguiz",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Kramer",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Kresic",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "David Yelldell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Donati",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Çalhanoğlu",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Brandt",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Hernández",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Tah",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Bellarabi",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Papadopoulos",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Bender",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Frey",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Ö. Toprak",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Hilbert",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Kruse",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RW",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Ryu Seung-Woo",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Boenisch",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Kießling",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Jedvaj",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "V. Yurchenko",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Wendell",
+      "team": "Bayer Leverkusen",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "LB",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Fabian Benko",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Gaudino",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "H. Badstuber",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Lučić",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Green",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "RB",
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Kirchhoff",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Benatia",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "92",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Lahm",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Weihrauch",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "93",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Rode",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Ulreich",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "CF",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Starke",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Xabier Alonso Olano",
+      "team": "Bayern München",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Samaris",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Taarabt",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Cristante",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Salvio",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Eliseu Pereira dos Santos",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Đuričić",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jonas Gonçalves Oliveira",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "Júlio César",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Konstantinos Mitroglou",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Jović",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lisandro López",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Carcela-González",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Nélson Semedo",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Nuno Santos",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Paulo Jorge Pedro Lopes",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pizzi",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Jiménez",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Renato Sanches",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sílvio",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Talisca",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "V. Lindelöf",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Victor Andrade",
+      "team": "Benfica",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Hahn",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Álvaro Domínguez Soto",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Hrgota",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Heimeroth",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Johnson",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LM",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Xhaka",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Håvard Nordtveit",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Traoré",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Drmić",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Korb",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Stindl",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Ritter",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Schulz",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Martin Stranzl",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Elvedi",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Schulz",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Wendt",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Herrmann",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "R. Brouwers",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Raffael Caetano de Araújo",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Hazard",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Jantschke",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Sippel",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Sommer",
+      "team": "Borussia Mönchengladbach",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Baba",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Begović",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Ivanović",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Traoré",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "RB",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Cesc Fàbregas",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Diego Costa",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Gary Cahill",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Blackman",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Terry",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Zouma",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Kenedy",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Rémy",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Miazga",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mikel John Obi",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Oscar",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Djilobodji",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Falcao",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Loftus-Cheek",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Ramires",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Chelsea",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Dzagoev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Golovin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Musa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Aleksandrs Cauņa",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alexei Berezutski",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Natcho",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Strandberg",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Milanov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Shchennikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Akinfeev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Pomazun",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Nababkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Panchenko",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Fernandes",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Chernov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Wernbloom",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Eremenko",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergei Ignashevich",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergey Chepchugov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Seydou Doumbia",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Vasin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Tošić",
+      "team": "CSKA Moscow",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Ademi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Ćorić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Gojak",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Á. Henríquez",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alexandru Mățel",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Antonijo Ježina",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Armin Hodžić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Antolić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Pavičić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Šovšić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Çekiçi",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eduardo",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Benković",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gonçalo José Gonçalves dos Santos",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gordon Schildenfeld",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Soudani",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RW",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Ivo Pinto",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Fernándes",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Pivarić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Taravel",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jozo Šimunović",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Sigali",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Mikulić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Pjaca",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Rog",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Mario Musa",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Paulo Ricardo Ribeiro de Jesus Machado",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Z. Pamić",
+      "team": "Dinamo Zagreb",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Dragović",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Rudko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Yarmolenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Antunes",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Artem Kravets",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Garmash",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. González",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Vida",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Danilo Silva",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "H. Bushchan",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Júnior Moraes",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Łukasz Teodorczyk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Burda",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Miguel Veloso",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mykola Morozyuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "N. Korzun",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Niko Kranjčar",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "O. Iakovenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "O. Rybka",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Oleh Husyev",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RM",
+        "LM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Oleksandr Shovkovsky",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Orikhovskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Petrović",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Yaremchuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Myakushko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Rybalka",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sydorchuk",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "V. Boldenkov",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Buyalskyi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Belhanda",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Y. Makarenko",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Yevhen Khacheridi",
+      "team": "Dynamo Kyiv",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Beisebekov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Shchetkin",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Dzholchiev",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Birzhan Kulbekov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Branko Ilič",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Dedechko",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Shomko",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "E. Akhmetov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Evgeny Postnikov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Foxi Kéthévoama",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Zhukov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "I. Pikalkin",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Kabananga",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Aničić",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Golubnichi",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Maksimović",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Nenad Erić",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Twumasi",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Cañas",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Muzhikov",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Tanat Nuserbayev",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Vladimir Loginovskiy",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Z. Kozhamberdy",
+      "team": "FC Astana",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Cissokho",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Alberto Bueno Calvo",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "André André",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "André Silva",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Martins Indi",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Cote",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Cristian Tello",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Osvaldo",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Danilo Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Evandro Goebel",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Imbula",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Helton da Silva Arruda",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Lichnovsky",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Corona",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Layún",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LB",
+        "RB",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Maicon",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rúben Neves",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sérgio Oliveira",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "V. Aboubakar",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Brahimi",
+      "team": "FC Porto",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "LW",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Aurélien Bayard Chedjou Fongang",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Yılmaz",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bilal Kısa",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Gönen",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Çolak",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Eray İşcan",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Muslera",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Hakan Kadir Balta",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Hamit Altıntop",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "İ. Çipe",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Denayer",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Jem Karacan",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "José Rodríguez",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Großkreutz",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Günter",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Carole",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ł. Podolski",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LW",
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "O. Adın",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Gümüş",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. İnan",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Kaya",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sabri Sarıoğlu",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "T. Çamdal",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "U. Bulut",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Wesley Sneijder",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Öztekin",
+      "team": "Galatasaray",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Dejaegere",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Raman",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "B. Vandenbussche",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Miličević",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "E. Berg",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Wikheim",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LM",
+        "RM",
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Elhamed",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Hajradinović",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Van der Bruggen",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Saief",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Kalifa Coulibaly",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Deaux",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Depoitre",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Nielsen",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Boussoufa",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Poletanović",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Sels",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Simon",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "N. Asare",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "N. Pedersen",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Olayinka",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Gershon",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Renato Cardoso Porto Neto",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Diédhiou",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Kums",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Mitrović",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Foket",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Thomas Matton",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "U. Vitas",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Soumahoro",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Thoelen",
+      "team": "Gent",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Andrea Barzagli",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Marchisio",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Audero",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Morselli",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Hernanes",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RW",
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LM",
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Bonucci",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Cáceres",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Lemina",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Mandžukić",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Vitale",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Neto",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Dybala",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Patrice Evra",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "R. Pereyra",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rubinho",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Lichtsteiner",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Padoin",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LM",
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Sturaro",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Zaza",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Stefano Pellini",
+      "team": "Juventus",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kalulu",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Lacazette",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Anthony Lopes",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Arnold Mvuemba",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Koné",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Beauvue",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Grenier",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Tolisso",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Christophe Jallet",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Darder",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Gueïda Fofana",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Henri Bedimo",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Ferri",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Morel",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Rose",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Tousart",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Cornet",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Gonalons",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Gorgelin",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Valbuena",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Yanga-Mbiwa",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Milan Biševac",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Fekir",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Ghezzal",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rafael",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Malbranque",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Z. Labidi",
+      "team": "Lyon",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Rikan",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Itzhaki",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "B. Levi",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Barak Badash",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Carlos García",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Einbinder",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Glazer",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Micha",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Radonjić",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Daniel Lifshitz",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Dor Peretz",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Dasa",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Tibi",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Zahavi",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Eden Ben Basat",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Emmanuel Nosakhare Igiebor",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Gael Margolis",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Gal Alberman",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gil Vermouth",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "Haviv Ohayon",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Juan Pablo Colinas Ferreras",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Mitrović",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Ben Harush",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Oz Rali",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Rajković",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Goldberg",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Hasson",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Ben Haim",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Tal Ben Haim",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Azulay",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Yoav David Ziv",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Yuval Shpungin",
+      "team": "Maccabi Tel Aviv",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Mehmeti",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Tinnerholm",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Vindheim",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Kofi Adu",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Rakip",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "F. Andersson",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Brorsson",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Carvalho",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Molins",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Inge Berget",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LW",
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Johan Wiland",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kári Árnason",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Eikrem",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Johansson",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Rosenberg",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Đurđić",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Lewicki",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Cibicki",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "P. Konaté",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Bengtsson",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Kroon",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "T. Sana",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "V. Rodić",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Yotún",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LB",
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Zlatan Azinovic",
+      "team": "Malmo FF",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Barker",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Celina",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Sagna",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Zuculini",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Delph",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Clichy",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Evans",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Glendon",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Hart",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "James Horsfield",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "89",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Ịheanachọ",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Demichelis",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Manu García",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Roberts",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "P. Zabaleta",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Pablo Maffeo",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Richard Wright",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Adarabioyo",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "W. Bony",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Januzaj",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Martial",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Valencia",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LM",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Ander Herrera",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Andreas Pereira",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Schweinsteiger",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Borthwick-Jackson",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Varela",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Evans",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Lingard",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Wilson",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Shaw",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Carrick",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Darmian",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Depay",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Fellaini",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Rojo",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Schneiderlin",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Powell",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "69",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. McNair",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Johnstone",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Romero",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Blackett",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "W. Rooney",
+      "team": "Manchester United",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Bouchalakis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Finnbogason",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Masuaku",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Pulido",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Ideye",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Botía",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Siovas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Cambiasso",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Pardo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Giannis Maniatis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Hernâni",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Fortounis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "L. Milivojević",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Leandro Salino do Carmo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Saliakas",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Manuel Marouan da Costa Trindade Senoussi",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Elabdellaoui",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Kasami",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Vouros",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Q. Laçi",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Roberto Jiménez",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Kapino",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sebá",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "B. Stambouli",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Nkunku",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "David Luiz",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Lavezzi",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "G. van der Wiel",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Ongenda",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Augustin",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Pastore",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Trapp",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Douchez",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Aurier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Sirigu",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Guardado",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM",
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Maher",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Pröpper",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Jozefzoon",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Pereiro",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "H. Moreno",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Brenet",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Bruma",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. de Wijs",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Hendrix",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Locadia",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Willems",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "J. Zoet",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Paal",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. da Silva",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. de Jong",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Koopmans",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "62",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Narsingh",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Koch",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Lestienne",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. van Ginkel",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Isimat-Mirin",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Pasveer",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Vloet",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Arias",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Bergwijn",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "S. Poulsen",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Schaars",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Suently Alberto",
+      "team": "PSV Eindhoven",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Álvaro Arbeloa Coca",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Álvaro Tejero",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Borja Mayoral",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "87",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "97",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Cheryshev",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "88",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Bale",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Jesé",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "José Carlos Lazo",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kiko Casilla",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "93",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Díaz",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Ødegaard",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Lienhart",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rubén Yáñez",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "93",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2015,
+      "rating": "91",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Rami",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "António Alberto Bastos Pimparel",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Antonio Cotán",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Trémoulinas",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Immobile",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Carlos Fernández",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Coke",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Daniel Filipe Martins Carriço",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "David Soria",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "É. Banega",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "84",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Kakuta",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "G. Krychowiak",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Iborra",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "ST"
+      ]
+    },
+    {
+      "name": "José Antonio Reyes",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Juan Muñoz",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Gameiro",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Llorente",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Luismi",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Andreolli",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Krohn-Dehli",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mariano",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Cristóforo",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Nzonzi",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Escudero",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kolodziejczak",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Vitolo",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "LM",
+        "RM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Y. Konoplyanka",
+      "team": "Sevilla",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alex Teixeira",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Anton Kanibolotskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Sarnavskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bernard",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Darijo Srna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Eduardo da Silva",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Ferreyra",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fred",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Ordets",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Matvienko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Maksym Malyshev",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Márcio Azevedo",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marlos",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "O. Gladkyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Oleksandr Volovyk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Olexandr Kucher",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Gryn",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Kovalenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Shevchuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Vasyl Kobin",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Wellington Nem",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Abdennour",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aderllan Santos",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Álvaro Negredo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Barragán",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dani Parejo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Danilo Barbosa",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Diego Alves",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Pérez",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "I. Diallo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Jaume Doménech",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Javi Fuego",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "João Cancelo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "José Gayà",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Orbán",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Ryan",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nacho Gil",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "P. Piatti",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Paco Alcácer",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. De Paul",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rafa Mir",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rodrigo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rúben Vezo",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Feghouli",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Mustafi",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Santi Mina",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Tropi",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Yoel Rodríguez",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Z. Bakkali",
+      "team": "Valencia",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Schürrle",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "B. Dost",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruno Henrique",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Ascues",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Christian Träsch",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Benaglio",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Caligiuri",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Dante",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Rodríguez",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Felipe Lopes",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Azzaoui",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "J. Guilavogui",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Casteels",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Putaro",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Luiz Gustavo",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Arnold",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Grün",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Kruse",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "ST",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Schäfer",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Sprenger",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "N. Bendtner",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Klinger",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Naldo",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Zawada",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "P. Seguin",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "R. Knoche",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Rodríguez",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Jung",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Stolze",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Klose",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vieirinha",
+      "team": "VfL Wolfsburg",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Anyukov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Dzyuba",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Evseev",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "68",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kokorin",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Ryazantsev",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Vasyutin",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Witsel",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Yusupov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Andrey Ivanov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Criscito",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Tkachuk",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "71",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Yashchuk",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "Danny",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Dmitri Bogaev",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Garay",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Francisco Javier  García Fernández",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Hulk",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "85",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Smolnikov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Zuev",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "65",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Troyanov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Luís Neto",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Kerzhakov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Rudakov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Maurício",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Lombaerts",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Shatov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "78",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "P. Dolgov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Rebenko",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Viktor Faizulin",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Vyacheslav Malafeev",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Lodygin",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Zhirkov",
+      "team": "Zenit",
+      "ucl_season": 2015,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    }
+  ]
+}

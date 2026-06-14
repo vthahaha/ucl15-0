@@ -1,0 +1,8507 @@
+{
+  "total_players": 891,
+  "players": [
+    {
+      "name": "A. Chipciu",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Najar",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Sambi Lokonga",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Trébel",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Appiah",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Sowah Adjei",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Boeckx",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Harbaoui",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Onyekuru",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Ivan Obradović",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Josué Sá",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Mbodji",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Dendoncker",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Łukasz Teodorczyk",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Bruno",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RM",
+        "RW",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Sels",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Stanciu",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "O. Deschacht",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "P. Gerkens",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Berić",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Hanni",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Kums",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "U. Spajić",
+      "team": "Anderlecht",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Farías",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Makris",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "RW",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Paraskevas",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Waterman",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Carlão",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Aloneftis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Bertoglio",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "G. Efrem",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RM",
+        "LM",
+        "RW"
+      ]
+    },
+    {
+      "name": "G. Zahid",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Giannis Andreou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Giorgios Merkis",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Igor Albert Rinck de Diver Camargo",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jesús Rueda",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Artymatas",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Christoforou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Ebecilio",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Antoniou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Mickaël Franck Poté",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Alexandrou",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Nauzet Pérez",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nuno Morais",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Vouros",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Gudiño",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Sallai",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Roberto Lago Soto",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Grubac",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Thomas Michael Oar",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "U. Pardo",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Vander",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Vinícius",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Z. Adoni",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Zhivko Milanov",
+      "team": "Apoel Nicosia",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Florenzi",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "RB",
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Kolarov",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "A. Marcucci",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Riccardi",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Romagnoli",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alisson Becker",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bogdan Ionuț Lobonț",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Bruno Peres",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "C. Ünder",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Bouah",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. De Rossi",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Diego Perotti",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "E. Džeko",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Fazio",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Defrel",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "Gerson",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "H. Moreno",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Juan Jesus",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Manolas",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Strootman",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "L. Pellegrini",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": ""
+    },
+    {
+      "name": "L. Pellegrini",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Ł. Skorupski",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Leandro Castán da Silva",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Lorenzo Valeau",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Antonucci",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Gonalons",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Nura Abdullahi",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Schick",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "R. Karsdorp",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "R. Nainggolan",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. El Shaarawy",
+      "team": "AS Roma",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Á. Correa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RM",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Fernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Griezmann",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Werner",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alberto Ródenas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Antonio Montoro",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Godín",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Diego Costa",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fernando Torres",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Filipe Luís",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gabriel Fernández Arenas",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Giménez",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Oblak",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "90",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Juanfran",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Bare",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Gameiro",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Koke",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Hernández",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Vietto",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Moyà",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "N. Gaitán",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Savić",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Saúl",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CM",
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Sergi González",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Šime Vrsaljko",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Partey",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Toni Moya",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Carrasco",
+      "team": "Atletico Madrid",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Turan",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Adrián Ortolá",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleix Vidal",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "André Gomes",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Andrés Iniesta",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "David Costas",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Denis Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Deulofeu",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "I. Rakitić",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Cillessen",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Mascherano",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Jordi Alba",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "José Arnáiz",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Digne",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Messi",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "96",
+      "position": [
+        "CF",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Suárez",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. ter Stegen",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nélson Semedo",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "O. Dembélé",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Oriol Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Paco Alcácer",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Piqué",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Umtiti",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergi Roberto",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "RB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sergio Busquets",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thomas Vermaelen",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Mina",
+      "team": "Barcelona",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Robben",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Vidal",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Früchtl",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. Tolisso",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Alaba",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Evina",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Götze",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "F. Ribéry",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Fabian Benko",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Boateng",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Kimmich",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "RB",
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Rodríguez",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Coman",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Okyere Wriedt",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Mai",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Weinkauf",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Friedl",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Hummels",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Neuer",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Pantović",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Wintzheimer",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Dorsch",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Süle",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Lewandowski",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafinha",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Rudy",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Ulreich",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Wagner",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "T. Müller",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CAM",
+        "CF",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Starke",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Thiago Alcântara",
+      "team": "Bayern München",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Samaris",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Živković",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "André Almeida",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Bruno Varela",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Diogo Gonçalves",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Douglas Pereira",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Salvio",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eliseu Pereira dos Santos",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "F. Cervi",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Fábio Duarte",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Filipe Augusto",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gabriel Barbosa",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Seferović",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jardel",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "João Carvalho",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jonas Gonçalves Oliveira",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Júlio César",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Fejsa",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Lisandro López",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Luisão",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Svilar",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Pizzi",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Jiménez",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Rafa",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "LM",
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Benfica",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Çelebi",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Hutchinson",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Adriano",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Álvaro Negredo",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Erkin",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Tosun",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Tošić",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "D. Vida",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Destanoğlu",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Aksoy",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fabri",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Gönül",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Medel",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Lens",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Mitrović",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Pektemek",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "N. Uysal",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Çınar",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "O. Özyakup",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pepe",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Babel",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ricardo Andrade Quaresma Bernardo",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Arslan",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "T. Zengin",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Talisca",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CF"
+      ]
+    },
+    {
+      "name": "Vágner Love",
+      "team": "Beşiktaş",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Isak",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Schürrle",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Yarmolenko",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Pulišić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Reimann",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Zagadou",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Durm",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Gonzalo Castro Randon",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Beste",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Bruun Larsen",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Sancho",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Toljan",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Weigl",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Ł. Piszczek",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Dahoud",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Götze",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Philipp",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Reus",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marc Bartra",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcel Schmelzer",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Şahin",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "N. Subotić",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ö. Toprak",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Aubameyang",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Bürki",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "R. Weidenfeller",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. Kagawa",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Papastathopoulos",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Rode",
+      "team": "Borussia Dortmund",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Ralston",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Gamboa",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "C. Gordon",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "C. McGregor",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Miller",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Boyata",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dorus de Vries",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Kouassi",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "E. Sviatchenko",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Emilio Arturo Izaguirre Girón",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "G. Mackay-Steven",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Forrest",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Hayes",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "Jozo Šimunović",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Ajer",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Tierney",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Kundai Leroy Jeremiah Benyu",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Henderson",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Leigh Griffiths",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Johnston",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Lustig",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "N. Bitton",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Édouard",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "O. Ntcham",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Roberts",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "S. Armstrong",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Sinclair",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "Scott Brown",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Rogić",
+      "team": "Celtic",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Christensen",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Rüdiger",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Álvaro Morata",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "C. Cuevas",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "C. Hudson-Odoi",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Musonda",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "César Azpilicueta",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Cesc Fàbregas",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Sterling",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Zappacosta",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "Daniel Noel Drinkwater",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "David Luiz",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Ampadu",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "E. Hazard",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "LW",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Eduardo",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Emerson",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "F. Tomori",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gary Cahill",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Boga",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Scott",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Kenedy",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Rémy",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Batshuayi",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marcos Alonso",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LWB",
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Kanté",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "O. Giroud",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Pedro",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "R. Barkley",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "T. Bakayoko",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Courtois",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "V. Moses",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RWB",
+        "RM"
+      ]
+    },
+    {
+      "name": "W. Caballero",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Willian",
+      "team": "Chelsea",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Dzagoev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Golovin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Gordyushenko",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Makarov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Olanare",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Alexei Berezutski",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Natcho",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Chalov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Milanov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Shchennikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "I. Akinfeev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "I. Pomazun",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "K. Khosonov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Kuchaev",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Nababkin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RB",
+        "LB",
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Fernandes",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "N. Chernov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Ovchinnikov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Wernbloom",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "ST",
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergei Ignashevich",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Zhamaletdinov",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Vasin",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Vitinho",
+      "team": "CSKA Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST",
+        "CF",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Ajeti",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Fransson",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "B. Riveros",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "C. Itten",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Oberlin",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Schmid",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Davide Callà",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "É. Balanta",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "F. Frei",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Bua",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "L. Lacroix",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Zuffi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Akanji",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Elyounoussi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Lang",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "M. Salvi",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Suchý",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Neftali",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Omar Gaber",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. Petretta",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "R. Steffen",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "R. van Wolfswinkel",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Sereso Geoffroy Gonzaroua Dié",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "T. Vaclík",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Xhaka",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Stocker",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Yves Kaiser",
+      "team": "FC Basel 1893",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Waris",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Alex Telles",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "André André",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Bruno Costa",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Reyes",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Danilo Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Diogo Dalot",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Felipe",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Gonçalo Paciência",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Herrera",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Hernâni",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Iker Casillas Fernández",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Iván Marcano",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Corona",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "José Sá",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Luís Mata",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Layún",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB",
+        "RB",
+        "LM"
+      ]
+    },
+    {
+      "name": "M. Marega",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Óliver Torres",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Otávio",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RM",
+        "LM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Ricardo Pereira",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RB",
+        "LB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Sérgio Oliveira",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Tiquinho Soares",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Aboubakar",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Y. Brahimi",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Y. Osorio",
+      "team": "FC Porto",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Başaçıkoğlu",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "B. Jones",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Nieuwkoop",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "D. Vente",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Hansson",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Eric Botteghin",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Bijlow",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "J. Boëtius",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. St. Juste",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Toornstra",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "CM",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. van der Heijden",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Diks",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "K. Vermeer",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Karim El Ahmadi Al Aroos",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Geertruida",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Kramer",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Nelom",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Nicolai Mick Jørgensen",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Haps",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "R. Tapia",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Amrabat",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Berghuis",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "S. Larsson",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "S. van Beek",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Malacia",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Vilhena",
+      "team": "Feyenoord",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "Andrea Barzagli",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "B. Matuidi",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "C. Marchisio",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Pasquato",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "C. Pinsoglio",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Rugani",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Douglas Costa",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Bernardeschi",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Caligara",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Romagna",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Buffon",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "G. Chiellini",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Higuaín",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "J. Cuadrado",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "RM",
+        "RB",
+        "RW"
+      ]
+    },
+    {
+      "name": "K. Asamoah",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Coccolo",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Leonardo Maria Merio",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Benatia",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. De Sciglio",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Del Favero",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Kean",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Lemina",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Mandžukić",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "LM",
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Pjaca",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Pjanić",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "P. Dybala",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CAM",
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Bentancur",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Khedira",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Lichtsteiner",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "S. Muratore",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sturaro",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "T. Rincón",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "W. Szczęsny",
+      "team": "Juventus",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Á. Bogdán",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Lallana",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Oxlade-Chamberlain",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Robertson",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Alberto Moreno",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "B. Woodburn",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Masterson",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Ings",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Lovren",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Origi",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Solanke",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Ward",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Daniel Andre Sturridge",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "E. Can",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Wijnaldum",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Gomez",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Henderson",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Matip",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Milner",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CM",
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Jonathon Patrick Flanagan",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Karius",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Grujić",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Sakho",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "94",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Clyne",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Philippe Coutinho",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Kent",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "Rafael Camacho",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "RM",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ragnar Klavan",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Roberto Firmino",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "90",
+      "position": [
+        "CF",
+        "ST"
+      ]
+    },
+    {
+      "name": "S. Mané",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "91",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Mignolet",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Alexander-Arnold",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "V. van Dijk",
+      "team": "Liverpool",
+      "ucl_season": 2017,
+      "rating": "90",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Murić",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aymeric Laporte",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Mendy",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Brahim Díaz",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "C. Bravo",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Duhaney",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Danilo",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "David Silva",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Mangala",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Ederson",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "F. Delph",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Fernandinho",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Gabriel Jesus",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "İ. Gündoğan",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Stones",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. De Bruyne",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "92",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "K. Walker",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Sané",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "N. Otamendi",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "O. Zinchenko",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Foden",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Sterling",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Agüero",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Samir Nasri",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "T. Adarabioyo",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Wilson",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Kompany",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yaya Touré",
+      "team": "Manchester City",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Gomes",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "A. Martial",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Sánchez",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Tuanzebe",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "A. Valencia",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "A. Young",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Ander Herrera",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Andreas Pereira",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "C. Smalling",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Blind",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB",
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "E. Bailly",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "G. Varela",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "H. Mkhitaryan",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Lingard",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CAM",
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Joel Pereira",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Shaw",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Carrick",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Darmian",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Fellaini",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Rashford",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Rojo",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Mata",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "N. Matić",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "P. Jones",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Pogba",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Lukaku",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "S. McTominay",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Romero",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Fosu-Mensah",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Lindelöf",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Ibrahimović",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Zachary Harry Dearnley",
+      "team": "Manchester United",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Derviševič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "A. Hajrić",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Pihler",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Adis Hodžić",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Aleksander Rajčevič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Aleš Mertelj",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Aljaž Cotman",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "B. Vrhovec",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Bohar",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "D. Hotić",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Vokić",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Dare Vršič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Denis Šme",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Bajde",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "ST",
+        "RM"
+      ]
+    },
+    {
+      "name": "J. Billong",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Mešanović",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "ST",
+        "LM"
+      ]
+    },
+    {
+      "name": "Jasmin Handanovič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Štor",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Uskoković",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Zahović",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Kabha",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Kramarič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "LM",
+        "RM"
+      ]
+    },
+    {
+      "name": "M. Milec",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Obradovič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "M. Palčič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Marcos Magno Morales Tavares",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Marko Šuler",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Mitja Viler",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "S. Ogrinec",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Omoregie",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Ahmedi",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "67",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ž. Kolmanič",
+      "team": "Maribor",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "A. Diakhaby",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Saint-Maximin",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Touré",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RB",
+        "CB"
+      ]
+    },
+    {
+      "name": "Andrea Raggi",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Boschilia",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Benaglio",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "D. Sidibé",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "D. Subašić",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Fabinho",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CDM",
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Carrillo",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Jemerson",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "João Moutinho",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Jorge",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Baldé",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Glik",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. N&apos;Doram",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Falcao",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "R. Ghezzal",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Rony Lopes",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Jovetić",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "S. Meïté",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Sy",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "T. Kongolo",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Lemar",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LM",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Y. Tielemans",
+      "team": "Monaco",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Diawara",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Milik",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Ounas",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Zerbin",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "Allan",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Christian Maggio",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Mertens",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "ST",
+        "CF",
+        "LW"
+      ]
+    },
+    {
+      "name": "E. Hysaj",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Emanuele Giaccherini",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LM",
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Ghoulam",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "I. Strinić",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Jorginho",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "José Callejón",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "K. Koulibaly",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Insigne",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "LW",
+        "CF"
+      ]
+    },
+    {
+      "name": "L. Pavoletti",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Sepe",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Leandrinho",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Hamšík",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "M. Rog",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Mário Rui",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "N. Maksimović",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Zieliński",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Pepe Reina",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rafael Cabral",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Raúl Albiol",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "V. Chiricheș",
+      "team": "Napoli",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Gianniotis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Romao",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "André Martins",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "B. Engels",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Botía",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "D. Nikolaou",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Diogo Figueiras",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "E. Fardou Ben Mohamed",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Emmanuel Emenike",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "F. Pardo",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Guillaume Olivier Gillet",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Hrvoje Milić",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Vuković",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Ansarifard",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Fortounis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CAM",
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "L. Choutesiotis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Koútris",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Carcela-González",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "M. Siopis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Marko Marin",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "O. Elabdellaoui",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Cissé",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "P. Retsos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "P. Tachtsidis",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Kapino",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Proto",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Zdjelar",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Sebá",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Androutsos",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "U. Đurđević",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Odjidja-Ofoe",
+      "team": "Olympiakos Piraeus",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "A. Areola",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Á. Di María",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "A. Rabiot",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "Dani Alves",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "E. Cavani",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "G. Lo Celso",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "J. Draxler",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "LW",
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "J. Pastore",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "K. Trapp",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "L. Kurzawa",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Lassana Diarra",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Verratti",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Neymar",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "92",
+      "position": [
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Kimpembe",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Meunier",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Thiago Motta",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Yuri",
+      "team": "Paris Saint Germain",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Schmitz",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Bernardo",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "Bruma",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "D. Demme",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Upamecano",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Dominik Kaiser",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "E. Forsberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LM",
+        "CAM",
+        "LW"
+      ]
+    },
+    {
+      "name": "F. Palacios",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Konaté",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Augustin",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Kampl",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "K. Laimer",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "RB"
+      ]
+    },
+    {
+      "name": "L. Klostermann",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Compper",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "M. Halstenberg",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Sabitzer",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RM",
+        "CAM",
+        "RW"
+      ]
+    },
+    {
+      "name": "N. Keïta",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "83",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "N. Kühn",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "P. Gulácsi",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Köhn",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Ilsanker",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Werner",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "W. Orbán",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Y. Mvogo",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Poulsen",
+      "team": "RB Leipzig",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "A. Hakimi",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Álvaro Tejero",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Borja Mayoral",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Casemiro",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "97",
+      "position": [
+        "ST",
+        "LW"
+      ]
+    },
+    {
+      "name": "Cristo González",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Dani Carvajal",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "87",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dani Ceballos",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "F. Feuillassier",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "LW",
+        "RW"
+      ]
+    },
+    {
+      "name": "G. Bale",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "RW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Isco",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Jaime Seoane",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "K. Benzema",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "ST",
+        "CF"
+      ]
+    },
+    {
+      "name": "K. Navas",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Kiko Casilla",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Modrić",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "93",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "L. Quezada",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "L. Zidane",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Lucas Vázquez",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "RM",
+        "RW",
+        "RB"
+      ]
+    },
+    {
+      "name": "M. Kovačić",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Manu Hernando",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Marcelo",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "91",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marco Asensio",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Moha Airam",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Nacho",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB",
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "Óscar Rodríguez",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Varane",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "89",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "92",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Hernández",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "T. Kroos",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "92",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Vallejo",
+      "team": "Real Madrid",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Borja Lasso",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Lenglet",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Carlos Fernández",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Daniel Filipe Martins Carriço",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB",
+        "CDM"
+      ]
+    },
+    {
+      "name": "David Soria",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "É. Banega",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "F. Vázquez",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Mercado",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "G. Pizarro",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Guilherme Arana",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Correa",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "J. Geis",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "Jesús Navas",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RB",
+        "RM"
+      ]
+    },
+    {
+      "name": "Juan Soriano",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "L. Carole",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "L. Muriel",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Krohn-Dehli",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Nolito",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "RW",
+        "CAM",
+        "RM"
+      ]
+    },
+    {
+      "name": "PH Ganso",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Roque Mesa",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Corchia",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Kjær",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Nzonzi",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Sandro Ramírez",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Sergio Escudero",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "W. Ben Yedder",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "84",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "W. Montoya",
+      "team": "Sevilla",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RM"
+      ]
+    },
+    {
+      "name": "A. Pyatov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Alan Patrick",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CAM"
+      ]
+    },
+    {
+      "name": "B. Butko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Bernard",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LW",
+        "LM"
+      ]
+    },
+    {
+      "name": "D. Khocholava",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Darijo Srna",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Dentinho",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "F. Ferreyra",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Fred",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "G. Blanco Leschuk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "I. Ordets",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Petryak",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Ismaily",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "M. Shevchenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Márcio Azevedo",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Marlos",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "O. Kudryk",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "O. Zubkov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "S. Kryvtsov",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Stepanenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "Taison",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "V. Kovalenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Y. Grytsenko",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "63",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Y. Rakitskyi",
+      "team": "Shakhtar Donetsk",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "A. Maksimenko",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Rebrov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Samsonov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Selikhov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Aleksandr Samedov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RM",
+        "RW"
+      ]
+    },
+    {
+      "name": "Andrey Eshchenko",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "D. Davydov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "65",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "D. Glushakov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "D. Kombarov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Fernando",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "G. Dzhikiya",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Georgi Tigiev",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "LB",
+        "RB"
+      ]
+    },
+    {
+      "name": "I. Kutepov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "I. Popov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "Jano Ananidze",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "K. Shcherbakov",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Melgarejo",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB",
+        "ST"
+      ]
+    },
+    {
+      "name": "Luiz Adriano",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "77",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "M. Pašalić",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Marko Petković",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "68",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Pedro Rocha",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "LW",
+        "ST"
+      ]
+    },
+    {
+      "name": "Q. Promes",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "LW",
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "R. Zobnin",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "S. Bakaev",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "S. Bocchetti",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Z. Bakaev",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "69",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "Zé Luís",
+      "team": "Spartak Moscow",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "A. Jug",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "66",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "A. Ruiz",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CAM",
+        "ST"
+      ]
+    },
+    {
+      "name": "Adrien Silva",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "André Almeida Pinto",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "B. Dost",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Bruno César",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "LM",
+        "LB",
+        "CM"
+      ]
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "C. Piccini",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Daniel Podence",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "RW",
+        "LW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "Douglas",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "Fábio Coentrão",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "Gelson Martins",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RW",
+        "RM"
+      ]
+    },
+    {
+      "name": "Geraldes",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "Iuri Medeiros",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "RW"
+      ]
+    },
+    {
+      "name": "J. Mathieu",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB",
+        "LB"
+      ]
+    },
+    {
+      "name": "J. Silva",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LB"
+      ]
+    },
+    {
+      "name": "João Palhinha",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Acuña",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "LB",
+        "LM"
+      ]
+    },
+    {
+      "name": "Mattheus Oliveira",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Battaglia",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "R. Petrović",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "R. Salin",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Rui Patrício",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Coates",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "S. Ristovski",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "74",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "Seydou Doumbia",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Tobias Figueiredo",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "William Carvalho",
+      "team": "Sporting CP",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "A. Whiteman",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "Anthony Michael Georgiou",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "64",
+      "position": [
+        "LM",
+        "LB"
+      ]
+    },
+    {
+      "name": "B. Davies",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "C. Carter-Vickers",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "70",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "C. Eriksen",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "88",
+      "position": [
+        "CAM",
+        "CM"
+      ]
+    },
+    {
+      "name": "D. Alli",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CAM"
+      ]
+    },
+    {
+      "name": "D. Rose",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "LB",
+        "LWB"
+      ]
+    },
+    {
+      "name": "D. Sánchez",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Dier",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "81",
+      "position": [
+        "CDM",
+        "CB"
+      ]
+    },
+    {
+      "name": "E. Lamela",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RW",
+        "CAM"
+      ]
+    },
+    {
+      "name": "G. Nkoudou",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "LM",
+        "LW"
+      ]
+    },
+    {
+      "name": "H. Kane",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "91",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "H. Lloris",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "H. Winks",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "J. Brown",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "J. Foyth",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "CB",
+        "RB"
+      ]
+    },
+    {
+      "name": "J. Vertonghen",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "K. Sterling",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "61",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "K. Trippier",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "82",
+      "position": [
+        "RB",
+        "RWB"
+      ]
+    },
+    {
+      "name": "K. Walker-Peters",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "RB",
+        "LB"
+      ]
+    },
+    {
+      "name": "K. Wimmer",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "72",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "L. Amos",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "Llorente",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "76",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "Lucas Moura",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "80",
+      "position": [
+        "RW",
+        "LW"
+      ]
+    },
+    {
+      "name": "M. Dembélé",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CM",
+        "CDM"
+      ]
+    },
+    {
+      "name": "M. Sissoko",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "RM",
+        "CM"
+      ]
+    },
+    {
+      "name": "M. Vorm",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "75",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "P. Gazzaniga",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "73",
+      "position": [
+        "GK"
+      ]
+    },
+    {
+      "name": "S. Aurier",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "79",
+      "position": [
+        "RB"
+      ]
+    },
+    {
+      "name": "S. Shashoua",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    },
+    {
+      "name": "Son Heung-Min",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "86",
+      "position": [
+        "LW",
+        "ST",
+        "RW"
+      ]
+    },
+    {
+      "name": "T. Alderweireld",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "85",
+      "position": [
+        "CB"
+      ]
+    },
+    {
+      "name": "T. Oakley-Boothe",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "62",
+      "position": [
+        "CM"
+      ]
+    },
+    {
+      "name": "V. Janssen",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "71",
+      "position": [
+        "ST"
+      ]
+    },
+    {
+      "name": "V. Wanyama",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "78",
+      "position": [
+        "CDM",
+        "CM"
+      ]
+    },
+    {
+      "name": "William Miller",
+      "team": "Tottenham",
+      "ucl_season": 2017,
+      "rating": "60",
+      "position": [
+        "CAM",
+        "LM"
+      ]
+    }
+  ]
+}
