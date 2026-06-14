@@ -45,6 +45,8 @@ const SetupPage = () => {
     setEra,
     teamName,
     setTeamName,
+    difficulty,
+    setDifficulty,
     startDraft
   } = useDraft();
 
@@ -182,6 +184,30 @@ const SetupPage = () => {
                 >
                   <span style={styles.radioTitle}>{e.title}</span>
                   <span style={styles.radioDesc}>{e.desc}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div style={styles.formGroup}>
+            <label style={styles.label}>Select Difficulty (Rerolls)</label>
+            <div style={styles.radioGrid}>
+              {[
+                { id: 'easy', title: 'Easy', desc: '5 Draft Rerolls' },
+                { id: 'normal', title: 'Normal', desc: '3 Draft Rerolls' },
+                { id: 'hard', title: 'Hard', desc: '1 Draft Reroll' },
+                { id: 'brutal', title: 'Brutal', desc: '0 Draft Rerolls' },
+              ].map((d) => (
+                <div
+                  key={d.id}
+                  onClick={() => setDifficulty(d.id)}
+                  style={{
+                    ...styles.radioButton,
+                    ...(difficulty === d.id ? styles.radioButtonActive : {}),
+                  }}
+                >
+                  <span style={styles.radioTitle}>{d.title}</span>
+                  <span style={styles.radioDesc}>{d.desc}</span>
                 </div>
               ))}
             </div>

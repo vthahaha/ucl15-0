@@ -208,6 +208,9 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   const [activeTab, setActiveTab] = useState('STANDINGS'); // 'STANDINGS', 'SCORERS', 'ASSISTS'
 
   const timelineContainerRef = useRef(null);
+  const lastRoundRef = useRef(null);
+  const lastStateRef = useRef(null);
+  const lastKoStageRef = useRef(null);
 
   // Auto-scroll timeline to bottom on updates
   useEffect(() => {
@@ -289,6 +292,21 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   const userRating = Math.round(
     startingPlayers.reduce((sum, p) => sum + p.rating, 0) / Math.max(1, startingPlayers.length)
   );
+
+  const renderTeamNameWithYear = (fullName, isUser = false) => {
+    if (!fullName) return null;
+    const match = fullName.match(/^(.*?)\s*\((\d{4})\)$/);
+    if (match) {
+      const [, name, year] = match;
+      return (
+        <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+          <span style={{ fontWeight: isUser ? '700' : '500' }}>{name}</span>
+          <span style={{ fontSize: '0.72rem', color: 'var(--text-muted)', fontWeight: '400' }}>({year})</span>
+        </span>
+      );
+    }
+    return <span style={{ fontWeight: isUser ? '700' : '500' }}>{fullName}</span>;
+  };
 
   const getCleanGenericPos = (pos) => {
     if (!pos) return 'MID';
@@ -1417,22 +1435,36 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   // Auto-select user match as featured when round/stage changes in preview mode
   useEffect(() => {
     if (isSimulating) return; // don't override active selection during simulation
-    if (liveMatches && liveMatches.length > 0) return; // DO NOT override selection if we are showing results!
 
-    if (tournamentState === 'SWISS') {
-      const pairings = getUpcomingSwissPairings();
-      const userIdx = pairings.findIndex(([tA, tB]) => tA.isUser || tB.isUser);
-      if (userIdx >= 0) setFeaturedMatchIndex(userIdx);
-    } else if (knockoutBracket && knockoutBracket.pairs) {
-      const userIdx = knockoutBracket.pairs.findIndex(p => 
-        (p.teamA && (p.teamA.isUser || p.teamA.id === 7777)) || 
-        (p.teamB && (p.teamB.isUser || p.teamB.id === 7777))
-      );
-      if (userIdx >= 0) {
-        setFeaturedMatchIndex(userIdx);
-      } else {
-        // User not in knockouts (eliminated or waiting in top 8 during play-offs), select first match
-        setFeaturedMatchIndex(0);
+    // Check if the round, state, or knockout stage has actually changed
+    const roundChanged = lastRoundRef.current !== swissRound;
+    const stateChanged = lastStateRef.current !== tournamentState;
+    const koStageChanged = lastKoStageRef.current !== knockoutBracket?.stage;
+
+    // Update refs
+    lastRoundRef.current = swissRound;
+    lastStateRef.current = tournamentState;
+    lastKoStageRef.current = knockoutBracket?.stage;
+
+    // Only auto-select user match if there is a genuine round/stage transition
+    if (roundChanged || stateChanged || koStageChanged) {
+      if (liveMatches && liveMatches.length > 0) return; // DO NOT override selection if we are showing results!
+
+      if (tournamentState === 'SWISS') {
+        const pairings = getUpcomingSwissPairings();
+        const userIdx = pairings.findIndex(([tA, tB]) => tA.isUser || tB.isUser);
+        if (userIdx >= 0) setFeaturedMatchIndex(userIdx);
+      } else if (knockoutBracket && knockoutBracket.pairs) {
+        const userIdx = knockoutBracket.pairs.findIndex(p => 
+          (p.teamA && (p.teamA.isUser || p.teamA.id === 7777)) || 
+          (p.teamB && (p.teamB.isUser || p.teamB.id === 7777))
+        );
+        if (userIdx >= 0) {
+          setFeaturedMatchIndex(userIdx);
+        } else {
+          // User not in knockouts (eliminated or waiting in top 8 during play-offs), select first match
+          setFeaturedMatchIndex(0);
+        }
       }
     }
   }, [swissRound, tournamentState, knockoutBracket?.stage, isSimulating, liveMatches.length]);
@@ -1877,7 +1909,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       >
                         {activeFixtures.map((f, idx) => (
                           <option key={idx} value={idx}>
-                            {f.teamA.name.split(' (')[0]} vs {f.teamB.name.split(' (')[0]} {f.isUser ? '⭐' : ''}
+                            {f.teamA.name} vs {f.teamB.name} {f.isUser ? '⭐' : ''}
                           </option>
                         ))}
                       </select>
@@ -2206,7 +2238,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                         }}
                       >
                         <span style={{ ...styles.fixtureTeamA, fontWeight: m.teamA.isUser ? '700' : '400' }}>
-                          {m.teamA.name.split(' (')[0]}
+                          {renderTeamNameWithYear(m.teamA.name, m.teamA.isUser)}
                         </span>
                         
                         <span style={{
@@ -2219,7 +2251,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                         </span>
 
                         <span style={{ ...styles.fixtureTeamB, fontWeight: m.teamB.isUser ? '700' : '400' }}>
-                          {m.teamB.name.split(' (')[0]}
+                          {renderTeamNameWithYear(m.teamB.name, m.teamB.isUser)}
                         </span>
                       </div>
                     );
@@ -2320,7 +2352,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                     e.target.src = 'https://media.api-sports.io/football/leagues/2.png';
                                   }}
                                 />
-                                <span style={styles.teamNameText}>{team.name}</span>
+                                <span style={styles.teamNameText}>{renderTeamNameWithYear(team.name, isUser)}</span>
                               </td>
                               <td style={{ ...styles.td, textAlign: 'center' }}>{team.played}</td>
                               <td style={{ ...styles.td, textAlign: 'center' }}>{team.won}</td>
@@ -2407,7 +2439,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                 <div style={styles.koTeamLine}>
                                   <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                                     <img src={pair.teamA.logo_url} style={styles.scorerLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-                                    {pair.teamA.name.split(' (')[0]}
+                                    {renderTeamNameWithYear(pair.teamA.name, pair.teamA.isUser)}
                                     {pair.teamA.isUser && <span className="user-tag">(YOU)</span>}
                                   </span>
                                   <span style={{ fontWeight: isUserPair ? '700' : '400' }}>
@@ -2418,7 +2450,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                 <div style={styles.koTeamLine}>
                                   <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                                     <img src={pair.teamB.logo_url} style={styles.scorerLogo} alt="" onError={(e) => { e.target.src = 'https://media.api-sports.io/football/leagues/2.png'; }} />
-                                    {pair.teamB.name.split(' (')[0]}
+                                    {renderTeamNameWithYear(pair.teamB.name, pair.teamB.isUser)}
                                     {pair.teamB.isUser && <span className="user-tag">(YOU)</span>}
                                   </span>
                                   <span style={{ fontWeight: isUserPair ? '700' : '400' }}>
@@ -2432,7 +2464,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                     {penalties && <span style={{ color: 'var(--gold)' }}> (pens {penalties})</span>}
                                     {winner && (
                                       <span style={styles.koWinnerLabel}>
-                                        Winner: <strong>{winner.name.split(' (')[0]}</strong>
+                                        Winner: <strong>{renderTeamNameWithYear(winner.name, winner.isUser)}</strong>
                                       </span>
                                     )}
                                   </div>
@@ -2454,7 +2486,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       </div>
                     ) : (
                       displayTopScorers.map((scorer, idx) => {
-                        const isUserPlayer = Object.values(userSquad).some(p => p.name === scorer.name);
+                        const isUserPlayer = scorer.teamName === (userTeamName || 'My Draft XI') && Object.values(userSquad).some(p => p.name === scorer.name);
                         return (
                           <div
                             key={idx}
@@ -2477,7 +2509,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                 {scorer.name}
                                 {isUserPlayer && <span className="user-tag" style={{ marginLeft: '4px' }}>DRAFT XI</span>}
                               </div>
-                              <div style={styles.scorerTeam}>{scorer.teamName.split(' (')[0]}</div>
+                              <div style={styles.scorerTeam}>{renderTeamNameWithYear(scorer.teamName)}</div>
                             </div>
                             <div style={styles.scorerGoals}>{scorer.goals} goals</div>
                           </div>
@@ -2495,7 +2527,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       </div>
                     ) : (
                       displayTopAssistors.map((assistor, idx) => {
-                        const isUserPlayer = Object.values(userSquad).some(p => p.name === assistor.name);
+                        const isUserPlayer = assistor.teamName === (userTeamName || 'My Draft XI') && Object.values(userSquad).some(p => p.name === assistor.name);
                         return (
                           <div
                             key={idx}
@@ -2518,7 +2550,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                                 {assistor.name}
                                 {isUserPlayer && <span className="user-tag" style={{ marginLeft: '4px' }}>DRAFT XI</span>}
                               </div>
-                              <div style={styles.scorerTeam}>{assistor.teamName.split(' (')[0]}</div>
+                              <div style={styles.scorerTeam}>{renderTeamNameWithYear(assistor.teamName)}</div>
                             </div>
                             <div style={styles.scorerGoals}>{assistor.assists} assists</div>
                           </div>

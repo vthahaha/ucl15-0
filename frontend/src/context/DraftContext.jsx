@@ -19,6 +19,7 @@ export const DraftProvider = ({ children }) => {
   const [formation, setFormation] = useState('');
   const [era, setEra] = useState('2020s');
   const [teamName, setTeamName] = useState('');
+  const [difficulty, setDifficulty] = useState('normal'); // 'easy', 'normal', 'hard', 'brutal'
 
   // Choose 7 random formations on mount
   useEffect(() => {
@@ -68,7 +69,13 @@ export const DraftProvider = ({ children }) => {
       setDraftedSquad({});
       setDraftedPlayerIds([]);
       setDraftedTeamIds([]);
-      setRerollsLeft(3);
+      
+      let startingRerolls = 3;
+      if (difficulty === 'easy') startingRerolls = 5;
+      else if (difficulty === 'normal') startingRerolls = 3;
+      else if (difficulty === 'hard') startingRerolls = 1;
+      else if (difficulty === 'brutal') startingRerolls = 0;
+      setRerollsLeft(startingRerolls);
       setSelectedPlayerForPlacement(null);
 
       const slots = FORMATIONS[formation];
@@ -197,6 +204,8 @@ export const DraftProvider = ({ children }) => {
         setEra,
         teamName,
         setTeamName,
+        difficulty,
+        setDifficulty,
         draftedSquad,
         draftedPlayerIds,
         draftedTeamIds,
