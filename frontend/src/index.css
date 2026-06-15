@@ -587,7 +587,14 @@ h1, h2, h3, h4, .title-font {
     min-width: 65px !important;
     height: 68px !important;
   }
+
+  /* Lineup Modal: stack columns vertically on mobile */
+  .lineup-modal-body {
+    grid-template-columns: 1fr !important;
+    gap: 15px !important;
+  }
 }
+
 
 @media (max-width: 600px) {
   /* Features Showcase: stack single column */

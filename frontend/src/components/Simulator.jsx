@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Play, Trophy, Medal, ArrowRight, Table, Users, Clock, Activity, BarChart2, Calendar, Star, Info } from 'lucide-react';
+import { Play, Trophy, Medal, ArrowRight, Table, Users, Clock, Activity, BarChart2, Calendar, Star, Info, X, Shuffle } from 'lucide-react';
+import { checkPositionEligibility } from '../utils/positionRules';
 
 const generateFallbackSquad = (teamName) => {
   // Return a fallback squad composed of real historical UEFA Champions League players
@@ -103,6 +104,10 @@ const generateSwissPairings = (standings) => {
 };
 
 const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
+  const [activeUserSquad, setActiveUserSquad] = useState(userSquad);
+  const [showLineupManager, setShowLineupManager] = useState(false);
+  const [selectedSwapPlayerKey, setSelectedSwapPlayerKey] = useState(null);
+
   const [tournamentState, setTournamentState] = useState('INIT'); // 'INIT', 'SWISS', 'PLAYOFFS', 'RO16', 'QF', 'SF', 'FINAL', 'CHAMPION'
   const [swissStandings, setSwissStandings] = useState([]);
   const [swissRound, setSwissRound] = useState(1);
@@ -236,12 +241,95 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   }, [simMinute, isSimulating, simType, nextSwissStandings, nextSwissRound, nextTournamentState, nextKnockoutBracket, liveMatches]);
 
   // Calculate User Team overall rating from starting XI only
-  const startingPlayers = Object.entries(userSquad)
+  const startingPlayers = Object.entries(activeUserSquad)
     .filter(([key, p]) => !key.startsWith('sub') && !!p)
     .map(([key, p]) => p);
   const userRating = Math.round(
     startingPlayers.reduce((sum, p) => sum + p.rating, 0) / Math.max(1, startingPlayers.length)
   );
+
+  // Update user team (id: 7777) rating dynamically in standings and pairings
+  useEffect(() => {
+    if (swissStandings.length > 0) {
+      setSwissStandings(prev =>
+        prev.map(team => team.id === 7777 ? { ...team, rating: userRating } : team)
+      );
+    }
+    if (upcomingPairings.length > 0) {
+      setUpcomingPairings(prev =>
+        prev.map(([tA, tB]) => [
+          tA.id === 7777 ? { ...tA, rating: userRating } : tA,
+          tB.id === 7777 ? { ...tB, rating: userRating } : tB,
+        ])
+      );
+    }
+  }, [userRating]);
+
+  const handleSwapPlayers = (keyA, keyB) => {
+    const isKeyASub = keyA.startsWith('sub');
+    const isKeyBSub = keyB.startsWith('sub');
+
+    if (isKeyASub && isKeyBSub) {
+      setActiveUserSquad((prev) => {
+        const next = { ...prev };
+        const temp = next[keyA];
+        next[keyA] = next[keyB];
+        next[keyB] = temp;
+        return next;
+      });
+      setSelectedSwapPlayerKey(null);
+      return;
+    }
+
+    if (!isKeyASub && !isKeyBSub) {
+      const playerA = activeUserSquad[keyA];
+      const playerB = activeUserSquad[keyB];
+      
+      const roleA = keyA.replace(/\d+$/, '').toUpperCase();
+      const roleB = keyB.replace(/\d+$/, '').toUpperCase();
+
+      if (playerB && !checkPositionEligibility(playerB.position, roleA)) {
+        alert(`Incompatible Position! A ${playerB.position} cannot play at ${roleA}.`);
+        return;
+      }
+      if (playerA && !checkPositionEligibility(playerA.position, roleB)) {
+        alert(`Incompatible Position! A ${playerA.position} cannot play at ${roleB}.`);
+        return;
+      }
+
+      setActiveUserSquad((prev) => {
+        const next = { ...prev };
+        const temp = next[keyA];
+        next[keyA] = next[keyB];
+        next[keyB] = temp;
+        return next;
+      });
+      setSelectedSwapPlayerKey(null);
+      return;
+    }
+
+    const starterKey = isKeyASub ? keyB : keyA;
+    const subKey = isKeyASub ? keyA : keyB;
+
+    const starterPlayer = activeUserSquad[starterKey];
+    const subPlayer = activeUserSquad[subKey];
+
+    const starterRole = starterKey.replace(/\d+$/, '').toUpperCase();
+
+    if (subPlayer && !checkPositionEligibility(subPlayer.position, starterRole)) {
+      alert(`Incompatible Position! A ${subPlayer.position} cannot play at ${starterRole}.`);
+      return;
+    }
+
+    setActiveUserSquad((prev) => {
+      const next = { ...prev };
+      const temp = next[starterKey];
+      next[starterKey] = next[subKey];
+      next[subKey] = temp;
+      return next;
+    });
+    setSelectedSwapPlayerKey(null);
+  };
 
   const renderTeamNameWithYear = (fullName, isUser = false) => {
     if (!fullName) return null;
@@ -269,8 +357,8 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   };
 
   const getTeamSquad = (team) => {
-    if (team.isUser) {
-      return Object.values(userSquad).map(p => ({
+    if (team.isUser || team.id === 7777) {
+      return Object.values(activeUserSquad).map(p => ({
         name: p.name,
         rating: p.rating,
         generic_position: p.generic_position
@@ -284,10 +372,10 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   };
 
   const getTeamRoster = (team) => {
-    if (team.isUser) {
+    if (team.isUser || team.id === 7777) {
       const starters = [];
       const subs = [];
-      Object.entries(userSquad).forEach(([key, p]) => {
+      Object.entries(activeUserSquad).forEach(([key, p]) => {
         if (!p) return;
         const playerObj = {
           name: p.name,
@@ -1360,6 +1448,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   };
 
   useEffect(() => {
+    setActiveUserSquad(userSquad);
     initTournament();
   }, [userSquad, era]);
 
@@ -1699,9 +1788,16 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
             Era: {era} | Squad OVR: <span style={{ color: 'var(--cyan-glow)', fontWeight: '700' }}>{userRating}</span>
           </p>
         </div>
-        <button className="btn-secondary" onClick={onReset} disabled={isSimulating}>
-          Draft New Team
-        </button>
+        <div style={{ display: 'flex', gap: '10px' }}>
+          {swissRound === 1 && recentFixtures.length === 0 && (
+            <button className="btn-secondary" onClick={() => setShowLineupManager(true)} disabled={isSimulating}>
+              <Users size={16} style={{ marginRight: '6px' }} /> Manage Lineup
+            </button>
+          )}
+          <button className="btn-secondary" onClick={onReset} disabled={isSimulating}>
+            Draft New Team
+          </button>
+        </div>
       </div>
 
       {/* Champion Coronation View */}
@@ -1895,7 +1991,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
               maxHeight: '220px',
               overflowY: 'auto',
             }} className="timeline-scroll">
-              {Object.values(userSquad)
+              {Object.values(activeUserSquad)
                 .sort((a, b) => b.rating - a.rating)
                 .map((p, idx) => {
                   const goals = userCampaignStats.scorers[p.name] || 0;
@@ -1907,7 +2003,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       alignItems: 'center',
                       justifyContent: 'space-between',
                       padding: '8px 10px',
-                      borderBottom: idx === Object.values(userSquad).length - 1 ? 'none' : '1px solid rgba(255,255,255,0.03)',
+                      borderBottom: idx === Object.values(activeUserSquad).length - 1 ? 'none' : '1px solid rgba(255,255,255,0.03)',
                       fontSize: '0.8rem',
                     }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -2572,7 +2668,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       </div>
                     ) : (
                       displayTopScorers.map((scorer, idx) => {
-                        const isUserPlayer = scorer.teamName === (userTeamName || 'My Draft XI') && Object.values(userSquad).some(p => p.name === scorer.name);
+                        const isUserPlayer = scorer.teamName === (userTeamName || 'My Draft XI') && Object.values(activeUserSquad).some(p => p.name === scorer.name);
                         return (
                           <div
                             key={idx}
@@ -2613,7 +2709,7 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                       </div>
                     ) : (
                       displayTopAssistors.map((assistor, idx) => {
-                        const isUserPlayer = assistor.teamName === (userTeamName || 'My Draft XI') && Object.values(userSquad).some(p => p.name === assistor.name);
+                        const isUserPlayer = assistor.teamName === (userTeamName || 'My Draft XI') && Object.values(activeUserSquad).some(p => p.name === assistor.name);
                         return (
                           <div
                             key={idx}
@@ -2664,6 +2760,148 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
                   </div>
                 </div>
               )}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {showLineupManager && (
+        <div style={styles.modalOverlay}>
+          <div style={styles.modalContent}>
+            <div style={styles.modalHeader}>
+              <div>
+                <h3 style={{ ...styles.title, margin: 0 }}>Manage Team Lineup</h3>
+                <p style={{ ...styles.subtitle, margin: '2px 0 0 0' }}>Swap Starting XI players with Bench players. Overall OVR updates instantly.</p>
+              </div>
+              <button 
+                onClick={() => {
+                  setShowLineupManager(false);
+                  setSelectedSwapPlayerKey(null);
+                }}
+                style={{
+                  background: 'none',
+                  border: 'none',
+                  color: 'var(--text-muted)',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  padding: '5px',
+                  borderRadius: '50%',
+                  transition: 'background 0.2s ease',
+                }}
+                onMouseEnter={(e) => { e.currentTarget.style.backgroundColor = 'rgba(255,255,255,0.05)'; }}
+                onMouseLeave={(e) => { e.currentTarget.style.backgroundColor = 'transparent'; }}
+              >
+                <X size={20} />
+              </button>
+            </div>
+            
+            <div style={styles.modalBody} className="lineup-modal-body">
+              {/* Left Column: Starting XI */}
+              <div style={styles.modalColumn}>
+                <h4 style={styles.modalColumnTitle}>Starting XI</h4>
+                <div style={styles.lineupList} className="timeline-scroll">
+                  {Object.entries(activeUserSquad)
+                    .filter(([key]) => !key.startsWith('sub'))
+                    .map(([key, p]) => {
+                      if (!p) return null;
+                      const role = key.replace(/\d+$/, '').toUpperCase();
+                      const isSelected = selectedSwapPlayerKey === key;
+                      
+                      // Check compatibility if a sub player is selected
+                      let isCompatible = true;
+                      if (selectedSwapPlayerKey && selectedSwapPlayerKey.startsWith('sub')) {
+                        const subPlayer = activeUserSquad[selectedSwapPlayerKey];
+                        isCompatible = subPlayer ? checkPositionEligibility(subPlayer.position, role) : true;
+                      }
+
+                      return (
+                        <div
+                          key={key}
+                          onClick={() => {
+                            if (selectedSwapPlayerKey === key) {
+                              setSelectedSwapPlayerKey(null);
+                            } else if (selectedSwapPlayerKey) {
+                              handleSwapPlayers(selectedSwapPlayerKey, key);
+                            } else {
+                              setSelectedSwapPlayerKey(key);
+                            }
+                          }}
+                          style={{
+                            ...styles.lineupItem,
+                            ...(isSelected ? styles.lineupItemActive : {}),
+                            ...(!isCompatible ? styles.lineupItemIncompatible : {}),
+                          }}
+                        >
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                            <span style={{ color: 'var(--cyan-glow)', fontWeight: '800', width: '32px', fontSize: '0.75rem' }}>{role}</span>
+                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                              <span style={{ fontWeight: '700', fontSize: '0.85rem', color: '#ffffff' }}>{p.name}</span>
+                              <span style={{ fontSize: '0.65rem', color: 'var(--text-muted)' }}>Pos: {p.position}</span>
+                            </div>
+                          </div>
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                            <span style={{ fontSize: '0.8rem', fontWeight: '800', color: 'var(--gold)' }}>{p.rating}</span>
+                            <Shuffle size={12} color="var(--text-muted)" />
+                          </div>
+                        </div>
+                      );
+                    })}
+                </div>
+              </div>
+
+              {/* Right Column: Substitutes Bench */}
+              <div style={styles.modalColumn}>
+                <h4 style={{ ...styles.modalColumnTitle, color: 'var(--gold)', borderBottomColor: 'rgba(242,204,96,0.15)' }}>Substitutes Bench</h4>
+                <div style={styles.lineupList} className="timeline-scroll">
+                  {['sub1', 'sub2', 'sub3', 'sub4', 'sub5', 'sub6', 'sub7'].map((subKey, idx) => {
+                    const p = activeUserSquad[subKey];
+                    if (!p) return null;
+                    const isSelected = selectedSwapPlayerKey === subKey;
+                    
+                    // Check compatibility if a starter player is selected
+                    let isCompatible = true;
+                    if (selectedSwapPlayerKey && !selectedSwapPlayerKey.startsWith('sub')) {
+                      const starterRole = selectedSwapPlayerKey.replace(/\d+$/, '').toUpperCase();
+                      isCompatible = checkPositionEligibility(p.position, starterRole);
+                    }
+
+                    return (
+                      <div
+                        key={subKey}
+                        onClick={() => {
+                          if (selectedSwapPlayerKey === subKey) {
+                            setSelectedSwapPlayerKey(null);
+                          } else if (selectedSwapPlayerKey) {
+                            handleSwapPlayers(selectedSwapPlayerKey, subKey);
+                          } else {
+                            setSelectedSwapPlayerKey(subKey);
+                          }
+                        }}
+                        style={{
+                          ...styles.lineupItem,
+                          ...(isSelected ? styles.lineupItemActive : {}),
+                          ...(selectedSwapPlayerKey && !selectedSwapPlayerKey.startsWith('sub') && isCompatible ? styles.lineupItemCompatible : {}),
+                          ...(selectedSwapPlayerKey && !selectedSwapPlayerKey.startsWith('sub') && !isCompatible ? styles.lineupItemIncompatible : {}),
+                        }}
+                      >
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                          <span style={{ color: 'var(--gold)', fontWeight: '800', width: '38px', fontSize: '0.7rem' }}>SUB {idx + 1}</span>
+                          <div style={{ display: 'flex', flexDirection: 'column' }}>
+                            <span style={{ fontWeight: '700', fontSize: '0.85rem', color: '#ffffff' }}>{p.name}</span>
+                            <span style={{ fontSize: '0.65rem', color: 'var(--text-muted)' }}>Pos: {p.position}</span>
+                          </div>
+                        </div>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                          <span style={{ fontSize: '0.8rem', fontWeight: '800', color: 'var(--cyan-glow)' }}>{p.rating}</span>
+                          <Shuffle size={12} color="var(--text-muted)" />
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -3398,6 +3636,93 @@ const styles = {
   coronationResetBtn: {
     padding: '14px 30px',
     fontSize: '0.95rem',
+  },
+  modalOverlay: {
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    background: 'rgba(2, 5, 20, 0.85)',
+    backdropFilter: 'blur(16px)',
+    WebkitBackdropFilter: 'blur(16px)',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 9999,
+    padding: '20px',
+  },
+  modalContent: {
+    background: 'rgba(8, 18, 45, 0.95)',
+    border: '1.5px solid var(--panel-border)',
+    borderRadius: '16px',
+    width: '100%',
+    maxWidth: '850px',
+    maxHeight: '90vh',
+    overflowY: 'auto',
+    display: 'flex',
+    flexDirection: 'column',
+    boxShadow: '0 0 30px rgba(0, 240, 255, 0.1)',
+  },
+  modalHeader: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    padding: '20px',
+    borderBottom: '1px solid rgba(255,255,255,0.08)',
+  },
+  modalBody: {
+    padding: '20px',
+    display: 'grid',
+    gridTemplateColumns: '1.1fr 1fr',
+    gap: '20px',
+    overflowY: 'auto',
+  },
+  modalColumn: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '12px',
+  },
+  modalColumnTitle: {
+    fontSize: '0.9rem',
+    fontWeight: '800',
+    color: 'var(--cyan-glow)',
+    textTransform: 'uppercase',
+    letterSpacing: '0.5px',
+    borderBottom: '1px solid rgba(0, 240, 255, 0.15)',
+    paddingBottom: '6px',
+    marginBottom: '4px',
+  },
+  lineupList: {
+    display: 'flex',
+    flexDirection: 'column',
+    gap: '8px',
+    maxHeight: '500px',
+    overflowY: 'auto',
+    paddingRight: '5px',
+  },
+  lineupItem: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    background: 'rgba(255, 255, 255, 0.02)',
+    border: '1px solid rgba(255, 255, 255, 0.04)',
+    borderRadius: '8px',
+    padding: '8px 12px',
+    cursor: 'pointer',
+    transition: 'all 0.2s ease',
+  },
+  lineupItemActive: {
+    borderColor: 'var(--cyan-glow)',
+    background: 'rgba(0, 240, 255, 0.05)',
+    boxShadow: '0 0 10px rgba(0, 240, 255, 0.2)',
+  },
+  lineupItemCompatible: {
+    borderColor: 'var(--success)',
+    background: 'rgba(0, 255, 135, 0.03)',
+  },
+  lineupItemIncompatible: {
+    opacity: 0.4,
   },
 };
 
