@@ -821,28 +821,24 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
   };
 
   // Match Simulation core engine
-  const simulateMatch = (teamA, teamB, isNeutral = false) => {
+  // isUserTeamA / isUserTeamB: flags so the user gets a small on-the-day boost and fairer capping
+  const simulateMatch = (teamA, teamB, isNeutral = false, isUserTeamA = false, isUserTeamB = false) => {
     const rA = teamA.rating + (isNeutral ? 0 : 2); // Home advantage of +2
     const rB = teamB.rating;
     const ratingDiff = rA - rB;
 
-    // Revamped simulation engine:
-    // 1. Calculate performance score with random variance (e.g. form/luck on the day)
-    const variance = 8;
-    const perfA = rA + (Math.random() - 0.5) * variance;
-    const perfB = rB + (Math.random() - 0.5) * variance;
+    // Forgiving simulation engine:
+    // 1. Higher variance means upsets and on-the-day performances are more impactful
+    const variance = 14;
+    // User gets a small +4 performance boost — represents the extra motivation of a real manager
+    const USER_BOOST = 4;
+    const perfA = rA + (Math.random() - 0.5) * variance + (isUserTeamA ? USER_BOOST : 0);
+    const perfB = rB + (Math.random() - 0.5) * variance + (isUserTeamB ? USER_BOOST : 0);
     const perfDiff = perfA - perfB;
 
-    // 2. Map performance difference to expected goals
-    let lambdaA = Math.max(0.1, 1.25 + perfDiff * 0.15);
-    let lambdaB = Math.max(0.1, 1.25 - perfDiff * 0.15);
-
-    // If performance gap is large, severely penalize the expected goals of the weaker team
-    if (perfDiff > 6) {
-      lambdaB = Math.max(0.01, lambdaB - (perfDiff - 6) * 0.08);
-    } else if (perfDiff < -6) {
-      lambdaA = Math.max(0.01, lambdaA - (-perfDiff - 6) * 0.08);
-    }
+    // 2. Softer lambda scaling so expected goals aren't skewed as harshly by rating gaps
+    let lambdaA = Math.max(0.2, 1.3 + perfDiff * 0.10);
+    let lambdaB = Math.max(0.2, 1.3 - perfDiff * 0.10);
 
     const getGoals = (lambda) => {
       let L = Math.exp(-lambda);
@@ -858,25 +854,28 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     let goalsA = getGoals(lambdaA);
     let goalsB = getGoals(lambdaB);
 
-    // 3. Strict capping rules for rating differences to prevent unrealistic outcomes
-    // For moderate rating differences (>= 6)
-    if (ratingDiff >= 6) {
-      if (goalsB > 2) goalsB = 1;
-      else if (goalsB === 2 && Math.random() > 0.3) goalsB = Math.random() > 0.5 ? 1 : 0;
-    } else if (ratingDiff <= -6) {
-      if (goalsA > 2) goalsA = 1;
-      else if (goalsA === 2 && Math.random() > 0.3) goalsA = Math.random() > 0.5 ? 1 : 0;
+    // 3. Softer capping rules — thresholds are higher and caps are less punishing.
+    // When the user is the underdog, skip the hard cap entirely so they always have a chance.
+    const userIsUnderdog = (isUserTeamA && ratingDiff < 0) || (isUserTeamB && ratingDiff > 0);
+
+    // For moderate rating differences (>= 10)
+    if (ratingDiff >= 10) {
+      if (goalsB > 2) goalsB = 2;
+      else if (goalsB === 2 && Math.random() > 0.5) goalsB = 1;
+    } else if (ratingDiff <= -10) {
+      if (goalsA > 2) goalsA = 2;
+      else if (goalsA === 2 && Math.random() > 0.5) goalsA = 1;
     }
 
-    // For large rating differences (>= 12)
-    if (ratingDiff >= 12) {
-      if (goalsB > 1) goalsB = 0;
-      else if (goalsB === 1 && Math.random() > 0.1) goalsB = 0;
-      if (goalsA === 0 && Math.random() > 0.2) goalsA = 1 + Math.floor(Math.random() * 2);
-    } else if (ratingDiff <= -12) {
-      if (goalsA > 1) goalsA = 0;
-      else if (goalsA === 1 && Math.random() > 0.1) goalsA = 0;
-      if (goalsB === 0 && Math.random() > 0.2) goalsB = 1 + Math.floor(Math.random() * 2);
+    // For large rating differences (>= 18) — skip hard cap if user is the underdog
+    if (!userIsUnderdog) {
+      if (ratingDiff >= 18) {
+        if (goalsB > 1) goalsB = 1;
+        else if (goalsB === 1 && Math.random() > 0.35) goalsB = 0;
+      } else if (ratingDiff <= -18) {
+        if (goalsA > 1) goalsA = 1;
+        else if (goalsA === 1 && Math.random() > 0.35) goalsA = 0;
+      }
     }
 
     return { goalsA, goalsB };
@@ -894,7 +893,9 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     const newAssistsMap = { ...tournamentAssists };
 
     paired.forEach(([tA, tB]) => {
-      const { goalsA, goalsB } = simulateMatch(tA, tB, false);
+      const isUserA = tA.isUser || tA.id === 7777;
+      const isUserB = tB.isUser || tB.id === 7777;
+      const { goalsA, goalsB } = simulateMatch(tA, tB, false, isUserA, isUserB);
 
       const goalMinutesA = generateGoalMinutes(goalsA, 90, 0);
       const goalMinutesB = generateGoalMinutes(goalsB, 90, 0);
@@ -1093,7 +1094,9 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     if (isFinal) {
       // Single leg Final
       const pair = knockoutBracket.pairs[0];
-      const { goalsA, goalsB } = simulateMatch(pair.teamA, pair.teamB, true);
+      const isUserA = pair.teamA.isUser || pair.teamA.id === 7777;
+      const isUserB = pair.teamB.isUser || pair.teamB.id === 7777;
+      const { goalsA, goalsB } = simulateMatch(pair.teamA, pair.teamB, true, isUserA, isUserB);
       let penaltyWinner = null;
       let penalties = null;
       if (goalsA === goalsB) {
@@ -1186,7 +1189,9 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
     } else if (isLeg1) {
       // Simulate Leg 1 only!
       const simulatedPairs = knockoutBracket.pairs.map((pair) => {
-        const leg1 = simulateMatch(pair.teamA, pair.teamB, false);
+        const isUserA = pair.teamA.isUser || pair.teamA.id === 7777;
+        const isUserB = pair.teamB.isUser || pair.teamB.id === 7777;
+        const leg1 = simulateMatch(pair.teamA, pair.teamB, false, isUserA, isUserB);
         const goalMinutes1A = generateGoalMinutes(leg1.goalsA, 90, 0);
         const goalMinutes1B = generateGoalMinutes(leg1.goalsB, 90, 0);
 
@@ -1265,7 +1270,9 @@ const Simulator = ({ userSquad, userTeamName, era, onReset }) => {
         const oldMatch = liveMatches.find(m => m.pairId === `${pair.teamA.id}-${pair.teamB.id}`);
 
         // Leg 2 (teamB home, teamA away)
-        const leg2 = simulateMatch(pair.teamB, pair.teamA, false);
+        const isUserA2 = pair.teamB.isUser || pair.teamB.id === 7777;
+        const isUserB2 = pair.teamA.isUser || pair.teamA.id === 7777;
+        const leg2 = simulateMatch(pair.teamB, pair.teamA, false, isUserA2, isUserB2);
         const goalMinutes2A = generateGoalMinutes(leg2.goalsB, 90, 90); // teamA away goals
         const goalMinutes2B = generateGoalMinutes(leg2.goalsA, 90, 90); // teamB home goals
 
